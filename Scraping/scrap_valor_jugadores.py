@@ -97,4 +97,4 @@ for  i in links_jugadores:
     seleccion_argentina.append(scrape_jugadores(i))
 df_seleccion_argentina=pd.DataFrame(seleccion_argentina)
 
-print(df_seleccion_argentina)
+df_seleccion_argentina.to_csv('Data\data_equipo_argentina.csv', index= False)

@@ -13,4 +13,6 @@ matched_table = pd.read_html(r.text, match='Fase')
 
 pd_valor_partido_individual= pd.DataFrame(matched_table[0]).rename(columns={0:'TIPO DE PARTIDO', 1:'CAT 1', 2:'CAT 2', 3: 'CAT 3', 4 :'RESIDENTES'}).drop([0], axis=0)
 pd_valor_abono_equipo= pd.DataFrame(matched_table[1]).rename(columns={0:'TIPO DE PARTIDO', 1:'CAT 1', 2:'CAT 2', 3: 'CAT 3', 4 :'RESIDENTES'}).drop([0], axis=0)
-print(pd_valor_partido_individual)
+
+pd_valor_partido_individual.to_csv('Data\data_entradas_individual.csv', index= False)
+pd_valor_abono_equipo.to_csv('Data\data_entradas_abono_equipo.csv', index= False)

@@ -1,0 +1,24 @@
+Nombre,Altura en cm,Peso en Kg,Pie,Fecha Nac,Edad,Pos Pref,Rendimiento,Valor en Euros,Posicion en Arg,Num Camiseta,Contra_Balon,Regates,Defensa,Entradas,Robos,Agresividad,Anticipacion,Pos_Ataque,Intercep,Vision,Compostura,Centros,Pase_Corto,Pase_Largo,Aceleracion,Resistencia,Fuerza,Equilibrio,Velocidad,Agilidad,Salto
+Leandro Paredes,180,75,Der.,29 de Junio de 1994,28,MCDMC,Medio / Medio,€18.500.000,MCD,5,80,79,None,80,77,89,76,76,75,84,84,79,82,84,65,75,77,73,63,66,65
+Alejandro Gómez,167,68,Der.,15 de Febrero de 1988,34,MCOEI,Alto / Medio,€20.000.000,Sup.,17,85,84,None,34,30,56,80,78,40,85,85,83,83,78,90,71,44,93,83,91,67
+Lautaro Martínez,174,72,Der.,22 de Agosto de 1997,25,DC,Alto / Medio,€79.500.000,DC,22,86,84,None,44,31,90,89,86,45,80,86,58,76,73,86,80,84,89,80,86,89
+Marcos Acuña,172,69,Izq.,28 de Octubre de 1991,30,LI,Alto / Alto,€46.500.000,LI,8,88,87,None,84,85,84,84,81,80,82,87,87,84,78,77,91,80,90,76,83,63
+Lionel Messi,169,67,Izq.,24 de Junio de 1987,35,ED,Bajo / Bajo,ED,35,44,92,93,40,94,96,84,91,90,87,70,68,95,76,91,68,70,86,90,91,93,93
+Ángel Di María,180,69,Izq.,14 de Febrero de 1988,34,ED,Alto / Medio,€20.000.000,EI,11,87,88,None,52,55,73,83,82,42,87,86,85,82,80,80,74,61,75,78,91,70
+Guido Rodríguez,185,80,Der.,11 de Abril de 1995,27,MCD,Medio / Alto,€24.000.000,Sup.,18,75,70,None,84,86,83,75,68,85,71,70,59,81,75,52,76,79,45,50,42,35
+Cristian Romero,185,79,Der.,27 de Abril de 1998,24,DFC,Medio / Alto,€36.500.000,2026,DFD,13,68,59,None,85,86,90,82,43,82,41,80,42,74,64,75,74,82,68,72,67
+Nicolás Otamendi,182,78,Der.,12 de Febrero de 1988,34,DFC,Medio / Alto,€8.500.000,29 de Septiembre de 2020,2023,66,51,None,80,83,90,79,48,84,53,79,52,73,70,60,75,80,58,65,58,90
+Joaquín Correa,189,75,Der.,13 de Agosto de 1994,28,SDDC,Medio / Medio,€23.000.000,Sup.,24,86,87,None,26,37,48,77,78,36,80,73,74,77,74,80,76,74,67,87,83,63
+Lisandro Martínez,178,77,Izq.,18 de Enero de 1998,24,DFCLIMCD,Medio / Alto,€26.000.000,Sup.,16,79,76,None,81,82,84,77,62,82,73,82,75,80,82,74,85,81,79,71,73,91
+Nicolás Tagliafico,172,65,Izq.,31 de Agosto de 1992,30,LI,Medio / Alto,€22.500.000,Sup.,3,76,73,None,80,79,84,81,69,79,69,76,75,76,75,79,86,75,82,80,77,88
+Juan Musso,191,93,Der.,6 de Mayo de 1994,28,POR,Medio / Medio,€18.500.000,Sup.,12,20,16,None,16,14,27,71,19,18,48,67,20,31,24,46,35,70,39,42,32,51
+Gonzalo Montiel,175,70,Der.,1 de Enero de 1997,25,LDCAD,Alto / Medio,€17.500.000,Sup.,2,74,73,None,74,75,87,76,77,78,70,75,74,74,66,84,93,72,75,83,82,80
+Franco Armani,189,88,Der.,16 de Octubre de 1986,35,POR,Medio / Medio,€1.900.000,12 de Enero de 2018,2024,37,16,None,19,13,43,77,17,21,54,53,18,35,29,41,35,81,39,45,37,65
+Ángel Correa,171,70,Der.,9 de Marzo de 1995,27,DCMDSD,Alto / Medio,€39.500.000,Sup.,9,87,87,None,44,53,79,84,86,48,82,77,75,80,67,86,83,70,88,85,90,49
+Julián Álvarez,173,71,Der.,31 de Enero de 2000,22,DCEDEI,Alto / Alto,€17.000.000,Sup.,15,83,82,None,46,53,83,78,82,46,81,82,75,73,74,80,81,70,87,73,87,69
+Rodrigo Javier De Paul,180,70,Der.,24 de Mayo de 1994,28,MC,Alto / Medio,€42.000.000,MVD,7,85,82,None,75,81,76,81,78,79,86,81,78,85,85,80,91,80,80,76,78,68
+Exequiel Palacios,177,67,Der.,5 de Octubre de 1998,24,MCDMCMCO,Alto / Alto,€14.500.000,Sup.,14,79,78,None,76,75,78,70,67,80,78,78,67,82,80,74,83,65,79,60,78,70
+Nahuel Molina,175,70,Der.,6 de Abril de 1998,24,CADMD,Alto / Alto,€15.000.000,LD,4,77,76,None,70,75,74,75,73,72,70,70,79,74,66,84,79,62,75,81,80,75
+Giovani Lo Celso,177,68,Izq.,9 de Abril de 1996,26,MCMCODC,Alto / Medio,€28.000.000,MVI,20,85,85,None,68,73,82,82,75,70,85,83,78,84,83,74,75,69,80,69,81,56
+Emiliano Martínez,195,88,Der.,2 de Septiembre de 1992,30,POR,Medio / Medio,€29.000.000,POR,23,35,13,None,20,20,37,80,12,13,66,60,22,50,59,59,40,70,49,57,49,60
+Paulo Dybala,177,75,Izq.,15 de Noviembre de 1993,28,SDMCO,Alto / Bajo,SDI,41,43,79,82,42,91,79,82,86,79,84,68,60,90,76,88,74,58,84,83,89,89,88

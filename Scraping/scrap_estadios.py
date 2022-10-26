@@ -39,5 +39,4 @@ datos_estadios=[]
 for  i in links_estadios:
     datos_estadios.append(scraper_estadios(i))
 df_estadios=pd.DataFrame(datos_estadios)
-
-print(df_estadios)
+df_estadios.to_csv('Data\data_estadios.csv', index= False)

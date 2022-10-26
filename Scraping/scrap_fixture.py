@@ -28,5 +28,16 @@ pd_semifinales=pd.DataFrame(matched_table[10]).rename(columns={0:'FECHA', 1:'PAR
 pd_tercer_puesto=pd.DataFrame(matched_table[11]).rename(columns={0:'FECHA', 1:'PARTIDOS', 2:'HORA LOCAL', 3: 'SEDE'}).drop([0], axis=0)
 pd_final=pd.DataFrame(matched_table[12]).rename(columns={0:'FECHA', 1:'PARTIDOS', 2:'HORA LOCAL', 3: 'SEDE'}).drop([0], axis=0)
 
-print(pd_grupoA)
-
+pd_grupoA.to_csv('Data\data_fixture_grupoA.csv', index= False)
+pd_grupoB.to_csv('Data\data_fixture_grupoB.csv', index= False)
+pd_grupoC.to_csv('Data\data_fixture_grupoC.csv', index= False)
+pd_grupoD.to_csv('Data\data_fixture_grupoD.csv', index= False)
+pd_grupoE.to_csv('Data\data_fixture_grupoE.csv', index= False)
+pd_grupoF.to_csv('Data\data_fixture_grupoF.csv', index= False)
+pd_grupoG.to_csv('Data\data_fixture_grupoG.csv', index= False)
+pd_grupoH.to_csv('Data\data_fixture_grupoH.csv', index= False)
+pd_octavos.to_csv('Data\data_fixture_octavos.csv', index= False)
+pd_cuartos.to_csv('Data\data_fixture_cuartos.csv', index= False)
+pd_semifinales.to_csv('Data\data_fixture_semifinales.csv', index= False)
+pd_tercer_puesto.to_csv('Data\data_fixture_tercer_puesto.csv', index= False)
+pd_final.to_csv('Data\data_fixture_final.csv', index= False)
