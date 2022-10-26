@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from numpy import s_
 import requests
 import pandas as pd
 from urllib.parse import urljoin
