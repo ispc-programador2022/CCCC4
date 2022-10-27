@@ -1,0 +1,43 @@
+#,Jugadores,Nacido / edad,Altura,Pie,Partidos con la selección,Goles,Debut,Valor mercado en €
+-,Carlos Acevedo Portero,19/04/1996 (27),"1,85m",derecho,4,-,09/12/2021,5000000
+-,Luis Malagón Portero,02/03/1997 (26),"1,82m",derecho,-,-,-,3000000
+-,Guillermo Ochoa Portero,13/07/1985 (37),"1,83m",derecho,129,-,14/12/2005,1500000
+-,Rodolfo Cota Portero,03/07/1987 (35),"1,83m",derecho,8,-,02/06/2017,1500000
+-,Alfredo Talavera Portero,18/09/1982 (40),"1,91m",derecho,38,-,26/03/2011,800000
+-,David Ochoa Portero,16/01/2001 (22),"1,88m",,-,-,-,800000
+-,César Montes Defensa central,24/02/1997 (26),"1,95m",derecho,27,1,14/07/2017,7000000
+-,Johan Vásquez Defensa central,22/10/1998 (24),"1,84m",izquierdo,6,-,03/10/2019,4000000
+-,Israel Reyes Defensa central,23/05/2000 (23),"1,79m",derecho,3,1,09/12/2021,3500000
+-,Néstor Araújo Defensa central,29/08/1991 (31),"1,88m",derecho,60,3,05/07/2011,3000000
+-,Héctor Moreno Defensa central,17/01/1988 (35),"1,84m",izquierdo,124,5,17/10/2007,1500000
+-,Julio Domínguez Defensa central,08/11/1987 (35),"1,77m",derecho,24,-,23/08/2007,1200000
+3,Jesús Angulo Lateral izquierdo,30/01/1998 (25),"1,78m",izquierdo,11,-,08/09/2018,7000000
+-,Érick Aguirre Lateral izquierdo,23/02/1997 (26),"1,71m",derecho,13,-,12/09/2018,5000000
+-,Gerardo Arteaga Lateral izquierdo,07/09/1998 (24),"1,75m",izquierdo,16,-,12/09/2018,4000000
+23,Jesús Gallardo Lateral izquierdo,15/08/1994 (28),"1,76m",izquierdo,76,-,09/10/2016,3000000
+-,Luis Reyes Lateral izquierdo,03/04/1991 (32),"1,81m",izquierdo,9,-,08/02/2017,2500000
+2,Kevin Álvarez Lateral derecho,15/01/1999 (24),"1,76m",derecho,5,-,04/07/2021,6000000
+-,Julián Araujo Lateral derecho,13/08/2001 (21),"1,75m",derecho,3,-,09/12/2021,5000000
+-,Emilio Lara Lateral derecho,18/05/2002 (21),"1,83m",derecho,1,-,01/09/2022,1500000
+-,Edson Álvarez Pivote,24/10/1997 (25),"1,87m",derecho,58,2,08/02/2017,30000000
+18,Luis Chávez Pivote,15/01/1996 (27),"1,78m",izquierdo,5,-,28/04/2022,6000000
+-,Erik Lira Pivote,08/05/2000 (23),"1,72m",derecho,3,-,28/10/2021,3500000
+-,Carlos Rodríguez Mediocentro,03/01/1997 (26),"1,71m",derecho,33,-,23/03/2019,8000000
+6,Érick Sánchez Mediocentro,27/09/1999 (23),"1,67m",derecho,6,1,15/07/2021,8000000
+-,Érick Gutiérrez Mediocentro,15/06/1995 (28),"1,77m",izquierdo,33,1,12/10/2016,7000000
+7,Luis Romo Mediocentro,05/06/1995 (28),"1,84m",derecho,25,1,20/11/2019,7000000
+16,Fernando Beltrán Mediocentro,08/05/1998 (25),"1,68m",derecho,9,-,01/10/2020,5500000
+-,Orbelín Pineda Mediocentro,24/03/1996 (27),"1,69m",derecho,48,6,07/09/2016,4000000
+-,Andrés Guardado Mediocentro,28/09/1986 (36),"1,69m",izquierdo,177,28,14/12/2005,1500000
+-,Sebastián Córdova Mediocentro ofensivo,12/06/1997 (26),"1,74m",ambidiestro,14,3,03/10/2019,5000000
+-,Rodolfo Pizarro Mediocentro ofensivo,15/02/1994 (29),"1,75m",derecho,38,5,30/01/2014,4000000
+-,Marcelo Flores Mediocentro ofensivo,01/10/2003 (19),"1,64m",derecho,3,-,09/12/2021,1500000
+-,Alexis Vega Extremo izquierdo,25/11/1997 (25),"1,73m",derecho,20,3,27/03/2019,8000000
+22,Hirving Lozano Extremo derecho,30/07/1995 (27),"1,75m",derecho,59,16,11/02/2016,30000000
+-,Roberto Alvarado Extremo derecho,07/09/1998 (24),"1,76m",izquierdo,30,4,08/09/2018,5000000
+22,Uriel Antuna Extremo derecho,21/08/1997 (25),"1,74m",derecho,33,9,06/06/2019,4000000
+-,Diego Lainez Extremo derecho,09/06/2000 (23),"1,68m",izquierdo,20,3,08/09/2018,2500000
+21,Henry Martín Delantero centro,18/11/1992 (30),"1,77m",derecho,23,6,05/09/2015,4500000
+9,Santiago Giménez Delantero centro,18/04/2001 (22),"1,83m",izquierdo,8,2,28/10/2021,4000000
+-,Eduardo Aguirre Delantero centro,03/08/1998 (24),"1,76m",derecho,3,-,28/10/2021,2500000
+-,Ángel Zaldívar Delantero centro,08/02/1994 (29),"1,78m",izquierdo,6,-,07/09/2016,1500000
