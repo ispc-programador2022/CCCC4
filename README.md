@@ -9,6 +9,15 @@
 - [Cordoba Marcelo Gustavo](https://github.com/MarceloGustavoCordoba)
 - [Cuestas Natalia Noemi](https://github.com/nataliacuestas20)               
 
+# Tema a desarrolar:
+## ⚽⚽⚽Mundial Qatar 20222⚽⚽⚽
+![image](https://www.jumpdesign.co.uk/wp-content/uploads/2021/02/BANNER-LOGO.jpg)
+<br></br>
+## Librerias Utilizadas
+
+### -[bs4 BeatifulSoup](https://pypi.org/project/beautifulsoup4/)
+### -[Requests](https://pypi.org/project/requests/)
+### -[Pandas](https://pypi.org/project/pandas/)
 
 <br></br>
 # Consignas
