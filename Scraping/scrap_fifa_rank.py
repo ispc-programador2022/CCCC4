@@ -1,15 +1,20 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+#Se importaron las librerias a utilizar
 
-
+#Se define URL
 url = "https://www.transfermarkt.com.ar/statistik/weltrangliste"
+#Se definen Headers para realizar el request de la url, en algunas paginas es necesario
 headers = {'User-Agent':'Mozilla/5.0'}
 response = requests.get(url, headers=headers)
 soup = BeautifulSoup(response.text, 'lxml')
+#A traves de pandas ubicamos las tablas que contenga la pagina web
 all_tables = pd.read_html(response.content, encoding = 'utf8')
 matched_table = pd.read_html(response.text, match='Jugadores')
+#Creamos un dataframe filtrando la tabla que contengan la informacion que necesitamos
 data=pd.DataFrame(all_tables[1])
+#se elimina la columna que no queremos obtener
 data = data.drop(columns = ['Valor total', 'ø-edad'])
 
 url1 = "https://www.transfermarkt.com.ar/statistik/weltrangliste?page=2"
@@ -83,7 +88,7 @@ soup9= BeautifulSoup(response9.text, 'lxml')
 all_tables9 = pd.read_html(response9.content, encoding = 'utf8')
 data9=pd.DataFrame(all_tables9[1])
 data9 = data9.drop(columns = ['Valor total', 'ø-edad'])
-
+#unimos los dataframe en un solo df
 result = pd.concat([data, data1, data2, data3, data4, data5, data6, data7, data8, data9], ignore_index=True, sort=False)
-
+#exportamos a csv
 result.to_csv('Data\Fifa Ranking\Fifa_Rank.csv', index=False)

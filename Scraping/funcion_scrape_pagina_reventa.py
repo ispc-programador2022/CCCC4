@@ -2,6 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 
 
+#funcion para obtener datos de cada una url
+#recibe una url, crea una lista a partir de elementos que le indiquemos obtener y la retorna
+#realizamos una condicion para el caso de las paginas que no contengan todas las cotegorias
+
 def scrap_reventa_entrada(url_web):
     content_reventa={}
     url= url_web

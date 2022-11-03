@@ -13,7 +13,7 @@ all_tables = pd.read_html(r.content, encoding = 'utf8')
 #Definimos una variable para filtrar las tablas que nos interesan
 matched_table = pd.read_html(r.text, match='Estadio')
 #Todos los partidos se muestran en hora local. En España es -1, en Argentina y Chile -6, en Colombia -7 y en México -8.
-#creamos los dataframes
+#creamos los dataframes renomrando las columnas
 pd_grupoA=pd.DataFrame(matched_table[0]).rename(columns={0:'FECHA', 1:'PARTIDOS', 2:'HORA LOCAL', 3: 'SEDE'}).drop([0], axis=0)
 pd_grupoB=pd.DataFrame(matched_table[1]).rename(columns={0:'FECHA', 1:'PARTIDOS', 2:'HORA LOCAL', 3: 'SEDE'}).drop([0], axis=0)
 pd_grupoC=pd.DataFrame(matched_table[2]).rename(columns={0:'FECHA', 1:'PARTIDOS', 2:'HORA LOCAL', 3: 'SEDE'}).drop([0], axis=0)
@@ -28,6 +28,7 @@ pd_semifinales=pd.DataFrame(matched_table[10]).rename(columns={0:'FECHA', 1:'PAR
 pd_tercer_puesto=pd.DataFrame(matched_table[11]).rename(columns={0:'FECHA', 1:'PARTIDOS', 2:'HORA LOCAL', 3: 'SEDE'}).drop([0], axis=0)
 pd_final=pd.DataFrame(matched_table[12]).rename(columns={0:'FECHA', 1:'PARTIDOS', 2:'HORA LOCAL', 3: 'SEDE'}).drop([0], axis=0)
 
+#exportamos a csv
 pd_grupoA.to_csv('Data\data_fixture_grupoA.csv', index= False)
 pd_grupoB.to_csv('Data\data_fixture_grupoB.csv', index= False)
 pd_grupoC.to_csv('Data\data_fixture_grupoC.csv', index= False)

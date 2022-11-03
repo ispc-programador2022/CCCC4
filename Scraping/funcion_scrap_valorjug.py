@@ -2,6 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
+#funcion para obtener datos de cada una url
+#recibe una url, crea una lista a partir de elementos que le indiquemos obtener y la retorna
+
+
 def Equipos_Transfermarkt(url_web):
      url=url_web
      headers = {'User-Agent':'Mozilla/5.0'}
