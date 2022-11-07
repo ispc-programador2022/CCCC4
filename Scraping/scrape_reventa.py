@@ -11,4 +11,4 @@ for v in range(55):
 #creamos el df
 df_Reventa=pd.DataFrame(data)
 #exportamos a csv
-df_Reventa.to_csv('Data\Entradas\Entradas_reventa2.csv', index=False)
+df_Reventa.to_csv('Data\Entradas\Entradas_reventa2.csv', index=False, encoding="utf-8")
