@@ -35,7 +35,7 @@ def scraper_estadios(url):
     coordenadas=coor[1]
     content_estadios['Coordenadas']=coordenadas
     capa=li[3].split(":")
-    capacidad=capa[1]
+    capacidad=capa[1].replace("espectadores", "").replace(".", "")
     content_estadios['Capacidad']=capacidad
     return content_estadios
 #iteramos en todos los links y le aplicamos la funcion scrap
@@ -46,5 +46,5 @@ for  i in links_estadios:
 #creamos el dataframe a partir de los datos obtenidos
 df_estadios=pd.DataFrame(datos_estadios)
 #exportamos a csv
-df_estadios.to_csv('Data\data_estadios.csv', index= False)
+df_estadios.to_csv('Data\Estadios\data_estadios.csv', index= False)
 
