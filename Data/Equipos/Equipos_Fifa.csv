@@ -1,0 +1,1031 @@
+#,Jugadores,Posicion,Edad,Nacido,Altura,Pie,Partidos con la selección,Goles,Debut,Valor mercado en €,Pais
+23,Emiliano Martínez,Portero,30,02/09/1992,"1,95",derecho,18.0,-,04/06/2021,25000000,Argentina
+12,Gerónimo Rulli,Portero,31,20/05/1992,"1,89",derecho,4.0,-,08/09/2018,10000000,Argentina
+1,Franco Armani,Portero,36,16/10/1986,"1,89",derecho,18.0,-,26/06/2018,3200000,Argentina
+13,Cristian Romero,Defensa central,25,27/04/1998,"1,85",derecho,12.0,1,04/06/2021,55000000,Argentina
+16,Lisandro Martínez,Defensa central,25,18/01/1998,"1,75",izquierdo,9.0,-,22/03/2019,50000000,Argentina
+-,Facundo Medina,Defensa central,24,28/05/1999,"1,84",izquierdo,2.0,-,13/10/2020,15000000,Argentina
+-,Nehuén Pérez,Defensa central,23,24/06/2000,"1,84",derecho,1.0,-,24/09/2022,8000000,Argentina
+6,Germán Pezzella,Defensa central,32,27/06/1991,"1,87",derecho,31.0,2,11/11/2017,5000000,Argentina
+19,Nicolás Otamendi,Defensa central,35,12/02/1988,"1,83",derecho,92.0,4,20/05/2009,3000000,Argentina
+3,Nicolás Tagliafico,Lateral izquierdo,30,31/08/1992,"1,72",izquierdo,42.0,-,09/06/2017,9000000,Argentina
+26,Nahuel Molina,Lateral derecho,25,06/04/1998,"1,75",derecho,19.0,-,03/06/2021,18000000,Argentina
+4,Gonzalo Montiel,Lateral derecho,26,01/01/1997,"1,76",derecho,18.0,-,22/03/2019,12000000,Argentina
+18,Guido Rodríguez,Pivote,29,12/04/1994,"1,85",derecho,25.0,1,09/06/2017,28000000,Argentina
+5,Leandro Paredes,Pivote,29,29/06/1994,"1,80",derecho,45.0,4,13/06/2017,15000000,Argentina
+7,Rodrigo de Paul,Mediocentro,29,24/05/1994,"1,80",derecho,43.0,2,11/10/2018,35000000,Argentina
+24,Enzo Fernández,Mediocentro,22,17/01/2001,"1,78",derecho,2.0,-,24/09/2022,35000000,Argentina
+15,Alexis Mac Allister,Mediocentro,24,24/12/1998,"1,74",derecho,7.0,-,06/09/2019,32000000,Argentina
+-,Giovani Lo Celso,Mediocentro,27,09/04/1996,"1,77",izquierdo,41.0,2,11/11/2017,22000000,Argentina
+-,Thiago Almada,Mediocentro ofensivo,22,26/04/2001,"1,71",derecho,1.0,-,24/09/2022,15000000,Argentina
+20,Papu Gómez,Extremo izquierdo,35,15/02/1988,"1,67",derecho,15.0,3,13/06/2017,4000000,Argentina
+-,Ángel Correa,Extremo derecho,28,09/03/1995,"1,71",derecho,22.0,3,05/09/2015,40000000,Argentina
+11,Ángel Di María,Extremo derecho,35,14/02/1988,"1,80",izquierdo,123.0,25,06/09/2008,10000000,Argentina
+10,Lionel Messi,Mediapunta,36,24/06/1987,"1,70",izquierdo,164.0,90,17/08/2005,50000000,Argentina
+17,Joaquín Correa,Mediapunta,28,13/08/1994,"1,88",derecho,18.0,3,09/06/2017,20000000,Argentina
+22,Lautaro Martínez,Delantero centro,25,22/08/1997,"1,74",derecho,40.0,21,27/03/2018,75000000,Argentina
+9,Julián Álvarez,Delantero centro,23,31/01/2000,"1,70",derecho,11.0,2,04/06/2021,32000000,Argentina
+1,Alisson,Portero,30,02/10/1992,"1,91",derecho,57.0,-,14/10/2015,50000000,Brasil
+23,Ederson,Portero,29,17/08/1993,"1,88",izquierdo,18.0,-,11/10/2017,45000000,Brasil
+12,Weverton,Portero,35,13/12/1987,"1,89",derecho,11.0,-,26/01/2017,4000000,Brasil
+4,Marquinhos,Defensa central,29,14/05/1994,"1,83",derecho,71.0,5,17/11/2013,70000000,Brasil
+14,Éder Militão,Defensa central,25,18/01/1998,"1,86",derecho,23.0,1,12/09/2018,60000000,Brasil
+22,Bremer,Defensa central,26,18/03/1997,"1,88",derecho,1.0,-,23/09/2022,40000000,Brasil
+-,Roger Ibañez,Defensa central,24,23/11/1998,"1,86",derecho,1.0,-,27/09/2022,27000000,Brasil
+3,Thiago Silva,Defensa central,38,22/09/1984,"1,81",derecho,109.0,7,12/10/2008,2500000,Brasil
+-,Renan Lodi,Lateral izquierdo,25,08/04/1998,"1,73",izquierdo,16.0,-,10/10/2019,20000000,Brasil
+16,Alex Telles,Lateral izquierdo,30,15/12/1992,"1,81",izquierdo,8.0,-,23/03/2019,14000000,Brasil
+2,Danilo,Lateral derecho,31,15/07/1991,"1,84",derecho,46.0,1,15/09/2011,12000000,Brasil
+17,Bruno Guimarães,Pivote,25,16/11/1997,"1,82",derecho,8.0,1,18/11/2020,60000000,Brasil
+15,Fabinho,Pivote,29,23/10/1993,"1,88",derecho,28.0,-,07/06/2015,55000000,Brasil
+5,Casemiro,Pivote,31,23/02/1992,"1,85",derecho,65.0,5,15/09/2011,50000000,Brasil
+8,Fred,Mediocentro,30,05/03/1993,"1,69",izquierdo,28.0,-,12/11/2014,20000000,Brasil
+26,Éverton Ribeiro,Mediocentro,34,10/04/1989,"1,74",izquierdo,22.0,3,06/09/2014,4500000,Brasil
+7,Lucas Paquetá,Mediocentro ofensivo,25,27/08/1997,"1,80",izquierdo,35.0,7,08/09/2018,45000000,Brasil
+20,Vinicius Junior,Extremo izquierdo,22,12/07/2000,"1,76",derecho,16.0,1,11/09/2019,120000000,Brasil
+10,Neymar,Extremo izquierdo,31,05/02/1992,"1,75",derecho,121.0,75,10/08/2010,75000000,Brasil
+21,Rodrygo,Extremo derecho,22,09/01/2001,"1,74",derecho,7.0,1,15/11/2019,80000000,Brasil
+18,Antony,Extremo derecho,23,24/02/2000,"1,72",izquierdo,11.0,2,08/10/2021,75000000,Brasil
+11,Raphinha,Extremo derecho,26,14/12/1996,"1,76",izquierdo,11.0,5,08/10/2021,50000000,Brasil
+9,Richarlison,Delantero centro,26,10/05/1997,"1,84",derecho,38.0,17,08/09/2018,50000000,Brasil
+-,Roberto Firmino,Delantero centro,31,02/10/1991,"1,81",derecho,55.0,17,12/11/2014,28000000,Brasil
+-,Matheus Cunha,Delantero centro,24,27/05/1999,"1,84",derecho,8.0,-,03/09/2021,20000000,Brasil
+25,Pedro,Delantero centro,26,20/06/1997,"1,85",derecho,2.0,1,14/11/2020,12000000,Brasil
+1,Thibaut Courtois,Portero,31,11/05/1992,"2,00",izquierdo,96.0,-,15/11/2011,60000000,Bélgica
+-,Matz Sels,Portero,31,26/02/1992,"1,88",derecho,2.0,-,03/06/2021,8000000,Bélgica
+13,Koen Casteels,Portero,31,25/06/1992,"1,97",izquierdo,4.0,-,08/09/2020,8000000,Bélgica
+12,Simon Mignolet,Portero,35,06/03/1988,"1,93",derecho,35.0,-,25/03/2011,5000000,Bélgica
+3,Arthur Theate,Defensa central,23,25/05/2000,"1,85",izquierdo,3.0,-,16/11/2021,20000000,Bélgica
+22,Wout Faes,Defensa central,25,03/04/1998,"1,87",derecho,1.0,-,08/06/2022,20000000,Bélgica
+4,Zeno Debast,Defensa central,19,24/10/2003,"1,89",derecho,2.0,-,22/09/2022,8000000,Bélgica
+-,Brandon Mechele,Defensa central,30,28/01/1993,"1,90",derecho,3.0,-,13/10/2019,6500000,Bélgica
+2,Toby Alderweireld,Defensa central,34,02/03/1989,"1,87",derecho,123.0,5,29/05/2009,4000000,Bélgica
+-,Dedryck Boyata,Defensa central,32,28/11/1990,"1,88",derecho,31.0,-,12/10/2010,3000000,Bélgica
+5,Jan Vertonghen,Defensa central,36,24/04/1987,"1,89",izquierdo,141.0,9,02/06/2007,1800000,Bélgica
+21,Timothy Castagne,Lateral derecho,27,05/12/1995,"1,85",derecho,25.0,2,07/09/2018,28000000,Bélgica
+15,Thomas Meunier,Lateral derecho,31,12/09/1991,"1,91",derecho,58.0,8,14/11/2013,6500000,Bélgica
+-,Thomas Foket,Lateral derecho,28,25/09/1994,"1,77",derecho,10.0,1,09/11/2016,4500000,Bélgica
+18,Amadou Onana,Pivote,21,16/08/2001,"1,95",derecho,2.0,-,03/06/2022,35000000,Bélgica
+19,Leander Dendoncker,Pivote,28,15/04/1995,"1,88",derecho,29.0,1,07/06/2015,22000000,Bélgica
+6,Axel Witsel,Pivote,34,12/01/1989,"1,86",derecho,126.0,12,26/03/2008,5000000,Bélgica
+8,Youri Tielemans,Mediocentro,26,07/05/1997,"1,76",derecho,54.0,5,09/11/2016,40000000,Bélgica
+-,Dennis Praet,Mediocentro,29,14/05/1994,"1,81",derecho,15.0,2,12/11/2014,10000000,Bélgica
+7,Kevin De Bruyne,Mediocentro ofensivo,32,28/06/1991,"1,81",derecho,93.0,25,11/08/2010,80000000,Bélgica
+24,Charles De Ketelaere,Mediocentro ofensivo,22,10/03/2001,"1,92",izquierdo,10.0,1,11/11/2020,30000000,Bélgica
+20,Hans Vanaken,Mediocentro ofensivo,30,24/08/1992,"1,95",derecho,22.0,5,07/09/2018,15000000,Bélgica
+11,Yannick Carrasco,Extremo izquierdo,29,04/09/1993,"1,81",derecho,59.0,8,28/03/2015,30000000,Bélgica
+17,Leandro Trossard,Extremo izquierdo,28,04/12/1994,"1,72",derecho,21.0,5,05/09/2020,30000000,Bélgica
+16,Thorgan Hazard,Extremo izquierdo,30,29/03/1993,"1,75",derecho,45.0,9,29/05/2013,9000000,Bélgica
+10,Eden Hazard,Extremo izquierdo,32,07/01/1991,"1,75",derecho,122.0,33,19/11/2008,7500000,Bélgica
+-,Alexis Saelemaekers,Extremo derecho,24,27/06/1999,"1,80",derecho,9.0,1,08/10/2020,15000000,Bélgica
+-,Dodi Lukébakio,Extremo derecho,25,24/09/1997,"1,87",izquierdo,5.0,-,11/11/2020,12000000,Bélgica
+-,Adnan Januzaj,Extremo derecho,28,05/02/1995,"1,86",izquierdo,15.0,1,26/05/2014,7000000,Bélgica
+9,Romelu Lukaku,Delantero centro,30,13/05/1993,"1,91",izquierdo,102.0,68,03/03/2010,55000000,Bélgica
+26,Loïs Openda,Delantero centro,23,16/02/2000,"1,77",derecho,4.0,1,08/06/2022,12000000,Bélgica
+23,Michy Batshuayi,Delantero centro,29,02/10/1993,"1,85",derecho,47.0,26,28/03/2015,10000000,Bélgica
+14,Dries Mertens,Delantero centro,36,06/05/1987,"1,69",derecho,106.0,21,09/02/2011,3400000,Bélgica
+-,Mike Maignan,Portero,27,03/07/1995,"1,91",derecho,5,-,07/10/2020,35000000,Francia
+-,Alban Lafont,Portero,24,23/01/1999,"1,96",derecho,-,-,-,16000000,Francia
+23,Alphonse Areola,Portero,30,27/02/1993,"1,95",derecho,5,-,06/09/2018,8000000,Francia
+1,Hugo Lloris,Portero,36,26/12/1986,"1,88",izquierdo,139,-,19/11/2008,7000000,Francia
+16,Steve Mandanda,Portero,38,28/03/1985,"1,87",derecho,34,-,27/05/2008,1500000,Francia
+5,Jules Koundé,Defensa central,24,12/11/1998,"1,78",derecho,12,-,02/06/2021,60000000,Francia
+13,Dayot Upamecano,Defensa central,24,27/10/1998,"1,86",derecho,7,1,05/09/2020,50000000,Francia
+21,Lucas Hernández,Defensa central,27,14/02/1996,"1,84",izquierdo,32,-,23/03/2018,50000000,Francia
+24,William Saliba,Defensa central,22,24/03/2001,"1,92",derecho,7,-,25/03/2022,50000000,Francia
+-,Benoît Badiashile,Defensa central,22,26/03/2001,"1,94",izquierdo,2,-,22/09/2022,40000000,Francia
+3,Presnel Kimpembe,Defensa central,27,13/08/1995,"1,83",izquierdo,28,-,27/03/2018,40000000,Francia
+4,Raphaël Varane,Defensa central,30,25/04/1993,"1,91",derecho,87,5,22/03/2013,40000000,Francia
+15,Ibrahima Konaté,Defensa central,24,25/05/1999,"1,94",derecho,2,-,10/06/2022,35000000,Francia
+22,Theo Hernández,Lateral izquierdo,25,06/10/1997,"1,84",izquierdo,7,1,07/09/2021,55000000,Francia
+-,Ferland Mendy,Lateral izquierdo,28,08/06/1995,"1,80",izquierdo,9,-,20/11/2018,40000000,Francia
+-,Lucas Digne,Lateral izquierdo,29,20/07/1993,"1,78",izquierdo,46,-,05/03/2014,22000000,Francia
+-,Adrien Truffert,Lateral izquierdo,21,20/11/2001,"1,76",izquierdo,1,-,25/09/2022,15000000,Francia
+2,Benjamin Pavard,Lateral derecho,27,28/03/1996,"1,86",derecho,46,2,10/11/2017,35000000,Francia
+8,Aurélien Tchouameni,Pivote,23,27/01/2000,"1,88",derecho,14,1,01/09/2021,80000000,Francia
+-,N'Golo Kanté,Pivote,32,29/03/1991,"1,68",derecho,53,2,25/03/2016,30000000,Francia
+-,Boubacar Kamara,Pivote,23,23/11/1999,"1,84",derecho,3,-,06/06/2022,25000000,Francia
+6,Eduardo Camavinga,Mediocentro,20,10/11/2002,"1,82",izquierdo,4,1,08/09/2020,50000000,Francia
+18,Mattéo Guendouzi,Mediocentro,24,14/04/1999,"1,85",derecho,6,1,16/11/2021,25000000,Francia
+25,Youssouf Fofana,Mediocentro,24,10/01/1999,"1,85",derecho,2,-,22/09/2022,25000000,Francia
+14,Adrien Rabiot,Mediocentro,28,03/04/1995,"1,88",izquierdo,29,2,15/11/2016,18000000,Francia
+17,Jordan Veretout,Mediocentro,30,01/03/1993,"1,77",derecho,5,-,01/09/2021,14000000,Francia
+-,Jonathan Clauss,Interior derecho,30,25/09/1992,"1,78",derecho,6,-,25/03/2022,15000000,Francia
+-,Moussa Diaby,Extremo izquierdo,23,07/07/1999,"1,70",izquierdo,8,-,01/09/2021,50000000,Francia
+11,Ousmane Dembélé,Extremo derecho,26,15/05/1997,"1,78",ambidiestro,28,4,01/09/2016,60000000,Francia
+20,Kingsley Coman,Extremo derecho,27,13/06/1996,"1,80",derecho,40,5,13/11/2015,60000000,Francia
+12,Christopher Nkunku,Mediapunta,25,14/11/1997,"1,75",derecho,8,-,25/03/2022,80000000,Francia
+7,Antoine Griezmann,Mediapunta,32,21/03/1991,"1,76",izquierdo,110,42,05/03/2014,25000000,Francia
+10,Kylian Mbappé,Delantero centro,24,20/12/1998,"1,78",derecho,59,28,25/03/2017,160000000,Francia
+19,Karim Benzema,Delantero centro,35,19/12/1987,"1,85",derecho,97,37,28/03/2007,35000000,Francia
+-,Randal Kolo Muani,Delantero centro,24,05/12/1998,"1,87",derecho,2,-,22/09/2022,30000000,Francia
+-,Wissam Ben Yedder,Delantero centro,32,12/08/1990,"1,70",ambidiestro,19,3,23/03/2018,20000000,Francia
+9,Olivier Giroud,Delantero centro,36,30/09/1986,"1,92",izquierdo,114,49,11/11/2011,4000000,Francia
+13,Aaron Ramsdale,Portero,25,14/05/1998,"1,90",derecho,3,-,15/11/2021,30000000,Inglaterra
+1,Jordan Pickford,Portero,29,07/03/1994,"1,85",izquierdo,45,-,10/11/2017,28000000,Inglaterra
+-,Dean Henderson,Portero,26,12/03/1997,"1,88",derecho,1,-,12/11/2020,22000000,Inglaterra
+22,Nick Pope,Portero,31,19/04/1992,"1,98",derecho,10,-,07/06/2018,18000000,Inglaterra
+-,Fikayo Tomori,Defensa central,25,19/12/1997,"1,85",derecho,3,-,17/11/2019,50000000,Inglaterra
+-,Marc Guéhi,Defensa central,22,13/07/2000,"1,82",derecho,3,-,26/03/2022,35000000,Inglaterra
+4,John Stones,Defensa central,29,28/05/1994,"1,88",derecho,59,3,30/05/2014,30000000,Inglaterra
+5,Eric Dier,Defensa central,29,15/01/1994,"1,88",derecho,47,3,13/11/2015,30000000,Inglaterra
+6,Harry Maguire,Defensa central,30,05/03/1993,"1,94",derecho,48,7,08/10/2017,30000000,Inglaterra
+16,Conor Coady,Defensa central,30,25/02/1993,"1,85",derecho,10,1,08/09/2020,18000000,Inglaterra
+-,Ben Chilwell,Lateral izquierdo,26,21/12/1996,"1,80",izquierdo,17,1,11/09/2018,38000000,Inglaterra
+3,Luke Shaw,Lateral izquierdo,27,12/07/1995,"1,78",izquierdo,23,3,05/03/2014,28000000,Inglaterra
+-,Reece James,Lateral derecho,23,08/12/1999,"1,80",derecho,15,-,08/10/2020,70000000,Inglaterra
+26,Trent Alexander-Arnold,Lateral derecho,24,07/10/1998,"1,80",derecho,17,1,07/06/2018,70000000,Inglaterra
+-,James Justin,Lateral derecho,25,23/02/1998,"1,83",derecho,1,-,04/06/2022,25000000,Inglaterra
+2,Kyle Walker,Lateral derecho,33,28/05/1990,"1,83",derecho,70,-,12/11/2011,15000000,Inglaterra
+12,Kieran Trippier,Lateral derecho,32,19/09/1990,"1,73",derecho,37,1,13/06/2017,13000000,Inglaterra
+7,Declan Rice,Pivote,24,14/01/1999,"1,88",derecho,34,2,22/03/2019,80000000,Inglaterra
+23,Kalvin Phillips,Pivote,27,02/12/1995,"1,79",derecho,23,-,08/09/2020,45000000,Inglaterra
+21,Phil Foden,Mediocentro,23,28/05/2000,"1,71",izquierdo,18,2,05/09/2020,110000000,Inglaterra
+8,Jude Bellingham,Mediocentro,20,29/06/2003,"1,86",derecho,17,-,12/11/2020,100000000,Inglaterra
+-,James Ward-Prowse,Mediocentro,28,01/11/1994,"1,77",derecho,11,2,22/03/2017,35000000,Inglaterra
+24,Conor Gallagher,Mediocentro,23,06/02/2000,"1,82",derecho,4,-,15/11/2021,32000000,Inglaterra
+14,Jordan Henderson,Mediocentro,33,17/06/1990,"1,87",derecho,70,2,17/11/2010,15000000,Inglaterra
+18,Bukayo Saka,Interior derecho,21,05/09/2001,"1,78",izquierdo,20,4,08/10/2020,90000000,Inglaterra
+19,Mason Mount,Mediocentro ofensivo,24,10/01/1999,"1,81",derecho,32,5,07/09/2019,75000000,Inglaterra
+10,Raheem Sterling,Extremo izquierdo,28,08/12/1994,"1,70",derecho,79,19,14/11/2012,70000000,Inglaterra
+17,Jack Grealish,Extremo izquierdo,27,10/09/1995,"1,80",derecho,24,1,08/09/2020,70000000,Inglaterra
+-,Jarrod Bowen,Extremo derecho,26,20/12/1996,"1,82",izquierdo,4,-,04/06/2022,42000000,Inglaterra
+9,Harry Kane,Delantero centro,29,28/07/1993,"1,88",derecho,75,51,27/03/2015,90000000,Inglaterra
+-,Ivan Toney,Delantero centro,27,16/03/1996,"1,85",derecho,-,-,-,45000000,Inglaterra
+-,Tammy Abraham,Delantero centro,25,02/10/1997,"1,94",derecho,11,3,10/11/2017,45000000,Inglaterra
+22,Diogo Costa,Portero,23,19/09/1999,"1,86",derecho,7,-,09/10/2021,35000000,Portugal
+12,José Sá,Portero,30,17/01/1993,"1,92",derecho,-,-,-,18000000,Portugal
+-,Rui Silva,Portero,29,07/02/1994,"1,91",izquierdo,1,-,09/06/2021,15000000,Portugal
+1,Rui Patrício,Portero,35,15/02/1988,"1,90",izquierdo,105,-,17/11/2010,5000000,Portugal
+4,Rúben Dias,Defensa central,26,14/05/1997,"1,87",derecho,39,2,28/05/2018,75000000,Portugal
+-,David Carmo,Defensa central,23,19/07/1999,"1,96",izquierdo,-,-,-,20000000,Portugal
+-,Tiago Djaló,Defensa central,23,09/04/2000,"1,90",derecho,-,-,-,12000000,Portugal
+-,Domingos Duarte,Defensa central,28,10/03/1995,"1,92",derecho,3,-,11/11/2020,8000000,Portugal
+3,Pepe,Defensa central,40,26/02/1983,"1,87",derecho,128,7,21/11/2007,1000000,Portugal
+25,Nuno Mendes,Lateral izquierdo,21,19/06/2002,"1,83",izquierdo,16,-,24/03/2021,60000000,Portugal
+5,Raphaël Guerreiro,Lateral izquierdo,29,22/12/1993,"1,70",izquierdo,56,3,14/11/2014,20000000,Portugal
+-,Mário Rui,Lateral izquierdo,32,27/05/1991,"1,68",izquierdo,12,-,26/03/2018,8000000,Portugal
+20,João Cancelo,Lateral derecho,29,27/05/1994,"1,82",derecho,37,7,01/09/2016,70000000,Portugal
+2,Diogo Dalot,Lateral derecho,24,18/03/1999,"1,83",derecho,6,2,23/06/2021,32000000,Portugal
+18,Rúben Neves,Pivote,26,13/03/1997,"1,80",derecho,32,-,14/11/2015,40000000,Portugal
+6,João Palhinha,Pivote,27,09/07/1995,"1,90",derecho,15,2,24/03/2021,28000000,Portugal
+14,William Carvalho,Pivote,31,07/04/1992,"1,87",derecho,75,5,19/11/2013,16000000,Portugal
+13,Danilo Pereira,Pivote,31,09/09/1991,"1,88",derecho,63,2,31/03/2015,12000000,Portugal
+11,Matheus Nunes,Mediocentro,24,27/08/1998,"1,83",derecho,9,1,09/10/2021,45000000,Portugal
+24,Vitinha,Mediocentro,23,13/02/2000,"1,72",derecho,4,-,29/03/2022,45000000,Portugal
+17,João Mário,Mediocentro,30,19/01/1993,"1,79",derecho,52,2,11/10/2014,12000000,Portugal
+-,João Moutinho,Mediocentro,36,08/09/1986,"1,70",derecho,146,7,17/08/2005,2000000,Portugal
+16,Otávio,Interior derecho,28,09/02/1995,"1,72",derecho,7,2,04/09/2021,30000000,Portugal
+10,Bernardo Silva,Mediocentro ofensivo,28,10/08/1994,"1,73",izquierdo,72,8,31/03/2015,80000000,Portugal
+8,Bruno Fernandes,Mediocentro ofensivo,28,08/09/1994,"1,79",derecho,48,9,10/11/2017,75000000,Portugal
+15,Rafael Leão,Extremo izquierdo,24,10/06/1999,"1,88",derecho,11,-,09/10/2021,85000000,Portugal
+-,Diogo Jota,Extremo izquierdo,26,04/12/1996,"1,78",derecho,29,10,14/11/2019,55000000,Portugal
+-,Gonçalo Guedes,Extremo izquierdo,26,29/11/1996,"1,79",derecho,32,7,14/11/2015,32000000,Portugal
+-,Pedro Neto,Extremo izquierdo,23,09/03/2000,"1,72",izquierdo,3,1,11/11/2020,32000000,Portugal
+21,Ricardo Horta,Extremo izquierdo,28,15/09/1994,"1,73",derecho,5,1,07/09/2014,20000000,Portugal
+23,João Félix,Mediapunta,23,10/11/1999,"1,81",ambidiestro,23,3,05/06/2019,50000000,Portugal
+9,André Silva,Delantero centro,27,06/11/1995,"1,85",derecho,51,19,01/09/2016,24000000,Portugal
+19,Gonçalo Ramos,Delantero centro,22,20/06/2001,"1,85",derecho,-,-,-,24000000,Portugal
+7,Cristiano Ronaldo,Delantero centro,38,05/02/1985,"1,87",derecho,191,117,20/08/2003,20000000,Portugal
+1,Robert Sánchez,Portero,25,18/11/1997,"1,97",derecho,1.0,-,05/09/2021,32000000,España
+23,Unai Simón,Portero,26,11/06/1997,"1,90",derecho,27.0,-,11/11/2020,25000000,España
+13,David Raya,Portero,27,15/09/1995,"1,83",derecho,1.0,-,26/03/2022,22000000,España
+4,Pau Torres,Defensa central,26,16/01/1997,"1,91",izquierdo,21.0,1,15/11/2019,50000000,España
+-,Iñigo Martínez,Defensa central,32,17/05/1991,"1,82",izquierdo,19.0,1,14/08/2013,18000000,España
+3,Eric García,Defensa central,22,09/01/2001,"1,82",derecho,18.0,-,06/09/2020,18000000,España
+-,Diego Llorente,Defensa central,29,16/08/1993,"1,86",derecho,10.0,-,29/05/2016,12000000,España
+14,José Gayà,Lateral izquierdo,28,25/05/1995,"1,72",izquierdo,18.0,3,11/09/2018,40000000,España
+-,Marcos Alonso,Lateral izquierdo,32,28/12/1990,"1,89",izquierdo,9.0,-,27/03/2018,9000000,España
+18,Jordi Alba,Lateral izquierdo,34,21/03/1989,"1,70",izquierdo,86.0,10,11/10/2011,5000000,España
+20,Daniel Carvajal,Lateral derecho,31,11/01/1992,"1,73",derecho,30.0,-,04/09/2014,18000000,España
+2,César Azpilicueta,Lateral derecho,33,28/08/1989,"1,78",derecho,41.0,1,06/02/2013,8000000,España
+16,Rodri,Pivote,27,22/06/1996,"1,91",derecho,34.0,1,23/03/2018,80000000,España
+12,Hugo Guillamón,Pivote,23,31/01/2000,"1,78",derecho,3.0,1,08/06/2021,25000000,España
+5,Sergio Busquets,Pivote,34,16/07/1988,"1,89",derecho,139.0,2,01/04/2009,5000000,España
+21,Pedri,Mediocentro,20,25/11/2002,"1,74",derecho,14.0,-,25/03/2021,100000000,España
+9,Gavi,Mediocentro,18,05/08/2004,"1,73",derecho,12.0,1,06/10/2021,90000000,España
+6,Marcos Llorente,Mediocentro,28,30/01/1995,"1,84",derecho,17.0,-,11/11/2020,35000000,España
+19,Carlos Soler,Mediocentro,26,02/01/1997,"1,80",derecho,11.0,3,02/09/2021,35000000,España
+8,Koke,Mediocentro,31,08/01/1992,"1,76",derecho,67.0,-,14/08/2013,18000000,España
+21,Dani Olmo,Mediocentro ofensivo,25,07/05/1998,"1,79",derecho,24.0,4,15/11/2019,40000000,España
+17,Ansu Fati,Extremo izquierdo,20,31/10/2002,"1,78",derecho,4.0,1,03/09/2020,50000000,España
+11,Ferran Torres,Extremo izquierdo,23,29/02/2000,"1,84",derecho,30.0,13,03/09/2020,35000000,España
+24,Yéremy Pino,Extremo derecho,20,20/10/2002,"1,72",derecho,6.0,1,06/10/2021,38000000,España
+10,Marco Asensio,Extremo derecho,27,21/01/1996,"1,82",izquierdo,30.0,1,29/05/2016,25000000,España
+26,Nico Williams,Extremo derecho,20,12/07/2002,"1,81",derecho,2.0,-,24/09/2022,25000000,España
+22,Pablo Sarabia,Extremo derecho,31,11/05/1992,"1,74",izquierdo,24.0,9,05/09/2019,20000000,España
+-,Borja Iglesias,Delantero centro,30,17/01/1993,"1,87",derecho,1.0,-,24/09/2022,25000000,España
+7,Álvaro Morata,Delantero centro,30,23/10/1992,"1,89",derecho,57.0,27,15/11/2014,25000000,España
+-,Raúl de Tomás,Delantero centro,28,17/10/1994,"1,80",derecho,4.0,-,11/11/2021,12000000,España
+-,Mark Flekken,Portero,30,13/06/1993,"1,95",ambidiestro,4,-,26/03/2022,7000000,Países Bajos
+-,Jasper Cillessen,Portero,34,22/04/1989,"1,87",derecho,63,-,07/06/2013,3000000,Países Bajos
+-,Kjell Scherpen,Portero,23,23/01/2000,"2,06",derecho,-,-,-,2000000,Países Bajos
+23,Andries Noppert,Portero,29,07/04/1994,"2,03",izquierdo,-,-,-,2000000,Países Bajos
+-,Tim Krul,Portero,35,03/04/1988,"1,93",izquierdo,15,-,04/06/2011,1000000,Países Bajos
+1,Remko Pasveer,Portero,39,08/11/1983,"1,87",derecho,2,-,22/09/2022,250000,Países Bajos
+3,Matthijs de Ligt,Defensa central,23,12/08/1999,"1,89",derecho,38,2,25/03/2017,70000000,Países Bajos
+4,Virgil van Dijk,Defensa central,31,08/07/1991,"1,93",derecho,49,6,10/10/2015,50000000,Países Bajos
+2,Jurrien Timber,Defensa central,22,17/06/2001,"1,82",derecho,10,-,02/06/2021,45000000,Países Bajos
+5,Nathan Aké,Defensa central,28,18/02/1995,"1,80",izquierdo,29,3,31/05/2017,30000000,Países Bajos
+6,Stefan de Vrij,Defensa central,31,05/02/1992,"1,89",derecho,59,3,15/08/2012,15000000,Países Bajos
+-,Jordan Teze,Defensa central,23,30/09/1999,"1,83",derecho,3,-,08/06/2022,7000000,Países Bajos
+-,Bruno Martins Indi,Defensa central,31,08/02/1992,"1,85",izquierdo,36,2,15/08/2012,2200000,Países Bajos
+24,Tyrell Malacia,Lateral izquierdo,23,17/08/1999,"1,69",izquierdo,6,-,04/09/2021,22000000,Países Bajos
+17,Daley Blind,Lateral izquierdo,33,09/03/1990,"1,80",izquierdo,94,2,06/02/2013,6000000,Países Bajos
+-,Hans Hateboer,Lateral derecho,29,09/01/1994,"1,85",derecho,13,-,23/03/2018,10000000,Países Bajos
+-,Devyne Rensch,Lateral derecho,20,18/01/2003,"1,79",ambidiestro,1,-,07/09/2021,8000000,Países Bajos
+20,Teun Koopmeiners,Pivote,25,28/02/1998,"1,83",izquierdo,10,1,07/10/2020,30000000,Países Bajos
+15,Marten de Roon,Pivote,32,29/03/1991,"1,85",derecho,30,-,13/11/2016,12000000,Países Bajos
+-,Jerdy Schouten,Pivote,26,12/01/1997,"1,85",derecho,1,-,08/06/2022,8500000,Países Bajos
+21,Frenkie de Jong,Mediocentro,26,12/05/1997,"1,80",derecho,45,1,06/09/2018,50000000,Países Bajos
+-,Ryan Gravenberch,Mediocentro,21,16/05/2002,"1,90",derecho,11,1,24/03/2021,30000000,Países Bajos
+18,Kenneth Taylor,Mediocentro,21,16/05/2002,"1,82",ambidiestro,2,-,22/09/2022,14000000,Países Bajos
+22,Denzel Dumfries,Interior derecho,27,18/04/1996,"1,88",derecho,37,5,13/10/2018,28000000,Países Bajos
+11,Steven Berghuis,Mediocentro ofensivo,31,19/12/1991,"1,82",izquierdo,39,2,27/05/2016,14000000,Países Bajos
+14,Davy Klaassen,Mediocentro ofensivo,30,21/02/1993,"1,79",derecho,35,9,05/03/2014,12000000,Países Bajos
+-,Guus Til,Mediocentro ofensivo,25,22/12/1997,"1,86",derecho,5,1,26/03/2018,7500000,Países Bajos
+8,Cody Gakpo,Extremo izquierdo,24,07/05/1999,"1,89",derecho,9,3,21/06/2021,45000000,Países Bajos
+7,Steven Bergwijn,Extremo izquierdo,25,08/10/1997,"1,78",derecho,24,7,13/10/2018,27000000,Países Bajos
+12,Noa Lang,Extremo izquierdo,24,17/06/1999,"1,73",derecho,5,1,08/10/2021,15000000,Países Bajos
+10,Memphis Depay,Delantero centro,29,13/02/1994,"1,76",derecho,81,42,15/10/2013,20000000,Países Bajos
+-,Brian Brobbey,Delantero centro,21,01/02/2002,"1,80",derecho,-,-,-,14000000,Países Bajos
+19,Wout Weghorst,Delantero centro,30,07/08/1992,"1,97",derecho,15,3,23/03/2018,14000000,Países Bajos
+16,Vincent Janssen,Delantero centro,29,15/06/1994,"1,84",izquierdo,20,7,25/03/2016,6000000,Países Bajos
+23,Sergio Rochet,Portero,30,23/03/1993,"1,90",derecho,8,-,28/01/2022,3000000,Uruguay
+1,Fernando Muslera,Portero,37,16/06/1986,"1,90",derecho,133,-,11/10/2009,1700000,Uruguay
+12,Sebastián Sosa,Portero,36,19/08/1986,"1,81",derecho,1,-,11/06/2022,800000,Uruguay
+4,Ronald Araújo,Defensa central,24,07/03/1999,"1,88",derecho,12,-,13/10/2020,60000000,Uruguay
+-,Agustín Rogel,Defensa central,25,17/10/1997,"1,91",derecho,1,-,23/09/2022,4500000,Uruguay
+-,Sebastián Cáceres,Defensa central,23,18/08/1999,"1,80",derecho,2,-,23/09/2022,4000000,Uruguay
+-,Leandro Cabrera,Defensa central,32,17/06/1991,"1,90",izquierdo,-,-,-,3500000,Uruguay
+22,Martín Cáceres,Defensa central,36,07/04/1987,"1,80",derecho,115,4,12/09/2007,500000,Uruguay
+16,Mathías Olivera,Lateral izquierdo,25,31/10/1997,"1,85",izquierdo,8,-,28/01/2022,15000000,Uruguay
+17,Matías Viña,Lateral izquierdo,25,09/11/1997,"1,80",izquierdo,26,-,07/09/2019,6000000,Uruguay
+20,Guillermo Varela,Lateral derecho,30,24/03/1993,"1,73",derecho,9,-,10/11/2017,2500000,Uruguay
+-,Damián Suárez,Lateral derecho,35,27/04/1988,"1,73",derecho,7,-,28/01/2022,1500000,Uruguay
+25,Manuel Ugarte,Pivote,22,11/04/2001,"1,82",derecho,6,-,06/09/2021,18000000,Uruguay
+14,Lucas Torreira,Pivote,27,11/02/1996,"1,66",derecho,40,-,23/03/2018,15000000,Uruguay
+15,Federico Valverde,Mediocentro,24,22/07/1998,"1,82",derecho,44,4,06/09/2017,100000000,Uruguay
+6,Rodrigo Bentancur,Mediocentro,26,25/06/1997,"1,87",derecho,51,1,05/10/2017,40000000,Uruguay
+7,Nicolás de la Cruz,Mediocentro,26,01/06/1997,"1,67",derecho,17,2,09/10/2020,13000000,Uruguay
+5,Matías Vecino,Mediocentro,31,24/08/1991,"1,87",derecho,62,4,26/03/2016,4500000,Uruguay
+10,Giorgian de Arrascaeta,Mediocentro ofensivo,29,01/06/1994,"1,74",derecho,40,8,08/09/2014,18000000,Uruguay
+-,Diego Rossi,Extremo izquierdo,25,05/03/1998,"1,70",derecho,4,1,30/03/2022,14000000,Uruguay
+24,Agustín Canobbio,Extremo derecho,24,01/10/1998,"1,75",derecho,3,-,28/01/2022,4000000,Uruguay
+8,Facundo Pellistri,Extremo derecho,21,20/12/2001,"1,74",derecho,7,-,28/01/2022,3000000,Uruguay
+-,Brian Ocampo,Extremo derecho,24,25/06/1999,"1,72",derecho,1,-,19/06/2021,2000000,Uruguay
+11,Darwin Núñez,Delantero centro,24,24/06/1999,"1,87",derecho,13,3,16/10/2019,70000000,Uruguay
+-,Martín Satriano,Delantero centro,22,20/02/2001,"1,87",derecho,1,-,27/09/2022,8000000,Uruguay
+9,Luis Suárez,Delantero centro,36,24/01/1987,"1,82",derecho,134,68,07/02/2007,8000000,Uruguay
+1,Dominik Livakovic,Portero,28,09/01/1995,"1,88",derecho,33,-,11/01/2017,8500000,Croacia
+23,Ivica Ivusic,Portero,28,01/02/1995,"1,95",derecho,5,-,04/09/2021,5000000,Croacia
+-,Nediljko Labrovic,Portero,23,10/10/1999,"1,96",derecho,-,-,-,2000000,Croacia
+-,Lovre Kalinic,Portero,33,03/04/1990,"2,01",izquierdo,19,-,12/11/2014,1500000,Croacia
+20,Josko Gvardiol,Defensa central,21,23/01/2002,"1,85",izquierdo,12,1,06/06/2021,60000000,Croacia
+25,Josip Sutalo,Defensa central,23,28/02/2000,"1,88",derecho,3,-,10/06/2022,18000000,Croacia
+-,Duje Caleta-Car,Defensa central,26,17/09/1996,"1,92",derecho,23,1,03/06/2018,14000000,Croacia
+-,Marin Pongracic,Defensa central,25,11/09/1997,"1,93",derecho,5,-,11/11/2020,6000000,Croacia
+5,Martin Erlic,Defensa central,25,24/01/1998,"1,93",derecho,3,-,06/06/2022,5500000,Croacia
+6,Dejan Lovren,Defensa central,33,05/07/1989,"1,88",derecho,71,5,08/10/2009,4500000,Croacia
+21,Domagoj Vida,Defensa central,34,29/04/1989,"1,84",derecho,99,4,23/05/2010,2000000,Croacia
+19,Borna Sosa,Lateral izquierdo,25,21/01/1998,"1,87",izquierdo,8,1,01/09/2021,20000000,Croacia
+3,Borna Barisic,Lateral izquierdo,30,10/11/1992,"1,86",izquierdo,27,1,11/01/2017,6000000,Croacia
+2,Josip Stanisic,Lateral derecho,23,02/04/2000,"1,87",ambidiestro,6,-,08/10/2021,8000000,Croacia
+22,Josip Juranovic,Lateral derecho,27,16/08/1995,"1,73",derecho,21,-,14/01/2017,7000000,Croacia
+-,Sime Vrsaljko,Lateral derecho,31,10/01/1992,"1,81",derecho,52,-,09/02/2011,4000000,Croacia
+11,Marcelo Brozovic,Pivote,30,16/11/1992,"1,81",ambidiestro,76,7,06/06/2014,35000000,Croacia
+26,Kristijan Jakic,Pivote,26,14/05/1997,"1,81",derecho,4,-,08/10/2021,9000000,Croacia
+8,Mateo Kovacic,Mediocentro,29,06/05/1994,"1,76",derecho,83,3,22/03/2013,40000000,Croacia
+24,Luka Sucic,Mediocentro,20,08/09/2002,"1,85",izquierdo,3,-,11/10/2021,20000000,Croacia
+10,Luka Modric,Mediocentro,37,09/09/1985,"1,72",ambidiestro,154,23,01/03/2006,10000000,Croacia
+4,Ivan Perisic,Interior izquierdo,34,02/02/1989,"1,86",ambidiestro,115,32,26/03/2011,10000000,Croacia
+15,Mario Pasalic,Mediocentro ofensivo,28,09/02/1995,"1,88",derecho,42,7,04/09/2014,25000000,Croacia
+7,Lovro Majer,Mediocentro ofensivo,25,17/01/1998,"1,78",izquierdo,10,3,27/05/2017,22000000,Croacia
+13,Nikola Vlasic,Mediocentro ofensivo,25,04/10/1997,"1,78",derecho,41,7,28/05/2017,20000000,Croacia
+-,Luka Ivanusec,Mediocentro ofensivo,24,26/11/1998,"1,75",derecho,11,1,11/01/2017,10000000,Croacia
+18,Mislav Orsic,Extremo izquierdo,30,29/12/1992,"1,79",ambidiestro,20,1,09/09/2019,10000000,Croacia
+-,Josip Brekalo,Extremo izquierdo,25,23/06/1998,"1,75",derecho,33,4,15/11/2018,7500000,Croacia
+9,Andrej Kramaric,Delantero centro,32,19/06/1991,"1,77",derecho,73,19,04/09/2014,9000000,Croacia
+14,Marko Livaja,Delantero centro,29,26/08/1993,"1,84",derecho,14,3,06/09/2018,8000000,Croacia
+16,Bruno Petkovic,Delantero centro,28,16/09/1994,"1,93",derecho,22,6,21/03/2019,6000000,Croacia
+17,Ante Budimir,Delantero centro,31,22/07/1991,"1,90",izquierdo,15,1,07/10/2020,6000000,Croacia
+-,Oliver Christensen,Portero,24,22/03/1999,"1,90",derecho,1,-,11/11/2020,4500000,Dinamarca
+-,Frederik Rönnow,Portero,30,04/08/1992,"1,88",derecho,8,-,31/08/2016,3500000,Dinamarca
+-,Kasper Schmeichel,Portero,36,05/11/1986,"1,89",derecho,86,-,06/02/2013,2500000,Dinamarca
+-,Daniel Iversen,Portero,25,19/07/1997,"1,91",,-,-,-,2000000,Dinamarca
+-,Peter Vindahl,Portero,25,16/02/1998,"1,95",derecho,-,-,-,650000,Dinamarca
+-,Joachim Andersen,Defensa central,27,31/05/1996,"1,92",derecho,19,-,15/10/2019,32000000,Dinamarca
+-,Andreas Christensen,Defensa central,27,10/04/1996,"1,87",derecho,59,2,08/06/2015,30000000,Dinamarca
+-,Victor Nelsson,Defensa central,24,14/10/1998,"1,85",derecho,7,-,11/11/2020,14000000,Dinamarca
+-,Jannik Vestergaard,Defensa central,30,03/08/1992,"1,99",ambidiestro,35,2,14/08/2013,7000000,Dinamarca
+-,Simon Kjaer,Defensa central,34,26/03/1989,"1,91",derecho,121,5,06/06/2009,5000000,Dinamarca
+-,Nicolai Boilesen,Defensa central,31,16/02/1992,"1,86",izquierdo,22,1,10/08/2011,1000000,Dinamarca
+-,Joakim Maehle,Lateral izquierdo,26,20/05/1997,"1,85",derecho,31,9,05/09/2020,14000000,Dinamarca
+-,Rasmus Kristensen,Lateral derecho,25,11/07/1997,"1,87",derecho,10,-,04/09/2021,15000000,Dinamarca
+-,Alexander Bah,Lateral derecho,25,09/12/1997,"1,83",derecho,4,1,11/11/2020,8000000,Dinamarca
+-,Jens Stryger Larsen,Lateral derecho,32,21/02/1991,"1,80",ambidiestro,49,3,31/08/2016,2000000,Dinamarca
+-,Morten Hjulmand,Pivote,24,25/06/1999,"1,85",derecho,-,-,-,8000000,Dinamarca
+-,Pierre-Emile Höjbjerg,Mediocentro,27,05/08/1995,"1,85",derecho,60,5,28/05/2014,45000000,Dinamarca
+-,Philip Billing,Mediocentro,27,11/06/1996,"1,93",izquierdo,3,-,07/10/2020,18000000,Dinamarca
+-,Mathias Jensen,Mediocentro,27,01/01/1996,"1,80",derecho,20,1,07/10/2020,14000000,Dinamarca
+-,Casper Nielsen,Mediocentro,29,29/04/1994,"1,82",derecho,-,-,-,8000000,Dinamarca
+-,Daniel Wass,Mediocentro,34,31/05/1989,"1,78",derecho,44,1,09/02/2011,3000000,Dinamarca
+-,Thomas Delaney,Mediocentro,31,03/09/1991,"1,82",izquierdo,71,7,15/10/2013,3000000,Dinamarca
+-,Andreas Skov Olsen,Interior derecho,23,29/12/1999,"1,87",izquierdo,23,8,07/10/2020,20000000,Dinamarca
+-,Jesper Lindström,Mediocentro ofensivo,23,29/02/2000,"1,82",derecho,6,1,11/11/2020,28000000,Dinamarca
+-,Christian Eriksen,Mediocentro ofensivo,31,14/02/1992,"1,82",derecho,117,39,03/03/2010,25000000,Dinamarca
+-,Mikkel Damsgaard,Extremo izquierdo,22,03/07/2000,"1,80",derecho,18,4,11/11/2020,15000000,Dinamarca
+-,Robert Skov,Extremo derecho,27,20/05/1996,"1,85",izquierdo,11,5,10/06/2019,9000000,Dinamarca
+-,Rasmus Höjlund,Delantero centro,20,04/02/2003,"1,91",izquierdo,2,-,22/09/2022,15000000,Dinamarca
+-,Jonas Wind,Delantero centro,24,07/02/1999,"1,90",derecho,15,5,07/10/2020,14000000,Dinamarca
+-,Kasper Dolberg,Delantero centro,25,06/10/1997,"1,87",derecho,37,11,11/11/2016,12000000,Dinamarca
+-,Yussuf Poulsen,Delantero centro,29,15/06/1994,"1,92",derecho,69,11,31/01/2013,10000000,Dinamarca
+-,Andreas Cornelius,Delantero centro,30,16/03/1993,"1,93",izquierdo,43,13,08/09/2012,7000000,Dinamarca
+-,Martin Braithwaite,Delantero centro,32,05/06/1991,"1,77",derecho,62,10,05/06/2013,5000000,Dinamarca
+12,Predrag Rajković,Portero,27,31/10/1995,"1,92",derecho,28.0,-,14/08/2013,10000000,Serbia
+1,Marko Dmitrović,Portero,31,24/01/1992,"1,94",izquierdo,19.0,-,14/11/2017,5000000,Serbia
+23,Vanja Milinković-Savić,Portero,26,20/02/1997,"2,02",derecho,6.0,-,11/11/2021,2500000,Serbia
+-,Marko Ilić,Portero,25,03/02/1998,"1,91",derecho,1.0,-,07/06/2021,1600000,Serbia
+2,Strahinja Pavlovic,Defensa central,22,24/05/2001,"1,94",izquierdo,21.0,1,03/09/2020,20000000,Serbia
+4,Nikola Milenković,Defensa central,25,12/10/1997,"1,95",derecho,37.0,3,04/06/2018,20000000,Serbia
+5,Milos Veljkovic,Defensa central,27,26/09/1995,"1,88",derecho,21.0,-,10/11/2017,5000000,Serbia
+25,Strahinja Erakovic,Defensa central,22,22/01/2001,"1,86",derecho,1.0,-,02/06/2022,5000000,Serbia
+-,Erhan Masovic,Defensa central,24,22/11/1998,"1,89",ambidiestro,2.0,-,05/06/2022,4000000,Serbia
+26,Srdjan Babic,Defensa central,27,22/04/1996,"1,94",izquierdo,2.0,-,24/09/2022,3000000,Serbia
+13,Stefan Mitrović,Defensa central,33,22/05/1990,"1,89",ambidiestro,34.0,-,01/06/2014,2000000,Serbia
+-,Mihailo Ristić,Lateral izquierdo,27,31/10/1995,"1,80",izquierdo,8.0,-,29/09/2016,3500000,Serbia
+-,Aleksa Terzić,Lateral izquierdo,23,17/08/1999,"1,84",izquierdo,5.0,-,07/06/2021,1500000,Serbia
+6,Nemanja Maksimović,Pivote,28,26/01/1995,"1,84",derecho,39.0,-,23/03/2016,10000000,Serbia
+15,Marko Grujic,Pivote,27,13/04/1996,"1,91",derecho,17.0,-,25/05/2016,9000000,Serbia
+24,Uroš Račić,Pivote,25,17/03/1998,"1,93",ambidiestro,9.0,-,24/03/2021,6500000,Serbia
+8,Nemanja Gudelj,Pivote,31,16/11/1991,"1,87",derecho,48.0,1,05/03/2014,4000000,Serbia
+20,Sergej Milinković-Savić,Mediocentro,28,27/02/1995,"1,91",derecho,35.0,6,10/11/2017,60000000,Serbia
+16,Saša Lukić,Mediocentro,26,13/08/1996,"1,83",derecho,32.0,2,07/09/2018,13000000,Serbia
+19,Ivan Ilic,Mediocentro,22,17/03/2001,"1,85",izquierdo,5.0,-,07/06/2021,13000000,Serbia
+17,Filip Kostic,Interior izquierdo,30,01/11/1992,"1,84",izquierdo,50.0,3,07/06/2015,24000000,Serbia
+22,Darko Lazović,Interior izquierdo,32,15/09/1990,"1,81",derecho,26.0,-,14/12/2008,2500000,Serbia
+3,Filip Mladenovic,Interior izquierdo,31,15/08/1991,"1,80",izquierdo,19.0,1,31/05/2012,1200000,Serbia
+21,Filip Djuricic,Mediocentro ofensivo,31,30/01/1992,"1,81",derecho,36.0,4,29/02/2012,2500000,Serbia
+10,Dusan Tadić,Extremo izquierdo,34,20/11/1988,"1,81",izquierdo,90.0,18,-,7000000,Serbia
+7,Nemanja Radonjić,Extremo izquierdo,27,15/02/1996,"1,85",ambidiestro,36.0,5,14/11/2017,4000000,Serbia
+-,Stefan Mitrovic,Extremo izquierdo,20,15/08/2002,"1,81",derecho,1.0,-,24/09/2022,1500000,Serbia
+14,Andrija Zivkovic,Extremo derecho,26,11/07/1996,"1,69",izquierdo,28.0,1,11/10/2013,6000000,Serbia
+18,Dušan Vlahović,Delantero centro,23,28/01/2000,"1,90",izquierdo,16.0,8,11/10/2020,80000000,Serbia
+9,Aleksandar Mitrović,Delantero centro,28,16/09/1994,"1,89",derecho,76.0,50,07/06/2013,28000000,Serbia
+11,Luka Jović,Delantero centro,25,23/12/1997,"1,82",ambidiestro,28.0,9,04/06/2018,14000000,Serbia
+-,Djordje Jovanovic,Delantero centro,24,15/02/1999,"1,87",derecho,1.0,-,05/06/2022,2500000,Serbia
+23,Alfred Gomis,Portero,29,05/09/1993,"1,96",derecho,14,-,14/11/2017,3000000,Senegal
+-,Mory Diaw,Portero,30,22/06/1993,"1,95",derecho,-,-,-,1500000,Senegal
+1,Seny Dieng,Portero,28,23/11/1994,"1,93",derecho,4,-,30/03/2021,1500000,Senegal
+3,Kalidou Koulibaly,Defensa central,32,20/06/1991,"1,86",derecho,64,-,05/09/2015,35000000,Senegal
+-,Moussa Niakhaté,Defensa central,27,08/03/1996,"1,90",izquierdo,-,-,-,18000000,Senegal
+22,Abdou Diallo,Defensa central,27,04/05/1996,"1,87",izquierdo,18,2,26/03/2021,15000000,Senegal
+4,Pape Abou Cissé,Defensa central,27,14/09/1995,"1,98",derecho,13,1,13/10/2018,6000000,Senegal
+2,Formose Mendy,Defensa central,22,02/01/2001,"1,91",derecho,2,-,24/09/2022,2500000,Senegal
+13,Ismail Jakobs,Lateral izquierdo,23,17/08/1999,"1,84",izquierdo,2,-,24/09/2022,7000000,Senegal
+25,Fodé Ballo-Touré,Lateral izquierdo,26,03/01/1997,"1,82",izquierdo,14,-,26/03/2021,3500000,Senegal
+26,Pape Gueye,Pivote,24,24/01/1999,"1,89",izquierdo,12,-,14/11/2021,10000000,Senegal
+6,Nampalys Mendy,Pivote,31,23/06/1992,"1,67",derecho,19,-,26/03/2021,3500000,Senegal
+14,Mamadou Loum,Pivote,26,30/12/1996,"1,88",derecho,3,-,26/03/2019,3500000,Senegal
+8,Cheikhou Kouyaté,Pivote,33,21/12/1989,"1,89",derecho,82,4,29/02/2012,3000000,Senegal
+17,Pape Matar Sarr,Mediocentro,20,14/09/2002,"1,84",derecho,10,-,26/03/2021,15000000,Senegal
+5,Idrissa Gueye,Mediocentro,33,26/09/1989,"1,74",derecho,94,7,11/11/2011,8000000,Senegal
+21,Pathé Ciss,Mediocentro,29,16/03/1994,"1,86",derecho,1,-,24/09/2022,4000000,Senegal
+24,Moustapha Name,Mediocentro,28,05/05/1995,"1,85",ambidiestro,6,-,11/11/2020,2000000,Senegal
+20,Iliman Ndiaye,Mediocentro ofensivo,23,06/03/2000,"1,80",,2,-,04/06/2022,3500000,Senegal
+10,Sadio Mané,Extremo izquierdo,31,10/04/1992,"1,74",derecho,92,33,25/05/2012,60000000,Senegal
+7,Ismaïla Sarr,Extremo derecho,25,25/02/1998,"1,85",derecho,47,10,08/01/2017,22000000,Senegal
+18,Nicolas Jackson,Extremo derecho,22,20/06/2001,"1,88",derecho,-,-,-,15000000,Senegal
+15,Krépin Diatta,Extremo derecho,24,25/02/1999,"1,75",derecho,26,2,23/03/2019,13000000,Senegal
+-,Demba Seck,Extremo derecho,22,10/02/2001,"1,90",izquierdo,1,-,24/09/2022,3000000,Senegal
+9,Boulaye Dia,Delantero centro,26,16/11/1996,"1,80",derecho,19,2,09/10/2020,12000000,Senegal
+20,Bamba Dieng,Delantero centro,23,23/03/2000,"1,78",derecho,13,1,09/10/2021,8000000,Senegal
+1,Wojciech Szczesny,Portero,33,18/04/1990,"1,96",derecho,66,-,18/11/2009,13000000,Polonia
+22,Bartlomiej Dragowski,Portero,25,19/08/1997,"1,91",derecho,2,-,07/10/2020,4500000,Polonia
+-,Kamil Grabara,Portero,24,08/01/1999,"1,95",derecho,1,-,01/06/2022,4000000,Polonia
+12,Lukasz Skorupski,Portero,32,05/05/1991,"1,87",derecho,7,-,14/12/2012,3000000,Polonia
+5,Jan Bednarek,Defensa central,27,12/04/1996,"1,89",derecho,44,1,04/09/2017,18000000,Polonia
+3,Jakub Kiwior,Defensa central,23,15/02/2000,"1,89",izquierdo,4,-,11/06/2022,6000000,Polonia
+6,Mateusz Wieteska,Defensa central,26,11/02/1997,"1,87",derecho,1,-,14/06/2022,3000000,Polonia
+-,Marcin Kaminski,Defensa central,31,15/01/1992,"1,92",izquierdo,7,-,16/12/2011,1000000,Polonia
+15,Kamil Glik,Defensa central,35,03/02/1988,"1,90",derecho,98,6,20/01/2010,800000,Polonia
+-,Tymoteusz Puchacz,Lateral izquierdo,24,23/01/1999,"1,80",izquierdo,12,-,01/06/2021,1500000,Polonia
+-,Kamil Pestka,Lateral izquierdo,24,22/08/1998,"1,89",izquierdo,-,-,-,900000,Polonia
+2,Matty Cash,Lateral derecho,25,07/08/1997,"1,85",derecho,7,1,12/11/2021,22000000,Polonia
+-,Tomasz Kedziora,Lateral derecho,29,11/06/1994,"1,84",derecho,26,1,13/11/2017,4500000,Polonia
+4,Robert Gumny,Lateral derecho,25,04/06/1998,"1,82",derecho,4,-,11/11/2020,3500000,Polonia
+18,Bartosz Bereszynski,Lateral derecho,30,12/07/1992,"1,83",derecho,45,-,04/06/2013,3000000,Polonia
+10,Grzegorz Krychowiak,Pivote,33,29/01/1990,"1,87",derecho,93,5,14/12/2008,8000000,Polonia
+-,Jakub Piotrowski,Pivote,25,04/10/1997,"1,88",derecho,-,-,-,1300000,Polonia
+-,Jacek Goralski,Pivote,30,21/09/1992,"1,72",derecho,21,1,14/11/2016,1000000,Polonia
+13,Szymon Zurkowski,Mediocentro,25,25/09/1997,"1,85",derecho,6,-,24/03/2022,5800000,Polonia
+-,Karol Linetty,Mediocentro,28,02/02/1995,"1,76",derecho,42,5,18/01/2014,3500000,Polonia
+-,Mateusz Klich,Mediocentro,33,13/06/1990,"1,83",derecho,41,2,05/06/2011,2000000,Polonia
+8,Damian Szymanski,Mediocentro,28,16/06/1995,"1,85",derecho,8,1,07/09/2018,2000000,Polonia
+-,Mateusz Legowski,Mediocentro,20,29/01/2003,"1,81",derecho,1,-,22/09/2022,1500000,Polonia
+14,Przemyslaw Frankowski,Interior derecho,28,12/04/1995,"1,75",derecho,25,1,23/03/2018,7000000,Polonia
+21,Nicola Zalewski,Interior izquierdo,21,23/01/2002,"1,75",ambidiestro,7,-,05/09/2021,15000000,Polonia
+20,Piotr Zielinski,Mediocentro ofensivo,29,20/05/1994,"1,80",ambidiestro,74,9,04/06/2013,40000000,Polonia
+19,Sebastian Szymanski,Mediocentro ofensivo,24,10/05/1999,"1,74",izquierdo,17,1,09/09/2019,14000000,Polonia
+17,Jakub Kaminski,Extremo izquierdo,21,05/06/2002,"1,79",derecho,3,1,05/09/2021,10000000,Polonia
+-,Przemyslaw Placheta,Extremo izquierdo,25,23/03/1998,"1,78",izquierdo,7,-,11/11/2020,2000000,Polonia
+11,Kamil Grosicki,Extremo izquierdo,35,08/06/1988,"1,80",derecho,86,17,02/02/2008,600000,Polonia
+24,Michal Skoras,Extremo derecho,23,15/02/2000,"1,72",derecho,1,-,22/09/2022,2500000,Polonia
+-,Konrad Michalak,Extremo derecho,25,19/09/1997,"1,76",derecho,-,-,-,1700000,Polonia
+9,Robert Lewandowski,Delantero centro,34,21/08/1988,"1,85",derecho,134,76,10/09/2008,45000000,Polonia
+23,Krzysztof Piatek,Delantero centro,27,01/07/1995,"1,83",derecho,24,10,11/09/2018,11000000,Polonia
+7,Arkadiusz Milik,Delantero centro,29,28/02/1994,"1,86",izquierdo,63,16,12/10/2012,10000000,Polonia
+-,Adam Buksa,Delantero centro,26,12/07/1996,"1,93",izquierdo,9,5,02/09/2021,7000000,Polonia
+16,Karol Swiderski,Delantero centro,26,23/01/1997,"1,84",izquierdo,17,8,28/03/2021,5000000,Polonia
+-,Bono,Portero,32,05/04/1991,"1,92",izquierdo,45,-,14/08/2013,15000000,Marruecos
+-,Ahmed Reda Tagnaouti,Portero,27,05/04/1996,"1,92",derecho,3,-,10/10/2017,1800000,Marruecos
+-,Munir,Portero,34,10/05/1989,"1,90",derecho,43,-,28/03/2015,1500000,Marruecos
+-,Anas Zniti,Portero,34,28/10/1988,"1,82",derecho,19,-,08/01/2013,1200000,Marruecos
+-,Romain Saïss,Defensa central,33,26/03/1990,"1,88",izquierdo,65,1,14/11/2012,6500000,Marruecos
+-,Achraf Dari,Defensa central,24,06/05/1999,"1,88",derecho,4,-,07/12/2021,2500000,Marruecos
+-,Samy Mmaee,Defensa central,26,08/09/1996,"1,88",derecho,10,-,09/10/2020,1700000,Marruecos
+-,Jawad El Yamiq,Defensa central,31,29/02/1992,"1,93",derecho,18,2,16/01/2016,1200000,Marruecos
+-,Badr Benoun,Defensa central,29,30/09/1993,"1,93",derecho,15,5,07/10/2017,1000000,Marruecos
+-,Yahia Attiat-Allah,Lateral izquierdo,28,02/03/1995,"1,76",izquierdo,3,-,29/03/2022,1500000,Marruecos
+-,Achraf Hakimi,Lateral derecho,24,04/11/1998,"1,81",derecho,53,8,11/10/2016,65000000,Marruecos
+-,Noussair Mazraoui,Lateral derecho,25,14/11/1997,"1,83",derecho,14,2,08/09/2018,25000000,Marruecos
+-,Fahd Moufi,Lateral derecho,27,05/05/1996,"1,77",derecho,-,-,-,1500000,Marruecos
+-,Sofyan Amrabat,Pivote,26,21/08/1996,"1,85",derecho,38,-,28/03/2017,10000000,Marruecos
+-,Yahya Jabrane,Pivote,32,18/06/1991,"1,87",derecho,16,2,21/01/2018,1900000,Marruecos
+-,Azzedine Ounahi,Mediocentro,23,19/04/2000,"1,82",derecho,9,2,10/01/2022,3500000,Marruecos
+-,Hakim Ziyech,Mediocentro ofensivo,30,19/03/1993,"1,81",izquierdo,42,17,09/10/2015,17000000,Marruecos
+-,Amine Harit,Mediocentro ofensivo,26,18/06/1997,"1,80",derecho,16,-,07/10/2017,14000000,Marruecos
+-,Ilias Chair,Mediocentro ofensivo,25,30/10/1997,"1,72",derecho,10,1,08/06/2021,10000000,Marruecos
+-,Selim Amallah,Mediocentro ofensivo,26,15/11/1996,"1,86",derecho,23,4,15/11/2019,4500000,Marruecos
+-,Abdelhamid Sabiri,Mediocentro ofensivo,26,28/11/1996,"1,86",derecho,2,1,23/09/2022,3000000,Marruecos
+-,Younès Belhanda,Mediocentro ofensivo,33,25/02/1990,"1,75",derecho,58,5,17/11/2010,2000000,Marruecos
+-,Sofiane Boufal,Extremo izquierdo,29,17/09/1993,"1,75",derecho,31,5,26/03/2016,8000000,Marruecos
+-,Ez Abde,Extremo izquierdo,21,17/12/2001,"1,77",derecho,2,-,23/09/2022,8000000,Marruecos
+-,Zakaria Aboukhlal,Extremo derecho,23,18/02/2000,"1,79",ambidiestro,13,2,13/11/2020,3500000,Marruecos
+-,Youssef En-Nesyri,Delantero centro,26,01/06/1997,"1,92",izquierdo,49,14,31/08/2016,12000000,Marruecos
+-,Munir El Haddadi,Delantero centro,27,01/09/1995,"1,75",izquierdo,11,2,26/03/2021,4000000,Marruecos
+-,Walid Cheddira,Delantero centro,25,22/01/1998,"1,87",derecho,2,-,23/09/2022,2500000,Marruecos
+-,Ryan Mmaee,Delantero centro,25,01/11/1997,"1,85",derecho,12,4,31/08/2016,2200000,Marruecos
+-,Carlos Acevedo,Portero,27,19/04/1996,"1,85",derecho,4,-,09/12/2021,5000000,México
+-,Luis Malagón,Portero,26,02/03/1997,"1,82",derecho,-,-,-,3500000,México
+-,Guillermo Ochoa,Portero,37,13/07/1985,"1,83",derecho,131,-,14/12/2005,1200000,México
+-,Rodolfo Cota,Portero,35,03/07/1987,"1,83",derecho,8,-,02/06/2017,1200000,México
+-,Alfredo Talavera,Portero,40,18/09/1982,"1,91",derecho,39,-,26/03/2011,800000,México
+-,David Ochoa,Portero,22,16/01/2001,"1,88",,-,-,-,600000,México
+-,César Montes,Defensa central,26,24/02/1997,"1,95",derecho,29,1,14/07/2017,7000000,México
+-,Israel Reyes,Defensa central,23,23/05/2000,"1,79",derecho,3,1,09/12/2021,4500000,México
+-,Johan Vásquez,Defensa central,24,22/10/1998,"1,84",izquierdo,6,-,03/10/2019,3600000,México
+-,Néstor Araújo,Defensa central,31,29/08/1991,"1,88",derecho,61,3,05/07/2011,3000000,México
+-,Héctor Moreno,Defensa central,35,17/01/1988,"1,84",izquierdo,126,5,17/10/2007,1500000,México
+-,Julio Domínguez,Defensa central,35,08/11/1987,"1,77",derecho,24,-,23/08/2007,1000000,México
+3,Jesús Angulo,Lateral izquierdo,25,30/01/1998,"1,78",izquierdo,11,-,08/09/2018,7000000,México
+-,Gerardo Arteaga,Lateral izquierdo,24,07/09/1998,"1,75",izquierdo,17,1,12/09/2018,5000000,México
+-,Érick Aguirre,Lateral izquierdo,26,23/02/1997,"1,71",derecho,13,-,12/09/2018,4500000,México
+23,Jesús Gallardo,Lateral izquierdo,28,15/08/1994,"1,76",izquierdo,77,-,09/10/2016,3000000,México
+14,Mauricio Isais,Lateral izquierdo,22,09/04/2001,"1,86",izquierdo,-,-,-,2500000,México
+-,Luis Reyes,Lateral izquierdo,32,03/04/1991,"1,81",izquierdo,9,-,08/02/2017,2300000,México
+-,Julián Araujo,Lateral derecho,21,13/08/2001,"1,75",derecho,3,-,09/12/2021,6000000,México
+2,Kevin Álvarez,Lateral derecho,24,15/01/1999,"1,76",derecho,7,-,04/07/2021,6000000,México
+-,Emilio Lara,Lateral derecho,21,18/05/2002,"1,83",derecho,1,-,01/09/2022,2500000,México
+-,Edson Álvarez,Pivote,25,24/10/1997,"1,87",derecho,59,3,08/02/2017,35000000,México
+18,Luis Chávez,Pivote,27,15/01/1996,"1,78",izquierdo,7,-,28/04/2022,6500000,México
+-,Erik Lira,Pivote,23,08/05/2000,"1,72",derecho,3,-,28/10/2021,3500000,México
+-,Carlos Rodríguez,Mediocentro,26,03/01/1997,"1,71",derecho,35,-,23/03/2019,8000000,México
+6,Érick Sánchez,Mediocentro,23,27/09/1999,"1,67",derecho,7,1,15/07/2021,8000000,México
+-,Érick Gutiérrez,Mediocentro,28,15/06/1995,"1,77",izquierdo,34,1,12/10/2016,7000000,México
+7,Luis Romo,Mediocentro,28,05/06/1995,"1,84",derecho,25,1,20/11/2019,6500000,México
+-,Fernando Beltrán,Mediocentro,25,08/05/1998,"1,68",derecho,9,-,01/10/2020,5500000,México
+-,Orbelín Pineda,Mediocentro,27,24/03/1996,"1,69",derecho,50,6,07/09/2016,4000000,México
+-,Héctor Herrera,Mediocentro,33,19/04/1990,"1,80",derecho,101,10,17/10/2012,2800000,México
+-,Andrés Guardado,Mediocentro,36,28/09/1986,"1,69",izquierdo,179,28,14/12/2005,1500000,México
+-,Sebastián Córdova,Mediocentro ofensivo,26,12/06/1997,"1,74",ambidiestro,14,3,03/10/2019,5000000,México
+-,Rodolfo Pizarro,Mediocentro ofensivo,29,15/02/1994,"1,75",derecho,38,5,30/01/2014,3500000,México
+-,Marcelo Flores,Mediocentro ofensivo,19,01/10/2003,"1,64",derecho,3,-,09/12/2021,1500000,México
+-,Alexis Vega,Extremo izquierdo,25,25/11/1997,"1,73",derecho,21,4,27/03/2019,8000000,México
+-,Heriberto Jurado,Extremo izquierdo,18,03/01/2005,"1,73",izquierdo,-,-,-,1000000,México
+22,Hirving Lozano,Extremo derecho,27,30/07/1995,"1,75",derecho,59,16,11/02/2016,28000000,México
+-,Roberto Alvarado,Extremo derecho,24,07/09/1998,"1,76",izquierdo,31,4,08/09/2018,5000000,México
+22,Uriel Antuna,Extremo derecho,25,21/08/1997,"1,74",derecho,35,9,06/06/2019,4000000,México
+-,Diego Lainez,Extremo derecho,23,09/06/2000,"1,68",izquierdo,21,3,08/09/2018,2500000,México
+-,Raúl Jiménez,Delantero centro,32,05/05/1991,"1,89",derecho,96,29,31/01/2013,12000000,México
+9,Santiago Giménez,Delantero centro,22,18/04/2001,"1,83",izquierdo,9,2,28/10/2021,6000000,México
+21,Henry Martín,Delantero centro,30,18/11/1992,"1,77",derecho,25,6,05/09/2015,6000000,México
+-,Rogelio Funes Mori,Delantero centro,32,05/03/1991,"1,86",derecho,15,5,04/07/2021,3500000,México
+-,Eduardo Aguirre,Delantero centro,24,03/08/1998,"1,76",derecho,3,-,28/10/2021,2800000,México
+-,Ángel Zaldívar,Delantero centro,29,08/02/1994,"1,78",izquierdo,6,-,07/09/2016,1500000,México
+1,Matt Turner,Portero,29,24/06/1994,"1,91",derecho,20.0,-,01/02/2021,5000000,Estados Unidos
+25,Sean Johnson,Portero,34,31/05/1989,"1,90",derecho,10.0,-,22/01/2011,1500000,Estados Unidos
+18,Ethan Horvath,Portero,28,09/06/1995,"1,95",derecho,8.0,-,07/10/2016,1000000,Estados Unidos
+20,Cameron Carter-Vickers,Defensa central,25,31/12/1997,"1,83",derecho,11.0,-,14/11/2017,7000000,Estados Unidos
+-,Mark McKenzie,Defensa central,24,25/02/1999,"1,84",derecho,10.0,-,01/02/2020,5000000,Estados Unidos
+3,Walker Zimmerman,Defensa central,30,19/05/1993,"1,90",derecho,33.0,3,04/02/2017,3500000,Estados Unidos
+-,Erik Palmer-Brown,Defensa central,26,24/04/1997,"1,86",derecho,4.0,-,29/05/2018,3000000,Estados Unidos
+15,Aaron Long,Defensa central,30,12/10/1992,"1,86",derecho,29.0,3,17/10/2018,3000000,Estados Unidos
+5,Antonee Robinson,Lateral izquierdo,25,08/08/1997,"1,83",izquierdo,29.0,2,29/05/2018,10000000,Estados Unidos
+-,Sam Vines,Lateral izquierdo,24,31/05/1999,"1,78",izquierdo,9.0,1,01/02/2020,2200000,Estados Unidos
+-,George Bello,Lateral izquierdo,21,22/01/2002,"1,70",izquierdo,7.0,-,31/01/2021,2000000,Estados Unidos
+2,Sergiño Dest,Lateral derecho,22,03/11/2000,"1,75",derecho,19.0,2,07/09/2019,16000000,Estados Unidos
+26,Joe Scally,Lateral derecho,20,31/12/2002,"1,84",derecho,3.0,-,02/06/2022,12000000,Estados Unidos
+-,Reggie Cannon,Lateral derecho,25,11/06/1998,"1,80",derecho,28.0,1,17/10/2018,4000000,Estados Unidos
+22,DeAndre Yedlin,Lateral derecho,29,09/07/1993,"1,73",derecho,75.0,-,01/02/2014,2000000,Estados Unidos
+4,Tyler Adams,Pivote,24,14/02/1999,"1,75",derecho,32.0,1,14/11/2017,17000000,Estados Unidos
+23,Kellyn Acosta,Pivote,27,24/07/1995,"1,77",derecho,53.0,2,31/01/2016,3000000,Estados Unidos
+8,Weston McKennie,Mediocentro,24,28/08/1998,"1,81",derecho,37.0,9,14/11/2017,21000000,Estados Unidos
+6,Yunus Musah,Mediocentro,20,29/11/2002,"1,78",derecho,19.0,-,12/11/2020,20000000,Estados Unidos
+17,Cristian Roldán,Mediocentro,28,03/06/1995,"1,73",,32.0,-,13/07/2017,6000000,Estados Unidos
+14,Luca de la Torre,Mediocentro,25,23/05/1998,"1,77",derecho,12.0,-,02/06/2018,2000000,Estados Unidos
+-,Johnny,Mediocentro,21,20/09/2001,"1,82",derecho,4.0,-,12/11/2020,1800000,Estados Unidos
+7,Giovanni Reyna,Mediocentro ofensivo,20,13/11/2002,"1,85",derecho,14.0,4,12/11/2020,35000000,Estados Unidos
+11,Brenden Aaronson,Mediocentro ofensivo,22,22/10/2000,"1,78",derecho,24.0,6,01/02/2020,30000000,Estados Unidos
+-,Malik Tillman,Mediocentro ofensivo,21,28/05/2002,"1,87",derecho,4.0,-,02/06/2022,1500000,Estados Unidos
+13,Jordan Morris,Extremo izquierdo,28,26/10/1994,"1,81",derecho,49.0,11,18/11/2014,4500000,Estados Unidos
+10,Christian Pulisic,Extremo derecho,24,18/09/1998,"1,77",derecho,52.0,21,30/03/2016,38000000,Estados Unidos
+-,Paul Arriola,Extremo derecho,28,05/02/1995,"1,67",derecho,48.0,10,22/05/2016,4000000,Estados Unidos
+21,Timothy Weah,Delantero centro,23,22/02/2000,"1,83",derecho,25.0,3,28/03/2018,12000000,Estados Unidos
+24,Josh Sargent,Delantero centro,23,20/02/2000,"1,85",derecho,20.0,5,29/05/2018,12000000,Estados Unidos
+-,Ricardo Pepi,Delantero centro,20,09/01/2003,"1,85",derecho,12.0,3,09/09/2021,9000000,Estados Unidos
+9,Jesús Ferreira,Delantero centro,22,24/12/2000,"1,73",,15.0,7,01/02/2020,8000000,Estados Unidos
+19,Haji Wright,Delantero centro,25,27/03/1998,"1,93",derecho,3.0,1,02/06/2022,3400000,Estados Unidos
+1,Richard Ofori,Portero,29,01/11/1993,"1,90",derecho,25,-,18/10/2015,800000,Ghana
+12,Abdul Nurudeen,Portero,24,08/02/1999,"1,89",derecho,2,-,05/01/2022,400000,Ghana
+16,Joe Wollacott,Portero,26,08/09/1996,"1,90",,11,-,09/10/2021,300000,Ghana
+4,Mohammed Salisu,Defensa central,24,17/04/1999,"1,91",izquierdo,2,-,23/09/2022,18000000,Ghana
+18,Daniel Amartey,Defensa central,28,21/12/1994,"1,86",derecho,43,-,19/01/2015,15000000,Ghana
+23,Alexander Djiku,Defensa central,28,09/08/1994,"1,82",derecho,18,1,09/10/2020,8000000,Ghana
+15,Joseph Aidoo,Defensa central,27,29/09/1995,"1,77",derecho,10,-,26/03/2019,7000000,Ghana
+26,Alidu Seidu,Defensa central,23,04/06/2000,"1,73",derecho,3,-,10/06/2022,4500000,Ghana
+-,Stephan Ambrosius,Defensa central,24,18/12/1998,"1,83",derecho,-,-,-,1000000,Ghana
+14,Gideon Mensah,Lateral izquierdo,24,18/07/1998,"1,78",izquierdo,12,-,14/11/2019,2000000,Ghana
+17,Abdul-Rahman Baba,Lateral izquierdo,28,02/07/1994,"1,79",izquierdo,46,1,10/09/2014,1800000,Ghana
+2,Tariq Lamptey,Lateral derecho,22,30/09/2000,"1,63",derecho,1,-,23/09/2022,15000000,Ghana
+3,Denis Odoi,Lateral derecho,35,27/05/1988,"1,78",derecho,4,-,25/03/2022,600000,Ghana
+6,Elisha Owusu,Pivote,25,07/11/1997,"1,82",derecho,2,-,29/03/2022,2500000,Ghana
+21,Iddrisu Baba,Mediocentro,27,22/01/1996,"1,82",derecho,20,-,14/11/2019,3000000,Ghana
+20,Mohammed Kudus,Mediocentro ofensivo,22,02/08/2000,"1,77",izquierdo,18,5,14/11/2019,15000000,Ghana
+8,Daniel-Kofi Kyereh,Mediocentro ofensivo,27,08/03/1996,"1,79",derecho,14,-,03/09/2021,8000000,Ghana
+22,Kamaldeen Sulemana,Extremo izquierdo,21,15/02/2002,"1,75",derecho,12,-,09/10/2020,18000000,Ghana
+10,André Ayew,Extremo izquierdo,33,17/12/1989,"1,76",izquierdo,107,23,21/08/2007,2200000,Ghana
+28,Daniel Afriyie,Extremo izquierdo,22,26/06/2001,"1,76",,2,-,10/06/2022,150000,Ghana
+11,Osman Bukari,Extremo derecho,24,13/12/1998,"1,70",ambidiestro,7,1,25/03/2021,5000000,Ghana
+7,Issahaku Fatawu,Extremo derecho,19,08/03/2004,"1,77",izquierdo,13,1,09/10/2021,3000000,Ghana
+-,Ransford-Yeboah Königsdörffer,Extremo derecho,21,13/09/2001,"1,83",derecho,1,-,27/09/2022,2000000,Ghana
+19,Iñaki Williams,Delantero centro,29,15/06/1994,"1,86",derecho,2,-,23/09/2022,25000000,Ghana
+9,Jordan Ayew,Delantero centro,31,11/09/1991,"1,82",derecho,83,19,05/09/2010,6000000,Ghana
+-,Felix Afena-Gyan,Delantero centro,20,19/01/2003,"1,75",derecho,7,1,25/03/2022,5500000,Ghana
+27,Antoine Semenyo,Delantero centro,23,07/01/2000,"1,85",ambidiestro,3,-,01/06/2022,3000000,Ghana
+21,Gregor Kobel,Portero,25,06/12/1997,"1,94",derecho,3,-,01/09/2021,25000000,Suiza
+12,Jonas Omlin,Portero,29,10/01/1994,"1,90",derecho,4,-,07/10/2020,7000000,Suiza
+1,Yann Sommer,Portero,34,17/12/1988,"1,83",derecho,76,-,30/05/2012,5000000,Suiza
+-,Yvon Mvogo,Portero,29,06/06/1994,"1,89",derecho,4,-,15/10/2018,3500000,Suiza
+-,David von Ballmoos,Portero,28,30/12/1994,"1,92",derecho,-,-,-,2500000,Suiza
+5,Manuel Akanji,Defensa central,27,19/07/1995,"1,88",derecho,42,1,09/06/2017,30000000,Suiza
+4,Nico Elvedi,Defensa central,26,30/09/1996,"1,89",derecho,40,1,28/05/2016,20000000,Suiza
+22,Fabian Schär,Defensa central,31,20/12/1991,"1,86",derecho,72,8,14/08/2013,10000000,Suiza
+-,Leonidas Stergiou,Defensa central,21,03/03/2002,"1,81",derecho,1,-,12/06/2022,4500000,Suiza
+18,Eray Cömert,Defensa central,25,04/02/1998,"1,83",derecho,9,-,18/11/2019,4000000,Suiza
+13,Ricardo Rodríguez,Defensa central,30,25/08/1992,"1,80",izquierdo,100,9,07/10/2011,3500000,Suiza
+-,Kevin Mbabu,Lateral derecho,28,19/04/1995,"1,84",derecho,22,-,08/09/2018,7000000,Suiza
+-,Jordan Lotomba,Lateral derecho,24,29/09/1998,"1,77",derecho,7,1,07/10/2020,6000000,Suiza
+3,Silvan Widmer,Lateral derecho,30,05/03/1993,"1,83",derecho,33,2,14/10/2014,5000000,Suiza
+6,Denis Zakaria,Pivote,26,20/11/1996,"1,91",derecho,42,3,28/05/2016,20000000,Suiza
+26,Ardon Jashari,Pivote,20,30/07/2002,"1,81",izquierdo,1,-,27/09/2022,2500000,Suiza
+20,Fabian Frei,Pivote,34,08/01/1989,"1,83",derecho,22,3,07/10/2011,500000,Suiza
+10,Granit Xhaka,Mediocentro,30,27/09/1992,"1,86",izquierdo,106,12,04/06/2011,28000000,Suiza
+15,Djibril Sow,Mediocentro,26,06/02/1997,"1,84",derecho,32,-,08/09/2018,22000000,Suiza
+8,Remo Freuler,Mediocentro,31,15/04/1992,"1,80",derecho,48,5,25/03/2017,13000000,Suiza
+14,Michel Aebischer,Mediocentro,26,06/01/1997,"1,83",derecho,11,-,18/11/2019,3500000,Suiza
+-,Mattia Bottani,Mediocentro ofensivo,32,24/05/1991,"1,70",derecho,1,-,05/06/2022,500000,Suiza
+17,Rubén Vargas,Extremo izquierdo,24,05/08/1998,"1,79",derecho,26,4,08/09/2019,6000000,Suiza
+-,Steven Zuber,Extremo izquierdo,31,17/08/1991,"1,82",derecho,51,10,25/03/2017,2500000,Suiza
+23,Xherdan Shaqiri,Extremo derecho,31,10/10/1991,"1,69",izquierdo,108,26,03/03/2010,4000000,Suiza
+-,Dan Ndoye,Extremo derecho,22,25/10/2000,"1,84",derecho,1,-,24/09/2022,3500000,Suiza
+11,Renato Steffen,Extremo derecho,31,03/11/1991,"1,70",izquierdo,27,1,09/10/2015,1000000,Suiza
+19,Noah Okafor,Delantero centro,23,24/05/2000,"1,85",derecho,8,2,09/06/2019,25000000,Suiza
+7,Breel Embolo,Delantero centro,26,14/02/1997,"1,87",derecho,58,11,31/03/2015,20000000,Suiza
+9,Haris Seferovic,Delantero centro,31,22/02/1992,"1,89",izquierdo,88,25,06/02/2013,6000000,Suiza
+-,Zeki Amdouni,Delantero centro,22,04/12/2000,"1,85",,1,-,27/09/2022,2500000,Suiza
+-,Cedric Itten,Delantero centro,26,27/12/1996,"1,89",derecho,7,4,15/11/2019,2000000,Suiza
+-,Mario Gavranovic,Delantero centro,33,24/11/1989,"1,75",derecho,41,16,26/03/2011,1200000,Suiza
+16,Maxime Crépeau,Portero,29,11/05/1994,"1,85",derecho,15,-,06/02/2016,3000000,Canadá
+-,Milan Borjan,Portero,35,23/10/1987,"1,96",derecho,67,-,09/02/2011,1500000,Canadá
+1,Dayne St. Clair,Portero,26,09/05/1997,"1,91",izquierdo,1,-,06/06/2021,1500000,Canadá
+4,Kamal Miller,Defensa central,26,16/05/1997,"1,83",izquierdo,27,-,24/06/2019,4000000,Canadá
+24,Joel Waterman,Defensa central,27,24/01/1996,"1,88",,-,-,-,2000000,Canadá
+-,Derek Cornelius,Defensa central,25,25/11/1997,"1,87",ambidiestro,14,-,09/09/2018,800000,Canadá
+-,Scott Kennedy,Defensa central,26,31/03/1997,"1,93",izquierdo,8,-,09/06/2021,600000,Canadá
+-,Doneil Henry,Defensa central,30,20/04/1993,"1,88",derecho,-,-,-,500000,Canadá
+-,Steven Vitória,Defensa central,36,11/01/1987,"1,95",derecho,34,3,06/02/2016,100000,Canadá
+-,Alphonso Davies,Lateral izquierdo,22,02/11/2000,"1,85",izquierdo,34,12,14/06/2017,70000000,Canadá
+-,Sam Adekugbe,Lateral izquierdo,28,16/01/1995,"1,76",izquierdo,33,1,09/09/2015,2000000,Canadá
+-,Raheem Edwards,Lateral izquierdo,27,17/07/1995,"1,72",izquierdo,4,-,14/06/2017,1000000,Canadá
+2,Alistair Johnston,Lateral derecho,24,08/10/1998,"1,80",,28,1,26/03/2021,6000000,Canadá
+22,Richie Laryea,Lateral derecho,28,07/01/1995,"1,75",derecho,32,1,08/09/2019,2500000,Canadá
+6,Samuel Piette,Pivote,28,12/11/1994,"1,71",derecho,64,-,04/06/2012,2500000,Canadá
+-,Atiba Hutchinson,Pivote,40,08/02/1983,"1,87",derecho,97,9,18/01/2003,200000,Canadá
+-,Stephen Eustaquio,Mediocentro,26,21/12/1996,"1,77",derecho,26,3,16/11/2019,8000000,Canadá
+8,Ismaël Koné,Mediocentro,21,16/06/2002,"1,88",,4,-,25/03/2022,6000000,Canadá
+14,Mark-Anthony Kaye,Mediocentro,28,02/12/1994,"1,85",izquierdo,36,2,14/06/2017,3000000,Canadá
+-,Liam Millar,Extremo izquierdo,23,27/09/1999,"1,81",derecho,16,-,24/03/2018,2300000,Canadá
+-,Luca Koleosho,Extremo izquierdo,18,15/09/2004,"1,75",derecho,-,-,-,1000000,Canadá
+-,Junior Hoilett,Extremo izquierdo,33,05/06/1990,"1,74",derecho,49,14,13/10/2015,800000,Canadá
+-,Tajon Buchanan,Extremo derecho,24,08/02/1999,"1,83",derecho,25,4,06/06/2021,12000000,Canadá
+-,Theo Corbeanu,Extremo derecho,21,17/05/2002,"1,90",izquierdo,7,2,26/03/2021,1500000,Canadá
+-,Jonathan David,Delantero centro,23,14/01/2000,"1,77",ambidiestro,34,22,09/09/2018,45000000,Canadá
+-,Cyle Larin,Delantero centro,28,17/04/1995,"1,88",derecho,54,25,23/05/2014,6000000,Canadá
+-,Iké Ugbo,Delantero centro,24,21/09/1998,"1,84",derecho,8,-,13/11/2021,4000000,Canadá
+9,Lucas Cavallini,Delantero centro,30,28/12/1992,"1,82",izquierdo,32,17,16/08/2012,2000000,Canadá
+-,Charles-Andreas Brym,Delantero centro,24,08/08/1998,"1,85",izquierdo,7,1,08/01/2020,325000,Canadá
+12.0,Bum-keun Song,Portero,25,15/10/1997,"1,94",derecho,1,-,24/07/2022,950000,Corea del Sur
+1.0,Seung-gyu Kim,Portero,32,30/09/1990,"1,87",derecho,66,-,14/08/2013,750000,Corea del Sur
+21.0,Dong-jun Kim,Portero,28,19/12/1994,"1,89",,1,-,20/07/2022,550000,Corea del Sur
+4.0,Min-jae Kim,Defensa central,26,15/11/1996,"1,90",derecho,44,3,31/08/2017,35000000,Corea del Sur
+20.0,Kyung-won Kwon,Defensa central,31,31/01/1992,"1,89",izquierdo,27,2,07/10/2017,750000,Corea del Sur
+4.0,Yu-min Cho,Defensa central,26,17/11/1996,"1,84",derecho,3,-,20/07/2022,625000,Corea del Sur
+19.0,Young-gwon Kim,Defensa central,33,27/02/1990,"1,86",izquierdo,95,6,11/08/2010,600000,Corea del Sur
+3.0,Jin-su Kim,Lateral izquierdo,31,13/06/1992,"1,77",izquierdo,61,2,20/07/2013,600000,Corea del Sur
+14.0,Chul Hong,Lateral izquierdo,32,17/09/1990,"1,76",izquierdo,46,1,09/02/2011,525000,Corea del Sur
+2.0,Tae-hwan Kim,Lateral derecho,33,24/07/1989,"1,80",derecho,18,-,26/01/2014,950000,Corea del Sur
+23.0,Moon-hwan Kim,Lateral derecho,27,01/08/1995,"1,73",derecho,21,-,07/09/2018,950000,Corea del Sur
+24.0,Jong-gyu Yoon,Lateral derecho,25,20/03/1998,"1,73",derecho,3,-,17/11/2020,600000,Corea del Sur
+13.0,Jun-ho Son,Pivote,31,12/05/1992,"1,78",derecho,14,-,27/01/2018,3200000,Corea del Sur
+5.0,Woo-young Jung,Pivote,33,14/12/1989,"1,86",derecho,66,3,11/06/2015,600000,Corea del Sur
+6.0,In-beom Hwang,Mediocentro,26,20/09/1996,"1,77",ambidiestro,37,4,07/09/2018,3500000,Corea del Sur
+8.0,Seung-ho Paik,Mediocentro,26,17/03/1997,"1,82",,13,2,11/06/2019,925000,Corea del Sur
+26.0,Kang-in Lee,Mediocentro ofensivo,22,19/02/2001,"1,73",izquierdo,6,-,05/09/2019,12000000,Corea del Sur
+10.0,Jae-sung Lee,Mediocentro ofensivo,30,10/08/1992,"1,80",izquierdo,64,9,27/03/2015,3000000,Corea del Sur
+7.0,Heung-min Son,Extremo izquierdo,30,08/07/1992,"1,84",ambidiestro,105,35,30/12/2010,70000000,Corea del Sur
+17.0,Sang-ho Na,Extremo izquierdo,26,12/08/1996,"1,73",derecho,23,2,17/11/2018,900000,Corea del Sur
+22.0,Chang-hoon Kwon,Extremo derecho,29,30/06/1994,"1,73",izquierdo,41,12,02/08/2015,1500000,Corea del Sur
+9.0,Young-wook Cho,Extremo derecho,24,05/02/1999,"1,78",derecho,4,1,21/01/2022,700000,Corea del Sur
+18.0,Hyun-jun Yang,Extremo derecho,21,25/05/2002,"1,79",derecho,-,-,-,275000,Corea del Sur
+25.0,Woo-yeong Jeong,Mediapunta,23,20/09/1999,"1,79",derecho,9,2,25/03/2021,5500000,Corea del Sur
+11.0,Hee-chan Hwang,Delantero centro,27,26/01/1996,"1,77",derecho,49,9,01/09/2016,12000000,Corea del Sur
+16.0,Ui-jo Hwang,Delantero centro,30,28/08/1992,"1,85",ambidiestro,49,16,03/09/2015,5000000,Corea del Sur
+12,Danny Ward,Portero,30,22/06/1993,"1,89",derecho,26,-,24/03/2016,8000000,Gales
+1,Wayne Hennessey,Portero,36,24/01/1987,"1,97",derecho,106,-,26/05/2007,500000,Gales
+21,Adam Davies,Portero,30,17/07/1992,"1,85",derecho,4,-,20/03/2019,500000,Gales
+-,Tom King,Portero,28,09/03/1995,"1,94",derecho,-,-,-,200000,Gales
+6,Joe Rodon,Defensa central,25,22/10/1997,"1,93",derecho,30,-,06/09/2019,9000000,Gales
+15,Ethan Ampadu,Defensa central,22,14/09/2000,"1,83",derecho,37,-,10/11/2017,9000000,Gales
+24,Ben Cabango,Defensa central,23,30/05/2000,"1,88",derecho,5,-,03/09/2020,8000000,Gales
+5,Chris Mepham,Defensa central,25,05/11/1997,"1,90",derecho,33,-,22/03/2018,6000000,Gales
+-,Oliver Denham,Defensa central,21,04/05/2002,"1,82",derecho,-,-,-,200000,Gales
+4,Ben Davies,Lateral izquierdo,30,24/04/1993,"1,81",izquierdo,74,1,12/10/2012,20000000,Gales
+-,Rhys Norrington-Davies,Lateral izquierdo,24,22/04/1999,"1,81",izquierdo,13,1,14/10/2020,3000000,Gales
+3,Neco Williams,Lateral derecho,22,13/04/2001,"1,77",derecho,23,2,03/09/2020,18000000,Gales
+14,Connor Roberts,Lateral derecho,27,23/09/1995,"1,75",derecho,41,3,26/03/2018,6000000,Gales
+2,Chris Gunter,Lateral derecho,33,21/07/1989,"1,80",derecho,109,-,26/05/2007,800000,Gales
+16,Matt Smith,Pivote,23,22/11/1999,"1,75",derecho,19,-,29/05/2018,450000,Gales
+10,Aaron Ramsey,Mediocentro,32,26/12/1990,"1,82",derecho,75,20,19/11/2008,3000000,Gales
+-,Jordan James,Mediocentro,18,02/07/2004,-,derecho,-,-,-,2000000,Gales
+7,Joe Allen,Mediocentro,33,14/03/1990,"1,68",derecho,72,2,29/05/2009,1000000,Gales
+23,Dylan Levitt,Mediocentro,22,17/11/2000,"1,80",derecho,13,-,03/09/2020,700000,Gales
+26,Joe Morrell,Mediocentro,26,03/01/1997,"1,85",derecho,30,-,09/09/2019,400000,Gales
+-,Wes Burns,Interior derecho,28,23/11/1994,"1,73",derecho,3,-,01/06/2022,800000,Gales
+25,Rubin Colwill,Mediocentro ofensivo,21,27/04/2002,"1,89",,7,1,02/06/2021,1500000,Gales
+18,Jonathan Williams,Mediocentro ofensivo,29,09/10/1993,"1,68",izquierdo,33,2,22/03/2013,800000,Gales
+-,Luke Harris,Mediocentro ofensivo,18,03/04/2005,"1,77",derecho,-,-,-,500000,Gales
+8,Harry Wilson,Extremo derecho,26,22/03/1997,"1,73",izquierdo,39,5,15/10/2013,17000000,Gales
+20,Daniel James,Extremo derecho,25,10/11/1997,"1,70",derecho,38,5,20/11/2018,16000000,Gales
+17,Sorba Thomas,Extremo derecho,24,25/01/1999,"1,85",derecho,6,-,08/10/2021,5000000,Gales
+-,Rabbi Matondo,Extremo derecho,22,09/09/2000,"1,75",derecho,11,-,20/11/2018,4000000,Gales
+11,Gareth Bale,Extremo derecho,33,16/07/1989,"1,85",izquierdo,108,39,27/05/2006,2000000,Gales
+9,Brennan Johnson,Mediapunta,22,23/05/2001,"1,79",derecho,15,2,12/11/2020,20000000,Gales
+-,Tyler Roberts,Delantero centro,24,12/01/1999,"1,80",derecho,20,-,06/09/2018,4000000,Gales
+13,Kieffer Moore,Delantero centro,30,08/08/1992,"1,95",derecho,28,9,09/09/2019,4000000,Gales
+19,Mark Harris,Delantero centro,24,29/12/1998,"1,82",derecho,5,-,05/09/2021,1000000,Gales
+23.0,Daniel Schmidt,Portero,30,03/02/1992,"1,97",derecho,11.0,-,16/11/2018,1500000,Japón
+12.0,Shuichi Gonda,Portero,33,03/03/1989,"1,87",derecho,33.0,-,06/01/2010,500000,Japón
+1.0,Eiji Kawashima,Portero,39,20/03/1983,"1,85",derecho,95.0,-,17/02/2008,200000,Japón
+4.0,Ko Itakura,Defensa central,25,27/01/1997,"1,88",derecho,12.0,1,21/06/2019,7500000,Japón
+26.0,Hiroki Ito,Defensa central,23,12/05/1999,"1,88",izquierdo,5.0,-,02/06/2022,5500000,Japón
+3.0,Shogo Taniguchi,Defensa central,31,15/07/1991,"1,83",derecho,13.0,-,11/06/2015,1700000,Japón
+22.0,Maya Yoshida,Defensa central,34,24/08/1988,"1,89",derecho,121.0,12,06/01/2010,1500000,Japón
+5.0,Yuto Nagatomo,Lateral izquierdo,36,12/09/1986,"1,70",ambidiestro,137.0,4,24/05/2008,400000,Japón
+16.0,Takehiro Tomiyasu,Lateral derecho,24,05/11/1998,"1,88",derecho,29.0,1,12/10/2018,25000000,Japón
+19.0,Hiroki Sakai,Lateral derecho,32,12/04/1990,"1,85",derecho,71.0,1,23/05/2012,2500000,Japón
+2.0,Miki Yamane,Lateral derecho,28,22/12/1993,"1,78",derecho,14.0,2,25/03/2021,1300000,Japón
+13.0,Hidemasa Morita,Pivote,27,10/05/1995,"1,77",derecho,17.0,2,11/09/2018,7000000,Japón
+6.0,Wataru Endo,Pivote,29,09/02/1993,"1,78",derecho,43.0,2,02/08/2015,6500000,Japón
+17.0,Ao Tanaka,Mediocentro,24,10/09/1998,"1,80",derecho,14.0,2,14/12/2019,1500000,Japón
+7.0,Gaku Shibasaki,Mediocentro,30,28/05/1992,"1,74",derecho,59.0,3,09/09/2014,1000000,Japón
+15.0,Daichi Kamada,Mediocentro ofensivo,26,05/08/1996,"1,84",derecho,21.0,6,22/03/2019,30000000,Japón
+10.0,Takumi Minamino,Extremo izquierdo,27,16/01/1995,"1,72",derecho,43.0,17,13/10/2015,10000000,Japón
+9.0,Kaoru Mitoma,Extremo izquierdo,25,20/05/1997,"1,78",derecho,9.0,5,16/11/2021,6000000,Japón
+25.0,Daizen Maeda,Extremo izquierdo,25,20/10/1997,"1,73",derecho,8.0,1,18/06/2019,3500000,Japón
+24.0,Yuki Soma,Extremo izquierdo,25,25/02/1997,"1,66",derecho,7.0,3,10/12/2019,900000,Japón
+8.0,Ritsu Doan,Extremo derecho,24,16/06/1998,"1,72",izquierdo,28.0,3,11/09/2018,12000000,Japón
+11.0,Takefusa Kubo,Extremo derecho,21,04/06/2001,"1,73",izquierdo,19.0,1,09/06/2019,12000000,Japón
+14.0,Junya Ito,Extremo derecho,29,09/03/1993,"1,76",derecho,38.0,9,09/12/2017,9000000,Japón
+18.0,Takuma Asano,Extremo derecho,28,10/11/1994,"1,73",derecho,36.0,7,02/08/2015,3000000,Japón
+21.0,Ayase Ueda,Delantero centro,24,28/08/1998,"1,82",derecho,10.0,-,18/06/2019,2000000,Japón
+20.0,Shuto Machino,Delantero centro,23,30/09/1999,"1,85",ambidiestro,4.0,3,19/07/2022,700000,Japón
+12.0,Moisés Ramírez,Portero,22,09/09/2000,"1,85",derecho,2,-,08/10/2021,800000,Ecuador
+1.0,Hernán Galíndez,Portero,36,30/03/1987,"1,88",derecho,12,-,23/06/2021,600000,Ecuador
+22.0,Alexander Domínguez,Portero,36,05/06/1987,"1,96",derecho,67,-,26/03/2011,350000,Ecuador
+3.0,Piero Hincapié,Defensa central,21,09/01/2002,"1,83",izquierdo,21,1,14/06/2021,22000000,Ecuador
+24.0,William Pacho,Defensa central,21,16/10/2001,"1,86",izquierdo,-,-,-,3500000,Ecuador
+2.0,Jackson Porozo,Defensa central,22,04/08/2000,"1,92",derecho,5,-,11/09/2019,3000000,Ecuador
+14.0,Xavier Arreaga,Defensa central,28,28/09/1994,"1,83",,17,1,21/11/2018,2000000,Ecuador
+4.0,Fernando León,Defensa central,30,11/04/1993,"1,85",derecho,7,-,11/10/2014,1500000,Ecuador
+7.0,Pervis Estupiñán,Lateral izquierdo,25,21/01/1998,"1,75",izquierdo,28,3,13/10/2019,20000000,Ecuador
+18.0,Diego Palacios,Lateral izquierdo,23,12/07/1999,"1,69",izquierdo,11,-,12/10/2018,4000000,Ecuador
+17.0,Angelo Preciado,Lateral derecho,25,18/02/1998,"1,73",derecho,24,-,12/10/2018,3200000,Ecuador
+6.0,Byron Castillo,Lateral derecho,24,10/11/1998,"1,67",derecho,12,-,02/09/2021,2800000,Ecuador
+8.0,Carlos Gruezo,Pivote,28,19/04/1995,"1,71",derecho,46,1,17/05/2014,4000000,Ecuador
+20.0,Jhegson Méndez,Pivote,26,26/04/1997,"1,71",derecho,31,-,12/09/2018,1500000,Ecuador
+21.0,Patrickson Delgado,Pivote,19,17/10/2003,-,derecho,-,-,-,300000,Ecuador
+23.0,Moisés Caicedo,Mediocentro,21,02/11/2001,"1,78",derecho,25,2,09/10/2020,38000000,Ecuador
+5.0,José Cifuentes,Mediocentro,24,12/03/1999,"1,75",derecho,10,-,06/09/2019,12000000,Ecuador
+21.0,Alan Franco,Mediocentro,24,21/08/1998,"1,74",derecho,24,1,12/09/2018,2500000,Ecuador
+25.0,Nilson Angulo,Mediocentro ofensivo,20,19/06/2003,"1,83",derecho,3,-,28/10/2021,1300000,Ecuador
+10.0,Romario Ibarra,Extremo izquierdo,28,24/09/1994,"1,76",derecho,24,3,06/10/2017,1800000,Ecuador
+19.0,Gonzalo Plata,Extremo derecho,22,01/11/2000,"1,78",izquierdo,29,5,06/09/2019,5000000,Ecuador
+15.0,Ángel Mena,Extremo derecho,35,21/01/1988,"1,68",izquierdo,45,7,29/03/2015,1500000,Ecuador
+26.0,Anthony Valencia,Extremo derecho,19,21/07/2003,"1,74",izquierdo,-,-,-,1200000,Ecuador
+11.0,Michael Estrada,Delantero centro,27,07/04/1996,"1,88",derecho,35,8,23/02/2017,3000000,Ecuador
+13.0,Enner Valencia,Delantero centro,33,04/11/1989,"1,77",derecho,74,35,01/03/2012,3000000,Ecuador
+9.0,Djorkaeff Reasco,Delantero centro,24,18/01/1999,"1,72",derecho,3,-,28/10/2021,500000,Ecuador
+-,Houzaifi Youssoufa,Defensa,23,08/08/1999,-,,1,-,09/11/2022,-,Camerún
+-,Che Malone Junior,Defensa,24,23/05/1999,-,,3,-,28/08/2022,-,Camerún
+-,Ramses Nguimzeu,Delantero,,-,-,,-,-,-,-,Camerún
+-,Alexandre Benga,Defensa,,-,-,,-,-,-,-,Camerún
+-,Emmanuel Ebassa,Delantero,,-,-,,-,-,-,-,Camerún
+-,Henry Tchikeu,Centrocampista,,-,-,,-,-,-,-,Camerún
+-,Brandon Njoufack,Defensa,26,22/01/1997,-,,-,-,-,-,Camerún
+-,Joseph Apam,Delantero,24,31/12/1998,-,,1,-,09/11/2022,-,Camerún
+-,André Onana,Portero,27,02/04/1996,"1,90",derecho,32,-,06/09/2016,14000000,Camerún
+-,Devis Epassy,Portero,30,02/02/1993,"1,89",derecho,5,-,08/06/2021,600000,Camerún
+-,Simon Ngapandouetnbu,Portero,20,12/04/2003,"1,86",derecho,-,-,-,400000,Camerún
+-,Haschou Kerrido,Portero,29,02/06/1994,-,,-,-,-,-,Camerún
+-,Patrick Lionel Kibyen,Portero,24,19/09/1998,-,,-,-,-,-,Camerún
+-,Marcelin Mbahbi,Portero,23,21/01/2000,-,,2,-,04/09/2022,-,Camerún
+-,Christopher Wooh,Defensa central,21,18/09/2001,"1,91",derecho,1,-,09/06/2022,6000000,Camerún
+-,Jean-Charles Castelletto,Defensa central,28,26/01/1995,"1,86",ambidiestro,13,-,11/11/2017,4000000,Camerún
+-,Oumar Gonzalez,Defensa central,25,25/02/1998,"1,86",derecho,-,-,-,2500000,Camerún
+-,Enzo Tchato,Defensa central,20,23/11/2002,"1,82",derecho,1,-,23/09/2022,2500000,Camerún
+-,Nicolas N'Koulou,Defensa central,33,27/03/1990,"1,84",derecho,75,2,19/11/2008,1800000,Camerún
+-,Yves Alain Moukoko,Defensa central,33,26/06/1990,"1,80",,3,-,24/02/2020,-,Camerún
+-,Enzo Ebosse,Lateral izquierdo,24,11/03/1999,"1,85",izquierdo,-,-,-,4500000,Camerún
+-,Nouhou Tolo,Lateral izquierdo,26,23/06/1997,"1,78",,17,-,11/11/2017,3000000,Camerún
+-,Darlin Yongwa,Lateral izquierdo,22,22/09/2000,"1,77",izquierdo,1,-,23/09/2022,1000000,Camerún
+-,Saidou Ibrahim,Lateral izquierdo,22,04/06/2001,"1,80",izquierdo,-,-,-,-,Camerún
+-,Olivier Mbaizo,Lateral derecho,25,15/08/1997,"1,78",,11,-,06/09/2016,1500000,Camerún
+-,Collins Fai,Lateral derecho,30,13/08/1992,"1,65",derecho,50,-,11/10/2015,900000,Camerún
+-,Bawak Etta,Lateral derecho,28,10/07/1994,"1,70",derecho,6,-,12/09/2017,-,Camerún
+-,Jean Onana,Pivote,23,08/01/2000,"1,89",derecho,10,-,09/10/2020,5000000,Camerún
+-,Martin Hongla,Pivote,25,16/03/1998,"1,81",derecho,18,-,16/11/2020,3500000,Camerún
+-,Samuel Oum Gouet,Pivote,25,14/12/1997,"1,85",derecho,21,-,06/01/2016,1300000,Camerún
+-,Gaël Ondoua,Pivote,27,04/11/1995,"1,85",izquierdo,4,-,25/03/2022,1000000,Camerún
+-,Georges Mandjeck,Pivote,34,09/12/1988,"1,85",derecho,50,-,14/10/2009,200000,Camerún
+-,Martial Zemba Ikoung,Pivote,24,18/02/1999,"1,85",derecho,1,-,09/11/2022,-,Camerún
+-,Félix Oukiné,Pivote,23,26/12/1999,-,,6,1,16/01/2021,-,Camerún
+-,Djawal Kaiba,Pivote,20,08/02/2003,-,,3,2,28/08/2022,-,Camerún
+-,Yannick Noah,Pivote,19,11/03/2004,"1,80",izquierdo,-,-,-,-,Camerún
+-,Iyendjock Joseph,Pivote,20,29/05/2003,-,,-,-,-,-,Camerún
+-,Olivier Ntcham,Mediocentro,27,09/02/1996,"1,80",derecho,2,-,23/09/2022,2800000,Camerún
+-,Pierre Kunde,Mediocentro,27,26/07/1995,"1,80",derecho,31,1,27/05/2018,2000000,Camerún
+-,Louis Enjonaei Mbah,Mediocentro ofensivo,26,01/04/1997,"1,87",izquierdo,1,-,09/11/2022,-,Camerún
+-,Harisson Djonkep,Mediocentro ofensivo,21,04/08/2001,-,,-,-,-,-,Camerún
+-,Georges-Kevin N'Koudou,Extremo izquierdo,28,13/02/1995,"1,72",derecho,1,-,23/09/2022,5500000,Camerún
+-,Nicolas Moumi Ngamaleu,Extremo izquierdo,28,09/07/1994,"1,81",derecho,41,4,23/12/2015,4700000,Camerún
+12,Jerome Ngom Mbekeli,Extremo izquierdo,24,30/09/1998,"1,75",ambidiestro,2,-,04/09/2022,125000,Camerún
+-,Valentin Batto,Extremo izquierdo,26,10/10/1996,"1,72",derecho,1,-,09/11/2022,-,Camerún
+-,Patient Gouegoue Wassou,Extremo izquierdo,19,22/04/2004,-,,3,-,28/08/2022,-,Camerún
+-,Bryan Mbeumo,Extremo derecho,23,07/08/1999,"1,71",izquierdo,2,-,23/09/2022,28000000,Camerún
+10,Vincent Aboubakar,Delantero centro,31,22/01/1992,"1,84",derecho,89,33,29/05/2010,7000000,Camerún
+-,Jean-Pierre Nsame,Delantero centro,30,01/05/1993,"1,88",derecho,4,-,04/09/2017,4000000,Camerún
+-,Léandre Tawamba,Delantero centro,33,20/12/1989,"1,89",derecho,8,-,25/03/2018,2000000,Camerún
+-,Kemajou Dibami,Delantero centro,27,04/12/1995,"1,93",derecho,1,-,09/11/2022,-,Camerún
+11,Souaibou Marou,Delantero centro,22,03/12/2000,"1,82",izquierdo,3,1,04/09/2022,-,Camerún
+-,Amir Abedzadeh,Portero,30,26/04/1993,"1,85",derecho,11,-,19/05/2018,1500000,Irán
+1,Alireza Beiranvand,Portero,30,21/09/1992,"1,94",derecho,52,-,20/12/2014,1000000,Irán
+22,Mohammadreza Akhbari,Portero,30,15/02/1993,"1,91",derecho,-,-,-,600000,Irán
+30,Hossein Hosseini,Portero,31,30/06/1992,"1,89",derecho,6,-,17/03/2018,525000,Irán
+12,Payam Niazmand,Portero,28,06/04/1995,"1,94",derecho,1,-,08/10/2020,500000,Irán
+-,Majid Hosseini,Defensa central,27,20/06/1996,"1,87",derecho,18,-,19/05/2018,3000000,Irán
+13,Hossein Kanaani,Defensa central,29,23/03/1994,"1,88",derecho,35,2,11/06/2015,2000000,Irán
+8,Morteza Pouraliganji,Defensa central,31,19/04/1992,"1,87",derecho,46,3,18/11/2014,700000,Irán
+3,Saman Fallah,Defensa central,22,12/05/2001,"1,91",derecho,-,-,-,675000,Irán
+4,Shoja Khalilzadeh,Defensa central,34,14/05/1989,"1,83",derecho,24,1,05/07/2009,300000,Irán
+2,Sina Abdollahi,Defensa central,22,15/04/2001,"1,82",derecho,-,-,-,125000,Irán
+-,Milad Mohammadi,Lateral izquierdo,29,29/09/1993,"1,78",izquierdo,45,1,11/06/2015,2000000,Irán
+21,Omid Noorafkan,Lateral izquierdo,26,09/04/1997,"1,82",izquierdo,15,-,17/03/2018,1000000,Irán
+-,Ehsan Hajsafi,Lateral izquierdo,33,25/02/1990,"1,78",izquierdo,114,6,25/05/2008,800000,Irán
+5,Abolfazl Jalali,Lateral izquierdo,25,26/06/1998,"1,77",izquierdo,3,-,30/03/2021,400000,Irán
+9,Mohammadmehdi Ahmadi,Lateral izquierdo,22,10/01/2001,"1,80",izquierdo,-,-,-,325000,Irán
+-,Sadegh Moharrami,Lateral derecho,27,01/03/1996,"1,74",derecho,21,2,11/09/2018,2000000,Irán
+-,Saleh Hardani,Lateral derecho,24,14/09/1998,"1,76",derecho,2,-,02/09/2021,600000,Irán
+23,Ramin Rezaeian,Lateral derecho,33,21/03/1990,"1,85",derecho,46,2,04/01/2015,450000,Irán
+20,Saman Touranian,Lateral derecho,21,12/12/2001,-,derecho,1,-,10/11/2022,175000,Irán
+14,Milad Sarlak,Pivote,28,26/03/1995,"1,81",derecho,11,-,11/06/2021,900000,Irán
+6,Roozbeh Cheshmi,Pivote,30,24/06/1993,"1,92",derecho,19,1,31/08/2017,500000,Irán
+-,Saeid Ezatolahi,Pivote,26,01/10/1996,"1,90",derecho,46,1,11/06/2015,400000,Irán
+19,Mohammad Ghorbani,Pivote,22,21/05/2001,"1,86",derecho,-,-,-,300000,Irán
+15,Omid Ebrahimi,Pivote,35,16/09/1987,"1,78",derecho,53,-,12/12/2012,250000,Irán
+-,Ahmad Nourollahi,Mediocentro,30,01/02/1993,"1,85",derecho,25,3,15/11/2018,1500000,Irán
+24,Mohammadhossein Eslami,Mediocentro,22,13/04/2001,-,derecho,-,-,-,175000,Irán
+-,Saman Ghoddos,Mediocentro ofensivo,29,06/09/1993,"1,77",derecho,33,2,05/10/2017,2200000,Irán
+16,Mehdi Torabi,Extremo izquierdo,28,10/09/1994,"1,85",derecho,36,7,11/06/2015,800000,Irán
+11,Vahid Amiri,Extremo izquierdo,35,02/04/1988,"1,81",izquierdo,67,2,04/01/2015,350000,Irán
+17,Ahmad Shariatzadeh,Extremo izquierdo,20,01/07/2002,"1,77",derecho,-,-,-,300000,Irán
+7,Amirali Sadeghi,Extremo izquierdo,22,09/02/2001,"1,75",derecho,1,-,10/11/2022,200000,Irán
+-,Alireza Jahanbakhsh,Extremo derecho,29,11/08/1993,"1,80",derecho,64,13,15/10/2013,3000000,Irán
+-,Ali Gholizadeh,Extremo derecho,27,10/03/1996,"1,76",izquierdo,26,6,17/03/2018,2000000,Irán
+18,Mehdi Hashemnejad,Extremo derecho,21,27/10/2001,"1,77",derecho,1,-,10/11/2022,375000,Irán
+-,Mehdi Taremi,Delantero centro,30,18/07/1992,"1,87",derecho,60,27,11/06/2015,20000000,Irán
+-,Sardar Azmoun,Delantero centro,28,01/01/1995,"1,86",ambidiestro,65,41,26/05/2014,12000000,Irán
+-,Karim Ansarifard,Delantero centro,33,03/04/1990,"1,87",derecho,93,29,05/07/2009,1200000,Irán
+10,Aria Barzegar,Delantero centro,20,10/10/2002,"1,89",derecho,1,-,10/11/2022,100000,Irán
+-,Bechir Ben Said,Portero,28,29/11/1994,"1,94",,10,-,12/01/2022,850000,Túnez
+16,Aymen Dahmen,Portero,26,28/01/1997,"1,88",derecho,4,-,28/03/2021,850000,Túnez
+1,Mohamed Sedki Debchi,Portero,23,28/10/1999,"1,95",derecho,-,-,-,500000,Túnez
+3,Montassar Talbi,Defensa central,25,26/05/1998,"1,90",derecho,22,1,28/03/2021,4000000,Túnez
+-,Dylan Bronn,Defensa central,28,19/06/1995,"1,86",derecho,36,2,28/03/2017,3000000,Túnez
+-,Omar Rekik,Defensa central,21,20/12/2001,"1,86",derecho,3,-,15/06/2021,800000,Túnez
+6,Nader Ghandri,Defensa central,28,18/02/1995,"1,96",derecho,7,-,07/06/2019,650000,Túnez
+2,Bilel Ifa,Defensa central,33,09/03/1990,"1,85",derecho,39,-,19/11/2008,250000,Túnez
+12,Ali Maâloul,Lateral izquierdo,33,01/01/1990,"1,75",izquierdo,82,2,06/07/2013,1500000,Túnez
+-,Mortadha Ben Ouanes,Lateral izquierdo,28,02/07/1994,"1,82",izquierdo,5,-,21/09/2019,1400000,Túnez
+21,Rami Kaib,Lateral izquierdo,26,08/05/1997,"1,78",,2,-,10/06/2022,700000,Túnez
+-,Yan Valery,Lateral derecho,24,22/02/1999,"1,80",derecho,1,-,27/09/2022,2500000,Túnez
+20,Mohamed Dräger,Lateral derecho,27,25/06/1996,"1,81",derecho,33,3,20/11/2018,1300000,Túnez
+-,Hamza Mathlouthi,Lateral derecho,30,25/07/1992,"1,84",derecho,38,1,05/03/2014,600000,Túnez
+-,Ellyes Skhiri,Pivote,28,10/05/1995,"1,85",derecho,48,3,23/03/2018,13000000,Túnez
+8,Anis Slimane,Mediocentro,22,16/03/2001,"1,88",ambidiestro,24,4,09/10/2020,3500000,Túnez
+14,Aïssa Laïdouni,Mediocentro,26,13/12/1996,"1,83",derecho,24,1,25/03/2021,3500000,Túnez
+13,Ferjani Sassi,Mediocentro,31,18/03/1992,"1,85",derecho,77,6,08/06/2013,1750000,Túnez
+-,Ghaylen Chaaleli,Mediocentro,29,28/02/1994,"1,79",derecho,30,1,11/06/2017,1000000,Túnez
+-,Chaïm El Djebali,Mediocentro,19,07/02/2004,-,derecho,1,-,22/09/2022,-,Túnez
+10,Hannibal Mejbri,Mediocentro ofensivo,20,21/01/2003,"1,84",derecho,18,-,05/06/2021,6000000,Túnez
+-,Saîf-Eddine Khaoui,Mediocentro ofensivo,28,27/04/1995,"1,80",izquierdo,28,4,23/03/2018,1500000,Túnez
+23,Naïm Sliti,Extremo izquierdo,30,27/07/1992,"1,73",derecho,68,13,03/06/2016,7500000,Túnez
+7,Youssef Msakni,Extremo izquierdo,32,28/10/1990,"1,79",derecho,87,17,09/01/2010,1200000,Túnez
+-,Sayfallah Ltaief,Extremo derecho,23,22/04/2000,"1,80",derecho,1,-,22/09/2022,350000,Túnez
+17,Issam Jebali,Mediapunta,31,25/12/1991,"1,86",ambidiestro,9,2,09/09/2018,500000,Túnez
+-,Wahbi Khazri,Delantero centro,32,08/02/1991,"1,76",derecho,71,24,07/01/2013,3000000,Túnez
+19,Seifeddine Jaziri,Delantero centro,30,12/02/1993,"1,80",derecho,29,10,18/01/2016,1500000,Túnez
+-,Taha Yassine Khenissi,Delantero centro,31,06/01/1992,"1,80",derecho,48,9,23/03/2013,500000,Túnez
+1,Mathew Ryan,Portero,31,08/04/1992,"1,84",derecho,75,-,05/12/2012,5000000,Australia
+-,Mitchell Langerak,Portero,34,22/08/1988,"1,93",derecho,8,-,11/10/2013,800000,Australia
+12,Andrew Redmayne,Portero,34,13/01/1989,"1,94",,4,-,07/06/2019,700000,Australia
+2,Milos Degenek,Defensa central,29,28/04/1994,"1,87",derecho,38,1,27/05/2016,2000000,Australia
+-,Trent Sainsbury,Defensa central,31,05/01/1992,"1,84",derecho,61,4,04/09/2014,650000,Australia
+-,Harrison Delbridge,Defensa central,31,15/03/1992,"1,93",,1,-,25/09/2022,550000,Australia
+5,Thomas Deng,Defensa central,26,20/03/1997,"1,82",derecho,2,-,15/10/2018,400000,Australia
+16,Aziz Behich,Lateral izquierdo,32,16/12/1990,"1,70",izquierdo,53,2,14/11/2012,775000,Australia
+25,Joel King,Lateral izquierdo,22,30/10/2000,"1,80",izquierdo,4,-,27/01/2022,500000,Australia
+3,Fran Karacic,Lateral derecho,27,12/05/1996,"1,85",derecho,11,1,03/06/2021,1200000,Australia
+4,Nathaniel Atkinson,Lateral derecho,24,13/06/1999,"1,81",derecho,5,-,29/03/2022,1000000,Australia
+-,Ryan Strain,Lateral derecho,26,02/04/1997,"1,81",,1,-,25/09/2022,300000,Australia
+-,Connor Metcalfe,Pivote,23,05/11/1999,"1,83",izquierdo,5,-,07/06/2021,800000,Australia
+17,Keanu Baccus,Pivote,25,07/06/1998,"1,78",derecho,1,-,25/09/2022,600000,Australia
+21,Cammy Devlin,Pivote,25,07/06/1998,"1,70",derecho,1,-,25/09/2022,600000,Australia
+13,Aaron Mooy,Mediocentro,32,15/09/1990,"1,74",derecho,53,7,07/12/2012,5000000,Australia
+14,Riley McGree,Mediocentro,24,02/11/1998,"1,78",izquierdo,11,1,03/06/2021,2000000,Australia
+22,Jackson Irvine,Mediocentro,30,07/03/1993,"1,89",derecho,49,7,15/10/2013,2000000,Australia
+-,Tyrese Francois,Mediocentro,22,16/07/2000,"1,73",izquierdo,-,-,-,500000,Australia
+10,Ajdin Hrustic,Mediocentro ofensivo,26,05/07/1996,"1,83",izquierdo,20,3,13/06/2017,1800000,Australia
+-,Denis Genreau,Mediocentro ofensivo,24,21/05/1999,"1,75",derecho,4,-,07/06/2021,1200000,Australia
+11,Awer Mabil,Extremo izquierdo,27,15/09/1995,"1,79",derecho,29,8,15/10/2018,1500000,Australia
+7,Mathew Leckie,Extremo izquierdo,32,04/02/1991,"1,81",derecho,73,13,14/11/2012,1000000,Australia
+6,Martin Boyle,Extremo derecho,30,25/04/1993,"1,72",derecho,19,5,17/11/2018,2500000,Australia
+-,Marco Tilio,Extremo derecho,21,23/08/2001,"1,70",izquierdo,5,-,27/01/2022,900000,Australia
+9,Jamie Maclaren,Delantero centro,29,29/07/1993,"1,79",derecho,26,8,27/05/2016,1500000,Australia
+-,Adam Taggart,Delantero centro,30,02/06/1993,"1,77",derecho,17,6,03/12/2012,800000,Australia
+26,Jason Cummings,Delantero centro,27,01/08/1995,"1,78",izquierdo,1,1,25/09/2022,750000,Australia
+15,Mitchell Duke,Delantero centro,32,18/01/1991,"1,86",derecho,21,8,20/07/2013,700000,Australia
+24,Garang Kuol,Delantero centro,18,15/09/2004,"1,75",derecho,1,-,25/09/2022,100000,Australia
+1,Mohammed Al-Rubaie,Portero,25,14/08/1997,"1,90",derecho,7,-,21/03/2019,1200000,Arabia Saudita
+21,Mohammed Al-Owais,Portero,31,10/10/1991,"1,85",izquierdo,33,-,01/09/2015,900000,Arabia Saudita
+-,Fawaz Al-Qarni,Portero,31,02/04/1992,"1,85",derecho,9,-,09/12/2012,350000,Arabia Saudita
+23,Nawaf Al-Aqidi,Portero,23,10/05/2000,"1,88",,-,-,-,50000,Arabia Saudita
+4,Abdulelah Al-Amri,Defensa central,26,15/01/1997,"1,83",derecho,13,1,30/03/2021,1000000,Arabia Saudita
+3,Abdullah Madu,Defensa central,29,15/07/1993,"1,86",izquierdo,12,-,10/10/2019,900000,Arabia Saudita
+17,Hassan Tambakti,Defensa central,24,09/02/1999,"1,82",derecho,11,-,10/08/2019,600000,Arabia Saudita
+5,Ali Al-Boleahi,Defensa central,33,21/11/1989,"1,78",izquierdo,28,-,28/05/2018,400000,Arabia Saudita
+13,Yasser Al-Shahrani,Lateral izquierdo,31,25/05/1992,"1,71",derecho,61,2,07/09/2012,2000000,Arabia Saudita
+-,Ahmed Bamsaud,Lateral izquierdo,27,22/11/1995,"1,69",izquierdo,1,-,27/09/2022,600000,Arabia Saudita
+24,Nasser Al-Dawsari,Lateral izquierdo,24,19/12/1998,"1,78",izquierdo,8,-,25/03/2021,350000,Arabia Saudita
+-,Zakaria Al-Hawsawi,Lateral izquierdo,22,11/01/2001,-,izquierdo,-,-,-,-,Arabia Saudita
+2,Sultan Al-Ghannam,Lateral derecho,29,06/05/1994,"1,73",derecho,17,-,19/11/2019,3500000,Arabia Saudita
+6,Mohammed Al-Burayk,Lateral derecho,30,15/09/1992,"1,70",derecho,28,-,28/03/2017,2000000,Arabia Saudita
+12,Saud Abdulhamid,Lateral derecho,23,18/07/1999,"1,78",derecho,14,-,05/09/2019,1200000,Arabia Saudita
+14,Abdullah Otayf,Pivote,30,03/08/1992,"1,77",derecho,37,1,08/06/2017,300000,Arabia Saudita
+15,Ali Al-Hassan,Pivote,26,04/03/1997,"1,76",derecho,9,1,15/06/2021,300000,Arabia Saudita
+-,Awad Al-Nashri,Pivote,21,15/03/2002,"1,75",derecho,-,-,-,75000,Arabia Saudita
+30,Riad Sharahili,Pivote,30,28/04/1993,"1,85",derecho,2,-,23/09/2022,25000,Arabia Saudita
+28,Mohamed Kanno,Mediocentro,28,22/09/1994,"1,92",derecho,25,1,25/12/2017,1800000,Arabia Saudita
+8,Abdulelah Al-Malki,Mediocentro,28,11/10/1994,"1,70",derecho,16,-,10/10/2019,1500000,Arabia Saudita
+7,Salman Al-Faraj,Mediocentro,33,01/08/1989,"1,80",izquierdo,56,7,06/02/2013,750000,Arabia Saudita
+16,Sami Al-Najei,Mediocentro ofensivo,26,07/02/1997,"1,81",izquierdo,14,2,14/01/2017,900000,Arabia Saudita
+18,Nawaf Al-Abed,Mediocentro ofensivo,33,26/01/1990,"1,70",izquierdo,43,8,11/08/2010,350000,Arabia Saudita
+10,Salem Al-Dawsari,Extremo izquierdo,31,19/08/1991,"1,71",derecho,53,15,29/02/2012,2800000,Arabia Saudita
+26,Abdulrahman Al-Obood,Extremo derecho,28,10/06/1995,"1,74",derecho,1,-,12/10/2021,1500000,Arabia Saudita
+27,Hattan Bahebri,Extremo derecho,30,16/07/1992,"1,70",derecho,30,2,25/12/2017,900000,Arabia Saudita
+-,Ayman Yahya,Extremo derecho,22,14/05/2001,"1,68",ambidiestro,3,-,14/11/2020,750000,Arabia Saudita
+19,Fahad Al-Muwallad,Extremo derecho,28,14/09/1994,"1,67",derecho,62,17,06/02/2013,-,Arabia Saudita
+9,Firas Al-Buraikan,Delantero centro,23,14/05/2000,"1,81",izquierdo,20,4,10/10/2019,1200000,Arabia Saudita
+11,Saleh Al-Shehri,Delantero centro,29,01/11/1993,"1,84",derecho,10,6,14/11/2020,1000000,Arabia Saudita
+31,Haitham Asiri,Delantero centro,21,01/07/2001,"1,73",derecho,4,-,01/12/2021,600000,Arabia Saudita
+-,Haroune Camara,Delantero centro,25,01/01/1998,"1,88",derecho,3,-,10/09/2018,400000,Arabia Saudita
+20,Abdullah Al-Hamdan,Delantero centro,23,12/09/1999,"1,84",ambidiestro,13,4,05/09/2019,375000,Arabia Saudita
+-,Abdullah Radif,Delantero centro,20,21/01/2003,"1,87",derecho,3,-,01/12/2021,25000,Arabia Saudita
+22,Meshaal Barsham,Portero,25,14/02/1998,"1,80",derecho,15,-,13/11/2020,450000,Catar
+-,Salah Zakaria,Portero,24,24/04/1999,"1,85",,1,-,26/08/2022,375000,Catar
+1,Saad Al-Sheeb,Portero,33,19/02/1990,"1,84",derecho,80,-,30/12/2009,200000,Catar
+20,Yousef Hassan,Portero,27,24/05/1996,-,,9,-,07/09/2018,150000,Catar
+15,Bassam Al-Rawi,Defensa central,25,16/12/1997,"1,75",derecho,51,2,11/11/2017,500000,Catar
+5,Tarek Salman,Defensa central,25,05/12/1997,"1,79",derecho,54,-,23/08/2017,400000,Catar
+16,Boualem Khoukhi,Defensa central,32,09/07/1990,"1,80",derecho,99,21,03/09/2014,400000,Catar
+2,Pedro Miguel,Defensa central,32,06/08/1990,"1,82",derecho,78,1,29/03/2016,325000,Catar
+-,Ahmed Suhail,Defensa central,24,08/02/1999,"1,83",derecho,2,-,30/03/2021,200000,Catar
+26,Jassem Gaber Abdulsallam,Defensa central,21,20/02/2002,"1,83",derecho,-,-,-,175000,Catar
+-,Mohamed Emad Aiash,Defensa central,22,27/02/2001,-,derecho,-,-,-,100000,Catar
+3,Abdelkarim Hassan,Lateral izquierdo,29,28/08/1993,"1,86",izquierdo,120,15,18/11/2010,750000,Catar
+14,Homam Ahmed,Lateral izquierdo,23,25/08/1999,"1,86",izquierdo,27,2,14/11/2019,500000,Catar
+13,Musab Khoder,Lateral derecho,30,01/01/1993,"1,74",derecho,29,-,29/03/2016,250000,Catar
+12,Karim Boudiaf,Pivote,32,16/09/1990,"1,87",derecho,108,5,27/12/2014,450000,Catar
+4,Mohammed Waad,Pivote,23,18/09/1999,"1,83",izquierdo,20,-,13/11/2020,400000,Catar
+-,Assim Madibo,Pivote,26,22/10/1996,"1,68",derecho,43,-,11/11/2017,300000,Catar
+-,Salem Al-Hajri,Pivote,27,10/04/1996,"1,83",derecho,23,-,17/01/2017,250000,Catar
+-,Ahmed Fadel,Pivote,30,07/04/1993,-,,-,-,-,125000,Catar
+6,Abdulaziz Hatem,Mediocentro,32,28/10/1990,"1,83",izquierdo,96,11,30/12/2009,500000,Catar
+23,Mustafa Mashaal,Mediocentro,22,28/03/2001,-,derecho,1,-,26/08/2022,150000,Catar
+24,Osama Al-Tairi,Mediocentro,21,16/06/2002,-,derecho,-,-,-,100000,Catar
+8,Ali Asad,Mediocentro ofensivo,30,19/01/1993,"1,75",derecho,56,12,03/09/2014,200000,Catar
+11,Akram Afif,Extremo izquierdo,26,18/11/1996,"1,77",derecho,83,24,03/09/2015,4000000,Catar
+25,Abdelrahman Moustafa,Extremo izquierdo,26,05/04/1997,"1,68",derecho,2,-,07/09/2018,350000,Catar
+-,Yusuf Abdurisag,Extremo izquierdo,23,06/08/1999,"1,80",ambidiestro,12,1,05/09/2019,250000,Catar
+18,Khalid Muneer Mazeed,Extremo izquierdo,25,24/02/1998,"1,74",,3,1,06/12/2021,250000,Catar
+10,Hasan Al-Haydos,Extremo derecho,32,11/12/1990,"1,74",derecho,160,34,11/08/2008,900000,Catar
+21,Naif Al-Hadhrami,Extremo derecho,21,18/07/2001,-,,1,-,29/03/2022,275000,Catar
+17,Ismaeel Mohammed,Extremo derecho,33,05/04/1990,"1,68",derecho,66,4,03/09/2014,225000,Catar
+19,Almoez Ali,Delantero centro,26,19/08/1996,"1,80",derecho,82,39,08/08/2016,2000000,Catar
+7,Ahmed Alaaeldin,Delantero centro,30,31/01/1993,"1,77",derecho,45,1,29/05/2016,600000,Catar
+9,Mohammed Muntari,Delantero centro,29,20/12/1993,"1,94",derecho,41,11,27/12/2014,300000,Catar
+-,Leonel Moreira,Portero,33,02/04/1990,"1,76",derecho,23,-,02/07/2011,275000,Costa Rica
+-,Aaron Cruz,Portero,32,25/05/1991,"1,87",derecho,3,-,22/08/2021,275000,Costa Rica
+18,Esteban Alvarado,Portero,34,28/04/1989,"1,93",derecho,24,-,11/08/2010,200000,Costa Rica
+23,Patrick Sequeira,Portero,24,01/03/1999,"1,90",derecho,2,-,23/09/2022,200000,Costa Rica
+-,Alexandre Lezcano,Portero,21,26/08/2001,"1,90",derecho,-,-,-,100000,Costa Rica
+-,Steven Orias,Portero,19,03/09/2003,-,,-,-,-,-,Costa Rica
+15,Francisco Calvo,Defensa central,30,08/07/1992,"1,80",izquierdo,75,8,02/07/2011,1700000,Costa Rica
+3,Juan Pablo Vargas,Defensa central,28,06/06/1995,"1,92",izquierdo,12,1,15/01/2017,1500000,Costa Rica
+6,Óscar Duarte,Defensa central,34,03/06/1989,"1,86",derecho,69,3,18/11/2010,800000,Costa Rica
+19,Kendall Waston,Defensa central,35,01/01/1988,"1,96",derecho,61,7,28/05/2013,225000,Costa Rica
+22,Ronald Matarrita,Lateral izquierdo,28,09/07/1994,"1,75",izquierdo,52,3,05/09/2015,1500000,Costa Rica
+-,Ian Lawrence,Lateral izquierdo,21,28/05/2002,"1,79",izquierdo,3,-,27/03/2022,250000,Costa Rica
+8,Bryan Oviedo,Lateral izquierdo,33,18/02/1990,"1,72",izquierdo,75,2,27/01/2010,200000,Costa Rica
+4,Keysher Fuller,Lateral derecho,28,12/07/1994,"1,83",derecho,30,2,02/02/2019,225000,Costa Rica
+14,Carlos Martínez,Lateral derecho,24,30/03/1999,"1,76",derecho,6,-,27/03/2022,225000,Costa Rica
+-,Ricardo Blanco,Lateral derecho,34,12/05/1989,"1,70",derecho,15,-,06/09/2010,200000,Costa Rica
+-,Orlando Galo,Pivote,22,11/08/2000,"1,76",derecho,10,-,08/10/2021,300000,Costa Rica
+2,Daniel Chacón,Pivote,22,11/04/2001,"1,83",derecho,8,-,31/01/2022,300000,Costa Rica
+17,Yeltsin Tejeda,Pivote,31,17/03/1992,"1,79",derecho,72,-,11/12/2011,275000,Costa Rica
+24,Douglas López,Pivote,24,21/09/1998,"1,80",derecho,2,-,31/03/2022,275000,Costa Rica
+16,Youstin Salas,Pivote,27,17/06/1996,"1,73",derecho,3,-,13/11/2021,225000,Costa Rica
+5,Celso Borges,Mediocentro,35,27/05/1988,"1,82",derecho,153,25,22/06/2008,225000,Costa Rica
+21,Roan Wilson,Mediocentro,21,01/05/2002,"1,84",derecho,2,-,03/06/2022,225000,Costa Rica
+13,Gerson Torres,Interior derecho,25,28/08/1997,"1,76",izquierdo,13,1,15/01/2017,325000,Costa Rica
+-,Allen Guevara,Interior derecho,34,16/04/1989,"1,60",derecho,15,-,15/01/2011,225000,Costa Rica
+26,Álvaro Zamora,Interior izquierdo,21,09/03/2002,"1,83",derecho,2,-,23/09/2022,-,Costa Rica
+20,Brandon Aguilera,Mediocentro ofensivo,20,28/06/2003,"1,81",izquierdo,4,-,31/03/2022,325000,Costa Rica
+-,Aarón Suárez,Mediocentro ofensivo,21,27/06/2002,"1,65",,4,-,13/11/2021,275000,Costa Rica
+10,Bryan Ruiz,Mediocentro ofensivo,37,18/08/1985,"1,87",izquierdo,144,29,19/06/2005,200000,Costa Rica
+9,Jewison Bennette,Extremo izquierdo,19,15/06/2004,"1,75",izquierdo,7,2,22/08/2021,1000000,Costa Rica
+12,Joel Campbell,Extremo derecho,31,26/06/1992,"1,78",izquierdo,118,25,06/06/2011,2500000,Costa Rica
+-,Carlos Mora,Extremo derecho,22,18/03/2001,"1,78",derecho,4,-,31/03/2022,275000,Costa Rica
+25,Anthony Hernández,Extremo derecho,21,11/10/2001,"1,80",,2,1,23/09/2022,-,Costa Rica
+7,Anthony Contreras,Delantero centro,23,29/01/2000,"1,80",derecho,9,2,13/11/2021,350000,Costa Rica
+11,Johan Venegas,Delantero centro,34,27/11/1988,"1,83",derecho,81,11,03/09/2014,325000,Costa Rica
+22,Marc-André ter Stegen,Portero,31,30/04/1992,"1,87",derecho,30,-,26/05/2012,30000000,Alemania
+1,Manuel Neuer,Portero,37,27/03/1986,"1,93",derecho,113,-,02/06/2009,12000000,Alemania
+12,Kevin Trapp,Portero,32,08/07/1990,"1,89",derecho,6,-,06/06/2017,8500000,Alemania
+-,Oliver Baumann,Portero,33,02/06/1990,"1,87",derecho,-,-,-,4500000,Alemania
+2,Antonio Rüdiger,Defensa central,30,03/03/1993,"1,90",derecho,54,2,13/05/2014,40000000,Alemania
+15,Niklas Süle,Defensa central,27,03/09/1995,"1,95",derecho,42,1,31/08/2016,35000000,Alemania
+23,Nico Schlotterbeck,Defensa central,23,01/12/1999,"1,91",izquierdo,5,-,26/03/2022,33000000,Alemania
+5,Thilo Kehrer,Defensa central,26,21/09/1996,"1,86",derecho,22,-,09/09/2018,22000000,Alemania
+-,Jonathan Tah,Defensa central,27,11/02/1996,"1,95",derecho,16,-,26/03/2016,20000000,Alemania
+4,Matthias Ginter,Defensa central,29,19/01/1994,"1,91",derecho,46,2,05/03/2014,20000000,Alemania
+25,Armel Bella-Kotchap,Defensa central,21,11/12/2001,"1,90",derecho,1,-,26/09/2022,18000000,Alemania
+16,Lukas Klostermann,Defensa central,27,03/06/1996,"1,89",derecho,18,-,20/03/2019,14000000,Alemania
+3,David Raum,Lateral izquierdo,25,22/04/1998,"1,80",izquierdo,11,-,05/09/2021,26000000,Alemania
+-,Benjamin Henrichs,Lateral derecho,26,23/02/1997,"1,85",derecho,7,-,11/11/2016,15000000,Alemania
+6,Joshua Kimmich,Pivote,28,08/02/1995,"1,77",derecho,70,5,29/05/2016,80000000,Alemania
+-,Anton Stach,Pivote,24,15/11/1998,"1,94",ambidiestro,2,-,26/03/2022,15000000,Alemania
+8,Leon Goretzka,Mediocentro,28,06/02/1995,"1,89",derecho,44,14,13/05/2014,65000000,Alemania
+21,Ilkay Gündogan,Mediocentro,32,24/10/1990,"1,80",derecho,62,16,11/10/2011,25000000,Alemania
+-,Maximilian Arnold,Mediocentro,29,27/05/1994,"1,84",izquierdo,3,-,13/05/2014,17000000,Alemania
+-,Robin Gosens,Interior izquierdo,28,05/07/1994,"1,83",izquierdo,14,2,03/09/2020,18000000,Alemania
+14,Jamal Musiala,Mediocentro ofensivo,20,26/02/2003,"1,84",derecho,17,1,25/03/2021,100000000,Alemania
+7,Kai Havertz,Mediocentro ofensivo,24,11/06/1999,"1,90",izquierdo,30,10,09/09/2018,70000000,Alemania
+17,Julian Brandt,Mediocentro ofensivo,27,02/05/1996,"1,85",derecho,38,3,29/05/2016,28000000,Alemania
+19,Leroy Sané,Extremo izquierdo,27,11/01/1996,"1,83",izquierdo,47,11,13/11/2015,70000000,Alemania
+10,Serge Gnabry,Extremo derecho,27,14/07/1995,"1,76",derecho,36,20,11/11/2016,65000000,Alemania
+24,Karim Adeyemi,Extremo derecho,21,18/01/2002,"1,80",izquierdo,4,1,05/09/2021,35000000,Alemania
+18,Jonas Hofmann,Extremo derecho,30,14/07/1992,"1,76",derecho,16,4,07/10/2020,13000000,Alemania
+13,Thomas Müller,Mediapunta,33,13/09/1989,"1,85",derecho,118,44,03/03/2010,18000000,Alemania
+-,Timo Werner,Delantero centro,27,06/03/1996,"1,80",derecho,55,24,22/03/2017,25000000,Alemania
+-,Lukas Nmecha,Delantero centro,24,14/12/1998,"1,85",derecho,7,-,11/11/2021,18000000,Alemania
