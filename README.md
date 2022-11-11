@@ -19,7 +19,6 @@
 ### -[Requests](https://pypi.org/project/requests/)
 ### -[Pandas](https://pypi.org/project/pandas/)
 ### -[Pathlib](https://docs.python.org/3/library/pathlib.html)
-### -[Pathlib](https://docs.python.org/3/library/pathlib.html)
 ### -[Mysql-connector](https://pypi.org/project/mysql-connector-python)
 
 <br></br>
