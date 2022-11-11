@@ -1,0 +1,32 @@
+#,Jugadores,Nacido / edad,Altura,Pie,Partidos con la selección,Goles,Debut,Valor mercado en €
+-,Leonel Moreira Portero,02/04/1990 (33),"1,76m",derecho,23.0,-,02/07/2011,275000
+-,Aaron Cruz Portero,25/05/1991 (32),"1,87m",derecho,2.0,-,22/08/2021,275000
+-,Esteban Alvarado Portero,28/04/1989 (34),"1,93m",derecho,22.0,-,11/08/2010,200000
+-,Patrick Sequeira Portero,01/03/1999 (24),"1,90m",derecho,1.0,-,23/09/2022,200000
+-,Francisco Calvo Defensa central,08/07/1992 (30),"1,80m",izquierdo,74.0,8,02/07/2011,1700000
+-,Juan Pablo Vargas Defensa central,06/06/1995 (28),"1,92m",izquierdo,11.0,1,15/01/2017,1500000
+6,Óscar Duarte Defensa central,03/06/1989 (34),"1,86m",derecho,68.0,3,18/11/2010,800000
+-,Kendall Waston Defensa central,01/01/1988 (35),"1,96m",derecho,60.0,6,28/05/2013,225000
+-,Ian Lawrence Lateral izquierdo,28/05/2002 (21),"1,79m",izquierdo,3.0,-,27/03/2022,250000
+8,Bryan Oviedo Lateral izquierdo,18/02/1990 (33),"1,72m",izquierdo,72.0,2,27/01/2010,200000
+-,Keysher Fuller Lateral derecho,12/07/1994 (28),"1,83m",derecho,28.0,2,02/02/2019,225000
+22,Carlos Martínez Lateral derecho,30/03/1999 (24),"1,76m",derecho,4.0,-,27/03/2022,225000
+-,Ricardo Blanco Lateral derecho,12/05/1989 (34),"1,70m",derecho,14.0,-,06/09/2010,200000
+-,Orlando Galo Pivote,11/08/2000 (22),"1,76m",derecho,9.0,-,08/10/2021,300000
+2,Daniel Chacón Pivote,11/04/2001 (22),"1,83m",derecho,7.0,-,31/01/2022,300000
+-,Yeltsin Tejeda Pivote,17/03/1992 (31),"1,79m",derecho,72.0,-,11/12/2011,275000
+-,Douglas López Pivote,21/09/1998 (24),"1,80m",derecho,1.0,-,31/03/2022,275000
+-,Celso Borges Mediocentro,27/05/1988 (35),"1,82m",derecho,151.0,25,22/06/2008,225000
+17,Roan Wilson Mediocentro,01/05/2002 (21),"1,84m",derecho,1.0,-,03/06/2022,225000
+-,Gerson Torres Interior derecho,28/08/1997 (25),"1,76m",izquierdo,12.0,1,15/01/2017,325000
+-,Allen Guevara Interior derecho,16/04/1989 (34),"1,60m",derecho,14.0,-,15/01/2011,225000
+-,Álvaro Zamora Interior izquierdo,09/03/2002 (21),"1,83m",derecho,1.0,-,23/09/2022,-
+20,Brandon Aguilera Mediocentro ofensivo,28/06/2003 (20),"1,81m",izquierdo,3.0,-,31/03/2022,325000
+-,Aarón Suárez Mediocentro ofensivo,27/06/2002 (21),"1,65m",,2.0,-,13/11/2021,275000
+-,Bryan Ruiz Mediocentro ofensivo,18/08/1985 (37),"1,87m",izquierdo,143.0,29,19/06/2005,200000
+-,Jewison Bennette Extremo izquierdo,15/06/2004 (19),"1,75m",izquierdo,6.0,-,22/08/2021,1000000
+12,Joel Campbell Extremo derecho,26/06/1992 (31),"1,78m",izquierdo,117.0,25,06/06/2011,2500000
+21,Carlos Mora Extremo derecho,18/03/2001 (22),"1,78m",derecho,3.0,-,31/03/2022,275000
+25,Anthony Hernández Extremo derecho,11/10/2001 (21),"1,79m",,1.0,-,23/09/2022,-
+-,Anthony Contreras Delantero centro,29/01/2000 (23),"1,80m",derecho,7.0,2,13/11/2021,350000
+-,Johan Venegas Delantero centro,27/11/1988 (34),"1,83m",derecho,79.0,11,03/09/2014,325000
