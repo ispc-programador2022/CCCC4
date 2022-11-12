@@ -29,6 +29,11 @@ for registro in archivo:             #leemos cada fila del archivo, donde estan 
     if b > 1 :                       #Obviamos la fila de encabezado   
         reg= registro.split(",")                            ## Tomamos el CSV y creamos una lista
         s = ''.join(filter(str.isalnum, reg[3]))
+        if reg[0]=="Reino Unido ": 
+            reg[0]="Inglaterra"
+            cursor.execute ("INSERT INTO Poblacion \
+            Values('Gales', 3136000)")
+
             ## Sentencia SQL para escribir la tabla solo con los datos que nos serviran
         sentencia = "INSERT INTO Poblacion \
         Values('"+ reg[0].strip() + "'," + s  +"  )"
@@ -36,5 +41,7 @@ for registro in archivo:             #leemos cada fila del archivo, donde estan 
         cursor.execute (sentencia )
           
     #Hacemos el commit para MySql y cerramos cada archivo
+
+
 cursor.execute("Commit")
 archivo.close()
