@@ -21,7 +21,7 @@ datos = cursor.fetchall()
 
 ##Abrimos el archivo para guardar la consulta como CSV
 archivo = open ("Database/consulta.csv","w")
-encabezado= "Equipos,Valor Entrada Reventa,Poblacion,Goles Equipo,Rankig Fifa,Valor Equipo,Partidos Equipo "
+encabezado= "Equipos,Valor Entrada Reventa,Poblacion,Goles Equipo,Rankig Fifa,Valor Equipo,Partidos Equipo \n"
 
 archivo.write(encabezado)
 archivo.write("\n")
