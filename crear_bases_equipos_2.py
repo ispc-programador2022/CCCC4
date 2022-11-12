@@ -16,6 +16,7 @@ cursor.execute ("CREATE TABLE IF NOT EXISTS Equipos \
     Partidos Varchar(30),\
     Goles Varchar (30),\
     Valor VARCHAR(30),\
+    Valor VARCHAR(30),\    
     Equipos Varchar(30)\
     );")
 

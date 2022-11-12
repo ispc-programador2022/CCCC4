@@ -3,9 +3,9 @@ import mysql.connector
 
 db = mysql.connector.connect(
         host='localhost',
-        user='root',
-        password='Pamelafu01',
-        database = 'importada'
+        user='ISPC',
+        password='ISPC',
+        database = 'Mundial'
 )
 
 ## ABRIMOS LA BASE DE DATOS Y CREAMOS LA TABLA A UTILIZAR PARA GUARDAR LOS EQUIPOS
@@ -20,7 +20,7 @@ cursor.execute ("CREATE TABLE IF NOT EXISTS Ranking \
 ## LEEMOS el directorio para buscar todos los archivos con equipos a fin de crear uno que contenga a todos.
 
 
-fichero = "C:/Users/Claudio/Documents/ISPC/Proyecto Final I/CCCC4/Data/Fifa Ranking/Fifa_Rank.csv"
+fichero = "Data/Fifa Ranking/Fifa_Rank.csv"
    
 archivo = open (fichero,encoding="utf-8")      #abrimos cada archivo
   
@@ -34,7 +34,7 @@ for registro in archivo:             #leemos cada fila del archivo, donde estan 
         sentencia = "INSERT INTO Ranking \
         Values('"+ reg[1] + "','" + reg[3] + "',"+reg[4] +"  )"
         cursor.execute (sentencia )
-          
+        
     #Hacemos el commit para MySql y cerramos cada archivo
 cursor.execute("Commit")
 archivo.close()

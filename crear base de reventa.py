@@ -3,9 +3,9 @@ import mysql.connector
 
 db = mysql.connector.connect(
         host='localhost',
-        user='root',
-        password='Pamelafu01',
-        database = 'importada'
+        user='ISPC',
+        password='ISPC',
+        database = 'Mundial'
 )
 
 ## ABRIMOS LA BASE DE DATOS Y CREAMOS LA TABLA A UTILIZAR PARA GUARDAR LOS EQUIPOS
@@ -22,7 +22,7 @@ cursor.execute ("CREATE TABLE IF NOT EXISTS Reventa \
 ## LEEMOS el directorio para buscar todos los archivos con equipos a fin de crear uno que contenga a todos.
 
 
-fichero = "C:/Users/Claudio/Documents/ISPC/Proyecto Final I/CCCC4/Data/Entradas/Entradas_reventa.csv"
+fichero = "Data/Entradas/Entradas_reventa.csv"
    
 archivo = open (fichero,encoding="utf-8")      #abrimos cada archivo
   
