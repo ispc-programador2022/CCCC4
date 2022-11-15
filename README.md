@@ -20,6 +20,7 @@
 ### -[Pandas](https://pypi.org/project/pandas/)
 ### -[Pathlib](https://docs.python.org/3/library/pathlib.html)
 ### -[Mysql-connector](https://pypi.org/project/mysql-connector-python)
+### -[PySide6](https://pypi.org/project/PySide6/)
 
 <br></br>
 # Consignas
