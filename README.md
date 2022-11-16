@@ -76,5 +76,7 @@
 <br>
 -Cuestas Natalia Noemi: Scrum Master (SM)
 <br>
+<br>
 <p>Link de descarga de ejecutable Aplicación Contador:</p>
+
 <p>Link Página Web:</p>
