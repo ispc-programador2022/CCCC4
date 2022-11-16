@@ -77,6 +77,6 @@
 -Cuestas Natalia Noemi: Scrum Master (SM)
 <br>
 <br>
-<p>Link de descarga de ejecutable Aplicación Contador:</p>
+<p>Link de descarga de ejecutable Aplicación Contador: https://drive.google.com/drive/folders/1C6bRWrOiKVMfgZKo1ii757GiDnEJR-Ot?usp=share_link</p>
 
-<p>Link Página Web:</p>
+<p>Link Página Web: </p>
