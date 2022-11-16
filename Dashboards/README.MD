@@ -1,1 +1,1 @@
-[![descarga.jpg](https://i.postimg.cc/4yFP2vFs/descarga.jpg)](https://postimg.cc/K3BtRT2H)
+[![banner-powerbi-1536x499.jpg](https://i.postimg.cc/MZhdB5Rm/banner-powerbi-1536x499.jpg)](https://postimg.cc/RqL75cgW)
