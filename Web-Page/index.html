@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>ISPC- Grupo CCC4</title>
+    <link rel="shortcut icon" href="img/—Pngtree—qatar world cup 2022_8541616.png" type="image/x-icon">
+    <link rel="stylesheet" href="CSS/estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="#">Inicio</a>
+            <a href="#Estadist">Estadisticas</a>
+            <a href="#fix">Fixture</a>
+            <a href="#Entradas">Entradas</a>
+            <a href="equipos.html" target="_blank" rel="noopener noreferrer">Equipos Fifa</a>
+            <a href="#SobreNos">Sobre Nosotros</a>
+            
+        </nav>
+        <section class="textos-header">
+            <h1>Mundial Qatar 2022</h1>
+            <iframe src="https://free.timeanddate.com/countdown/i8ktat2z/n485/cf100/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cacfff/cpcfff/pct/tc000/fs100/szw320/szh135/tatCuenta%20Regresiva/tacfff/tptTime%20since%20Event%20started%20in/tpcfff/iso2022-11-20T13:30:00/pa2" allowtransparency="true" frameborder="0" width="324" height="139"></iframe>
+        </section>
+        <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
+                style="height: 100%; width: 100%;">
+                <path d="M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z"
+                    style="stroke: none; fill: #fff;"></path>
+            </svg></div>
+    </header>
+    <main>
+        <a name="Estadist"></a>
+        <section class="contenedor sobre-nosotros">
+            <h2 class="titulo">Estadisticas</h2>
+                     
+            <div class="contenedor-sobre-nosotros">
+                <iframe title="Paneles - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWQxN2QyOWItODg5YS00ZDQyLThmYWEtYTE4N2U3Njc3NzMzIiwidCI6IjI5MDQ3MThmLTg0NzItNDM1MS1iNjk3LWY5ZmJjODY4MDFkOSIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+                
+                <div class="contenido-textos">
+                    <h3><span>1</span>Estadistica 1</h3>
+                    <p>Distribución de puntos Fifa por Confederación</p>
+                    <h3><span>2</span>Estadistica 2</h3>
+                    <p>Recaudación oficial Vs Reventa por tipo de partido</p>
+                    <h3><span>3</span>Estadistica 3</h3>
+                    <p>Evolución de recaudación oficial por encuentro</p>
+                    <h3><span>4</span>Estadistica 4</h3>
+                    <p>Top 10 países mas valiosos- Relacion valor de mercado/ goles</p>
+                    <h3><span>5</span>Estadistica 5</h3>
+                    <p>Jugadores por año de nacimiento</p>
+                </div>
+            </div>
+        </section>
+        <section class="portafolio">
+            <a name="fix"></a>
+            <div class="contenedor">
+                <h2 class="titulo">Fixture</h2>
+                <div class="galeria-port">
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-xs-12">                 
+                        <p>
+                          Tabla Fixture Mundial Qatar 2022 <b>permite filtrar</b> el resultado de la tabla en <b>base al criterio que uno escriba</b> en el <b>campo de búsqueda</b>.
+                        </p>
+                        <p>
+                           <b>Hora Argentina</b> 
+                          </p>                          
+                        <!-- TABLA INICIA -->
+                        <table id="tabla" class="table table-striped">
+                          <thead>
+                            <tr>
+                                <td colspan="5">
+                                  <input id="buscar" type="text" class="form-control" placeholder="Escriba algo para filtrar" />
+                                </td>
+                              </tr>
+                            <tr>
+                              <th style="width:160px">Fecha</th>
+                              <th style="width:160px">Partido</th>
+                              <th style="width:220px">Hora</th>
+                              <th style="width:140px">Estadio</th>
+                              <th style="width:140px">Grupo</th>
+                            </tr>
+                            
+                          </thead>
+                          <tbody>
+                          <script>
+                                var busqueda = document.getElementById('buscar');
+                                  var table = document.getElementById("tabla").tBodies[0];
+
+                                  buscaTabla = function () {
+                                    texto = busqueda.value.toLowerCase();
+                                    var r = 0;
+                                    while (row = table.rows[r++]) {
+                                      if (row.innerText.toLowerCase().indexOf(texto) !== -1)
+                                        row.style.display = null;
+                                      else
+                                        row.style.display = 'none';
+                                    }
+                                  }
+
+                                  busqueda.addEventListener('keyup', buscaTabla);
+                          </script>
+                             <tr>
+                                <td>20-nov</td>
+                                <td>Qatar - Ecuador</td>
+                                <td>13:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>A</td>
+                            </tr>
+                            <tr>
+                                <td>21-nov</td>
+                                <td>Senegal - Países Bajos</td>
+                                <td>7:00</td>
+                                <td>Estadio Al Thumama</td>
+                                <td>A</td>
+                            </tr>
+                            <tr>
+                                <td>25-nov</td>
+                                <td>Qatar - Senegal</td>
+                                <td>12:00</td>
+                                <td>Estadio Al Thumama</td>
+                                <td>A</td>
+                            </tr>
+                            <tr>
+                                <td>25-nov</td>
+                                <td>Ecuador - Países Bajos</td>
+                                <td>13:00</td>
+                                <td>Estadio Internacional Khalifa</td>
+                                <td>A</td>
+                            </tr>
+                            <tr>
+                                <td>29-nov</td>
+                                <td>Qatar - Países Bajos</td>
+                                <td>12:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>A</td>
+                            </tr>
+                            <tr>
+                                <td>29-nov</td>
+                                <td>Ecuador - Senegal</td>
+                                <td>12:00</td>
+                                <td>Estadio Internacional Khalifa</td>
+                                <td>A</td>
+                            </tr>
+                            <tr>
+                                <td>21-nov</td>
+                                <td>Inglaterra - Irán</td>
+                                <td>10:00</td>
+                                <td>Estadio Internacional Khalifa</td>
+                                <td>B</td>
+                            </tr>
+                            <tr>
+                                <td>21-nov</td>
+                                <td>Estados Unidos - Gales</td>
+                                <td>16:00</td>
+                                <td>Estadio Ahmad Bin Ali</td>
+                                <td>B</td>
+                            </tr>
+                            <tr>
+                                <td>25-nov</td>
+                                <td>Inglaterra - Estados Unidos</td>
+                                <td>16:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>B</td>
+                            </tr>
+                            <tr>
+                                <td>25-nov</td>
+                                <td>Irán - Gales</td>
+                                <td>7:00</td>
+                                <td>Estadio Ahmad Bin Ali</td>
+                                <td>B</td>
+                            </tr>
+                            <tr>
+                                <td>29-nov</td>
+                                <td>Inglaterra - Gales</td>
+                                <td>16:00</td>
+                                <td>Estadio Ahmad Bin Ali</td>
+                                <td>B</td>
+                            </tr>
+                            <tr>
+                                <td>29-nov</td>
+                                <td>Irán - Estados Unidos</td>
+                                <td>16:00</td>
+                                <td>Estadio Al Thumama</td>
+                                <td>B</td>
+                            </tr>
+                            <tr>
+                                <td>22-nov</td>
+                                <td>Argentina - Arabia Saudita</td>
+                                <td>7:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>C</td>
+                            </tr>
+                            <tr>
+                                <td>22-nov</td>
+                                <td>México - Polonia</td>
+                                <td>13:00</td>
+                                <td>Estadio 974</td>
+                                <td>C</td>
+                            </tr>
+                            <tr>
+                                <td>26-nov</td>
+                                <td>Argentina - México</td>
+                                <td>16:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>C</td>
+                            </tr>
+                            <tr>
+                                <td>26-nov</td>
+                                <td>Arabia Saudita - Polonia</td>
+                                <td>10:00</td>
+                                <td>Estadio Ciudad de la Educación</td>
+                                <td>C</td>
+                            </tr>
+                            <tr>
+                                <td>30-nov</td>
+                                <td>Polonia - Argentina</td>
+                                <td>16:00</td>
+                                <td>Estado 974</td>
+                                <td>C</td>
+                            </tr>
+                            <tr>
+                                <td>30-nov</td>
+                                <td>Arabia Saudita - México</td>
+                                <td>16:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>C</td>
+                            </tr>
+                            <tr>
+                                <td>22-nov</td>
+                                <td>Francia - Australia</td>
+                                <td>16:00</td>
+                                <td>Estadio Al Janoub</td>
+                                <td>D</td>
+                            </tr>
+                            <tr>
+                                <td>22-nov</td>
+                                <td>Dinamarca - Túnez</td>
+                                <td>10:00</td>
+                                <td>Estadio Ciudad de la Educación</td>
+                                <td>D</td>
+                            </tr>
+                            <tr>
+                                <td>26-nov</td>
+                                <td>Francia - Dinamarca</td>
+                                <td>13:00</td>
+                                <td>Estadio 974</td>
+                                <td>D</td>
+                            </tr>
+                            <tr>
+                                <td>26-nov</td>
+                                <td>Australia - Túnez</td>
+                                <td>7:00</td>
+                                <td>Estadio Al Janoub</td>
+                                <td>D</td>
+                            </tr>
+                            <tr>
+                                <td>30-nov</td>
+                                <td>Francia - Túnez</td>
+                                <td>12:00</td>
+                                <td>Estadio Ciudad de la Educación</td>
+                                <td>D</td>
+                            </tr>
+                            <tr>
+                                <td>30-nov</td>
+                                <td>Australia - Dinamarca</td>
+                                <td>12:00</td>
+                                <td>Estadio Al Janoub</td>
+                                <td>D</td>
+                            </tr>
+                            <tr>
+                                <td>23-nov</td>
+                                <td>España - Costa Rica</td>
+                                <td>13:00</td>
+                                <td>Estadio Al Thumama</td>
+                                <td>E</td>
+                            </tr>
+                            <tr>
+                                <td>23-nov</td>
+                                <td>Alemania - Japón</td>
+                                <td>10:00</td>
+                                <td>Estadio Internacional Khalifa</td>
+                                <td>E</td>
+                            </tr>
+                            <tr>
+                                <td>27-nov</td>
+                                <td>España - Alemania</td>
+                                <td>16:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>E</td>
+                            </tr>
+                            <tr>
+                                <td>27-nov</td>
+                                <td>Costa Rica - Japón</td>
+                                <td>7:00</td>
+                                <td>Estadio Ahmad Bin Ali</td>
+                                <td>E</td>
+                            </tr>
+                            <tr>
+                                <td>01-dic</td>
+                                <td>España - Japón</td>
+                                <td>16:00</td>
+                                <td>Estadio Internacional Khalifa</td>
+                                <td>E</td>
+                            </tr>
+                            <tr>
+                                <td>01-dic</td>
+                                <td>Costa Rica- Alemania</td>
+                                <td>16:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>E</td>
+                            </tr>
+                            <tr>
+                                <td>23-nov</td>
+                                <td>Bélgica - Canadá</td>
+                                <td>16:00</td>
+                                <td>Estadio Ahmad Bin Ali</td>
+                                <td>F</td>
+                            </tr>
+                            <tr>
+                                <td>23-nov</td>
+                                <td>Marruecos - Croacia</td>
+                                <td>7:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>F</td>
+                            </tr>
+                            <tr>
+                                <td>27-nov</td>
+                                <td>Bélgica - Marruecos</td>
+                                <td>10:00</td>
+                                <td>Estadio Al Thumama</td>
+                                <td>F</td>
+                            </tr>
+                            <tr>
+                                <td>27-nov</td>
+                                <td>Canadá - Croacia</td>
+                                <td>13:00</td>
+                                <td>Estadio Internacional Khalifa</td>
+                                <td>F</td>
+                            </tr>
+                            <tr>
+                                <td>01-dic</td>
+                                <td>Bélgica - Croacia</td>
+                                <td>12:00</td>
+                                <td>Estadio Ahmad Bin Ali</td>
+                                <td>F</td>
+                            </tr>
+                            <tr>
+                                <td>01-dic</td>
+                                <td>Canadá - Marruecos</td>
+                                <td>12:00</td>
+                                <td>Estadio Al Thumama</td>
+                                <td>F</td>
+                            </tr>
+                            <tr>
+                                <td>24-nov</td>
+                                <td>Brasil - Serbia</td>
+                                <td>16:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>G</td>
+                            </tr>
+                            <tr>
+                                <td>24-nov</td>
+                                <td>Suiza - Camerún</td>
+                                <td>7:00</td>
+                                <td>Estadio Al Janoub</td>
+                                <td>G</td>
+                            </tr>
+                            <tr>
+                                <td>28-nov</td>
+                                <td>Brasil - Suiza</td>
+                                <td>13:00</td>
+                                <td>Estadio 974</td>
+                                <td>G</td>
+                            </tr>
+                            <tr>
+                                <td>28-nov</td>
+                                <td>Serbia - Camerún</td>
+                                <td>7:00</td>
+                                <td>Estadio Al Janoub</td>
+                                <td>G</td>
+                            </tr>
+                            <tr>
+                                <td>02-dic</td>
+                                <td>Brasil - Camerún</td>
+                                <td>16:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>G</td>
+                            </tr>
+                            <tr>
+                                <td>02-dic</td>
+                                <td>Serbia - Suiza</td>
+                                <td>16:00</td>
+                                <td>Estadio 974</td>
+                                <td>G</td>
+                            </tr>
+                            <tr>
+                                <td>24-nov</td>
+                                <td>Portugal - Ghana</td>
+                                <td>13:00</td>
+                                <td>Estadio 974</td>
+                                <td>H</td>
+                            </tr>
+                            <tr>
+                                <td>24-nov</td>
+                                <td>Uruguay - Corea del Sur</td>
+                                <td>10:00</td>
+                                <td>Estadio Ciudad de la Educación</td>
+                                <td>H</td>
+                            </tr>
+                            <tr>
+                                <td>28-nov</td>
+                                <td>Portugal - Uruguay</td>
+                                <td>16:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>H</td>
+                            </tr>
+                            <tr>
+                                <td>28-nov</td>
+                                <td>Ghana - Corea del Sur</td>
+                                <td>10:00</td>
+                                <td>Estadio Ciudad de la Educación</td>
+                                <td>H</td>
+                            </tr>
+                            <tr>
+                                <td>02-dic</td>
+                                <td>Portugal - Corea del Sur</td>
+                                <td>12:00</td>
+                                <td>Estadio Ciudad de la Educación</td>
+                                <td>H</td>
+                            </tr>
+                            <tr>
+                                <td>02-dic</td>
+                                <td>Ghana - Uruguay</td>
+                                <td>12:00</td>
+                                <td>Estadio Al Janoub</td>
+                                <td>H</td>
+                            </tr>
+                            <tr>
+                                <td>03-dic</td>
+                                <td>1A vs 2B</td>
+                                <td>12:00</td>
+                                <td>Estadio Internacional Khalifa</td>
+                                <td>OCTAVOS</td>
+                            </tr>
+                            <tr>
+                                <td>03-dic</td>
+                                <td>1C vs 2D</td>
+                                <td>16:00</td>
+                                <td>Estadio Ahmad Bin Ali</td>
+                                <td>OCTAVOS</td>
+                            </tr>
+                            <tr>
+                                <td>04-dic</td>
+                                <td>1D vs 2C</td>
+                                <td>12:00</td>
+                                <td>Estadio Al Thumama</td>
+                                <td>OCTAVOS</td>
+                            </tr>
+                            <tr>
+                                <td>04-dic</td>
+                                <td>1B vs 2A</td>
+                                <td>16:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>OCTAVOS</td>
+                            </tr>
+                            <tr>
+                                <td>05-dic</td>
+                                <td>1E vs 2F</td>
+                                <td>12:00</td>
+                                <td>Estadio Al Janoub</td>
+                                <td>OCTAVOS</td>
+                            </tr>
+                            <tr>
+                                <td>05-dic</td>
+                                <td>1G vs 2H</td>
+                                <td>16:00</td>
+                                <td>Estadio 974</td>
+                                <td>OCTAVOS</td>
+                            </tr>
+                            <tr>
+                                <td>06-dic</td>
+                                <td>1F vs 2E</td>
+                                <td>12:00</td>
+                                <td>Estadio Ciudad de la Educación</td>
+                                <td>OCTAVOS</td>
+                            </tr>
+                            <tr>
+                                <td>06-dic</td>
+                                <td>1H vs 2G</td>
+                                <td>16:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>OCTAVOS</td>
+                            </tr>
+                            <tr>
+                                <td>09-dic</td>
+                                <td>W53 vs W54</td>
+                                <td>12:00</td>
+                                <td>Estadio Ciudad de la Educación</td>
+                                <td>CUARTOS</td>
+                            </tr>
+                            <tr>
+                                <td>09-dic</td>
+                                <td>W49 vs W50</td>
+                                <td>16:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>CUARTOS</td>
+                            </tr>
+                            <tr>
+                                <td>10-dic</td>
+                                <td>W55 vs W56</td>
+                                <td>12:00</td>
+                                <td>Estadio Al Thumama</td>
+                                <td>CUARTOS</td>
+                            </tr>
+                            <tr>
+                                <td>10-dic</td>
+                                <td>W51 vs W52</td>
+                                <td>16:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>CUARTOS</td>
+                            </tr>
+                            <tr>
+                                <td>13-dic</td>
+                                <td>W57 vs W58</td>
+                                <td>16:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>SEMI FINAL</td>
+                            </tr>
+                            <tr>
+                                <td>14-dic</td>
+                                <td>W59 vs W60</td>
+                                <td>16:00</td>
+                                <td>Estadio Al Bayt</td>
+                                <td>SEMI FINAL</td>
+                            </tr>
+                            <tr>
+                                <td>17-dic</td>
+                                <td>L61 vs L62</td>
+                                <td>12:00</td>
+                                <td>Estadio Internacional Khalifa</td>
+                                <td>TERCER PUESTO</td>
+                            </tr>
+                            <tr>
+                                <td>18-dic</td>
+                                <td>W61 vs W62</td>
+                                <td>12:00</td>
+                                <td>Estadio Icónico de Lusail</td>
+                                <td>FINAL</td>
+                            </tr>
+                      
+                          </tbody>
+                        </table>
+                        <!-- TABLA FINALIZA -->
+                      </div>
+                    </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        <section class="clientes contenedor">
+          <a name="Entradas"></a>
+            <h2 class="titulo">Entradas</h2>    
+            <div class="galeria-port">
+                <div class="imagen-port">
+                    <div style="overflow-x:auto;">
+                        <table border="1"class="table table-striped">
+                            <thead>
+                              <tr style="text-align: right;"> 
+                                <th>TIPO DE PARTIDO</th>      
+                                <th>CAT 1</th>
+                                <th>CAT 2</th>
+                                <th>CAT 3</th>
+                                <th>RESIDENTES</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>Inaugural</td>
+                                <td>618</td>
+                                <td>440</td>
+                                <td>300</td>
+                                <td>55</td>
+                              </tr>
+                              <tr>
+                                <td>Fase de grupos</td>
+                                <td>220</td>
+                                <td>165</td>
+                                <td>69</td>
+                                <td>11</td>
+                              </tr>
+                              <tr>
+                                <td>Octavos de final</td>
+                                <td>275</td>
+                                <td>206</td>
+                                <td>96</td>
+                                <td>20</td>
+                              </tr>
+                              <tr>
+                                <td>Cuartos de final</td>
+                                <td>425</td>
+                                <td>290</td>
+                                <td>206</td>
+                                <td>82</td>
+                              </tr>
+                              <tr>
+                                <td>Semifinales</td>
+                                <td>955</td>
+                                <td>660</td>
+                                <td>357</td>
+                                <td>137</td>
+                              </tr>
+                              <tr>
+                                <td>Tercer puesto</td>
+                                <td>425</td>
+                                <td>302</td>
+                                <td>206</td>
+                                <td>82</td>
+                              </tr>
+                              <tr>
+                                <td>Final</td>
+                                <td>1600</td>
+                                <td>1000</td>
+                                <td>605</td>
+                                <td>206</td>
+                              </tr>
+                            </tbody>
+                          </table>
+                    </div>
+                    
+                    <div class="hover-galeria">
+                        <img src="img/icono1.png" alt="">
+                        <p>Individuales Fases</p>
+                    </div>
+                </div>
+            </div>
+            <span><h6>Valor expresado en USD</h6></span>
+        </section>
+        <section class="about-services">
+          <a name="SobreNos"></a>
+            <div class="contenedor">
+                <h2 class="titulo">Sobre Nosotros</h2>
+                <p>Somos estudiantes de la Tecnicatura de Ciencias de Datos e Inteligencia Artifical del Instituto Superior Politécnico Córdoba</p>
+                <div class="servicio-cont">
+                    <div class="servicio-ind">
+                      <a href="https://github.com/cchaconispc" target="_blank" rel="noopener noreferrer"><img src="img\claudio.png" alt=""></a>
+                        <h3>Chacon Claudio</h3>
+                        <p></p>
+                    </div>
+                    <div class="servicio-ind">
+                      <a href="https://github.com/krla2022" target="_blank" rel="noopener noreferrer"><img src="img\car.png" alt=""></a>
+                        <h3>Contreras Carla</h3>
+                        <p></p>
+                    </div>
+                    <div class="servicio-ind">
+                      <a href="https://github.com/MarceloGustavoCordoba" target="_blank" rel="noopener noreferrer"><img src="img\marce.png" alt=""></a>
+                        <h3>Cordoba Marcelo</h3>
+                        <p></p>
+                    </div>
+                    <div class="servicio-ind">
+                      <a href="https://github.com/nataliacuestas20" target="_blank" rel="noopener noreferrer"><img src="img\Naty.png" alt=""></a>
+                      <h3>Cuestas Natalia</h3>
+                      <p></p>
+                  </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>GitHub</h4>
+                <p><a href="https://github.com/ispc-programador2022/CCCC4" target="_blank" rel="noopener noreferrer"><img src="img\Github_logo_PNG20.png" alt=""></a></p>
+            </div>
+            <div class="content-foo">
+                <h4>Trello</h4>
+                <p><p><a href="https://trello.com/b/qRQ65fXL/mundial-qatar-2022-cccc4" target="_blank" rel="noopener noreferrer"><img src="img\Trello_logo_PNG6.png" alt="" ></a></p></p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy; Proyecto Integrador | CCC4 | ISPC Ciencias de Datos e IA</h2>
+    </footer>
+     
+</body>
+
+</html>
