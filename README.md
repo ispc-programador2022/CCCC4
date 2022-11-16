@@ -50,23 +50,23 @@
 <br>
 •	Fixture 
 <br>
-•	Información detallada de cada uno de los jugadores de cada selección
+•	Información detallada de los jugadores de cada selección
 <br>
-•	Valor de Mercado de los jugadores
+•	Valor de Mercado jugadores
 <br>
 •	Datos de demografía y población de los países participantes
 <br>
 
-<p>Una vez realizada la extracción de datos se exportan a csv, para luego crear la base de datos en SQL donde se realiza la unificación de la información.</p>
+<p>Una vez realizada la extracción de datos se exportan a csv, para luego crear la base de datos en SQL donde se realiza la unificación.</p>
 
-<p>Para el  informe se utilizó PowerBI para la confección de los Dashboards interactivos comparando los diferentes datos recolectados.</p>
+<p>En el informe se utilizó PowerBI para la confección de los Dashboards interactivos comparando los diferentes datos recolectados.</p>
 
 <h3 align="left">Como valor agregado creamos:</h3>
 •	Una aplicación ejecutable con Python la cual nos muestra un conteo regresivo para el inicio del Mundial.
 <br>
 •	Una Pagina Web con HTML y CSS donde se pueden visualizar nuestro trabajo realizado
 <br>
-<h3 align="left">Nuestro Proyecto fue llevado a cabo de manera colaborativa en la plataforma Trello para la gestión del mismo y flujo de trabajo cada uno con el rol que se le fue asignado:</h3>
+<h3 align="left">Nuestro Proyecto fue llevado a cabo de manera colaborativa en la plataforma Trello para la gestión del mismo y flujo de trabajo, cada uno con el rol que se le fue asignado:</h3>
 <br>
 -Chacon Claudio Gabriel: Administrador de Base de Datos (DBA)
 <br>
