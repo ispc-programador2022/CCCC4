@@ -45,7 +45,7 @@
 <p>https://www.fansapp.net/world-cup-tickets.html</p>
 
 <h3 align="left">El objetivo era recopilar datos como:</h3>
-<br>
+
 •	Valor de entradas generales y de reventa con apertura por partidos
 <br>
 •	Fixture 
@@ -56,11 +56,12 @@
 <br>
 •	Datos de demografía y población de los países participantes
 <br>
+
 <p>Una vez realizada la extracción de datos se exportan a csv, para luego crear la base de datos en SQL donde se realiza la unificación de la información.</p>
+
 <p>Para el  informe se utilizó PowerBI para la confección de los Dashboards interactivos comparando los diferentes datos recolectados.</p>
-<br>
+
 <h3 align="left">Como valor agregado creamos:</h3>
-<br>
 •	Una aplicación ejecutable con Python la cual nos muestra un conteo regresivo para el inicio del Mundial.
 <br>
 •	Una Pagina Web con HTML y CSS donde se pueden visualizar nuestro trabajo realizado
@@ -68,8 +69,11 @@
 <h3 align="left">Nuestro Proyecto fue llevado a cabo de manera colaborativa en la plataforma Trello para la gestión del mismo y flujo de trabajo cada uno con el rol que se le fue asignado:</h3>
 <br>
 #### Chacon Claudio Gabriel: Administrador de Base de Datos (DBA)
+<br>
 #### Contreras Carla Daniela: Web Scraper
+<br>
 #### Cordoba Marcelo Gustavo: Analista Power BI
+<br>
 #### Cuestas Natalia Noemi: Scrum Master (SM)
 <br>
 <p>Link de descarga de ejecutable Aplicación Contador:</p>
