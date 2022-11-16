@@ -26,37 +26,50 @@
 
 <br></br>
 
-##Desarrollo del Proyecto:
+## Desarrollo del Proyecto:
 Mediante la técnica de Web Scraping se extrajeron datos de diferentes páginas web relacionadas al Mundial Qatar 2022
-
+<br></br>
 Paginas utilizadas:
+<br></br>
 -https://www.goal.com/es-ar/noticias/boletos-mundial-qatar-2022-cuanto-cuestan-donde-comprar/xh01er94xekk1i4erzse4gndf
+<br></br>
 -https://www.transfermarkt.com.ar/argentina/kader/verein/3437/saison_id/2022/plus/1
+<br></br>
 -https://www.transfermarkt.com.ar/statistik/weltrangliste
+<br></br>
 -https://www.goal.com/es-ar/noticias/el-fixture-del-mundial-qatar-2022/bltdf3aa8843cf52580
+<br></br>
 -https://datosmacro.expansion.com/demografia/poblacion
+<br></br>
 -https://www.transfermarkt.com.ar
+<br></br>
 -https://www.fansapp.net/world-cup-tickets.html
 
-##El objetivo era recopilar datos como:
+## El objetivo era recopilar datos como:
 •	Valor de entradas generales y de reventa con apertura por partidos
 •	Fixture 
 •	Información detallada de cada uno de los jugadores de cada selección
 •	Valor de Mercado de los jugadores
 •	Datos de demografía y población de los países participantes
+<br></br>
 Una vez realizada la extracción de datos se exportan a csv, para luego crear la base de datos en SQL donde se realiza la unificación de la información.
 Para el  informe se utilizó PowerBI para la confección de los Dashboards interactivos comparando los diferentes datos recolectados.
+<br></br>
 Como valor agregado creamos:
+<br></br>
 •	Una aplicación ejecutable con Python la cual nos muestra un conteo regresivo para el inicio del Mundial.
+<br></br>
 •	Una Pagina Web con HTML y CSS donde se pueden visualizar nuestro trabajo realizado
+<br></br>
 Nuestro Proyecto fue llevado a cabo de manera colaborativa en la plataforma Trello para la gestión del mismo y flujo de trabajo cada uno con el rol que se le fue asignado:
-
-##Chacon Claudio Gabriel: Administrador de Base de Datos (DBA)
-##Contreras Carla Daniela: Web Scraper
-##Cordoba Marcelo Gustavo: Analista Power BI
-##Cuestas Natalia Noemi: Scrum Master (SM)
-
+<br></br>
+## Chacon Claudio Gabriel: Administrador de Base de Datos (DBA)
+## Contreras Carla Daniela: Web Scraper
+## Cordoba Marcelo Gustavo: Analista Power BI
+## Cuestas Natalia Noemi: Scrum Master (SM)
+<br></br>
 Link de descarga de ejecutable Aplicación Contador:
+<br></br>
 Link Página Web: 
 
 
