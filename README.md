@@ -23,9 +23,7 @@
 ### -[PySide6](https://pypi.org/project/PySide6/)
 ### - HTML
 ### - CSS
-
 <br></br>
-
 ## Desarrollo del Proyecto:
 #### Mediante la técnica de Web Scraping se extrajeron datos de diferentes páginas web relacionadas al Mundial Qatar 2022
 <br></br>
@@ -57,7 +55,7 @@
 •	Datos de demografía y población de los países participantes
 <br></br>
 #### Una vez realizada la extracción de datos se exportan a csv, para luego crear la base de datos en SQL donde se realiza la unificación de la información.
-Para el  informe se utilizó PowerBI para la confección de los Dashboards interactivos comparando los diferentes datos recolectados.
+#### Para el  informe se utilizó PowerBI para la confección de los Dashboards interactivos comparando los diferentes datos recolectados.
 <br></br>
 Como valor agregado creamos:
 <br></br>
@@ -75,7 +73,6 @@ Como valor agregado creamos:
 #### Link de descarga de ejecutable Aplicación Contador:
 <br></br>
 #### Link Página Web: 
-
 
 <br></br>
 # Consignas
