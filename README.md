@@ -68,13 +68,13 @@
 <br>
 <h3 align="left">Nuestro Proyecto fue llevado a cabo de manera colaborativa en la plataforma Trello para la gestión del mismo y flujo de trabajo cada uno con el rol que se le fue asignado:</h3>
 <br>
-#### Chacon Claudio Gabriel: Administrador de Base de Datos (DBA)
+-Chacon Claudio Gabriel: Administrador de Base de Datos (DBA)
 <br>
-#### Contreras Carla Daniela: Web Scraper
+-Contreras Carla Daniela: Web Scraper
 <br>
-#### Cordoba Marcelo Gustavo: Analista Power BI
+-Cordoba Marcelo Gustavo: Analista Power BI
 <br>
-#### Cuestas Natalia Noemi: Scrum Master (SM)
+-Cuestas Natalia Noemi: Scrum Master (SM)
 <br>
 <p>Link de descarga de ejecutable Aplicación Contador:</p>
 <p>Link Página Web:</p>
