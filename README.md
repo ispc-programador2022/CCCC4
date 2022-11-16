@@ -21,6 +21,44 @@
 ### -[Pathlib](https://docs.python.org/3/library/pathlib.html)
 ### -[Mysql-connector](https://pypi.org/project/mysql-connector-python)
 ### -[PySide6](https://pypi.org/project/PySide6/)
+### - HTML
+### - CSS
+
+<br></br>
+
+##Desarrollo del Proyecto:
+Mediante la técnica de Web Scraping se extrajeron datos de diferentes páginas web relacionadas al Mundial Qatar 2022
+
+Paginas utilizadas:
+-https://www.goal.com/es-ar/noticias/boletos-mundial-qatar-2022-cuanto-cuestan-donde-comprar/xh01er94xekk1i4erzse4gndf
+-https://www.transfermarkt.com.ar/argentina/kader/verein/3437/saison_id/2022/plus/1
+-https://www.transfermarkt.com.ar/statistik/weltrangliste
+-https://www.goal.com/es-ar/noticias/el-fixture-del-mundial-qatar-2022/bltdf3aa8843cf52580
+-https://datosmacro.expansion.com/demografia/poblacion
+-https://www.transfermarkt.com.ar
+-https://www.fansapp.net/world-cup-tickets.html
+
+##El objetivo era recopilar datos como:
+•	Valor de entradas generales y de reventa con apertura por partidos
+•	Fixture 
+•	Información detallada de cada uno de los jugadores de cada selección
+•	Valor de Mercado de los jugadores
+•	Datos de demografía y población de los países participantes
+Una vez realizada la extracción de datos se exportan a csv, para luego crear la base de datos en SQL donde se realiza la unificación de la información.
+Para el  informe se utilizó PowerBI para la confección de los Dashboards interactivos comparando los diferentes datos recolectados.
+Como valor agregado creamos:
+•	Una aplicación ejecutable con Python la cual nos muestra un conteo regresivo para el inicio del Mundial.
+•	Una Pagina Web con HTML y CSS donde se pueden visualizar nuestro trabajo realizado
+Nuestro Proyecto fue llevado a cabo de manera colaborativa en la plataforma Trello para la gestión del mismo y flujo de trabajo cada uno con el rol que se le fue asignado:
+
+##Chacon Claudio Gabriel: Administrador de Base de Datos (DBA)
+##Contreras Carla Daniela: Web Scraper
+##Cordoba Marcelo Gustavo: Analista Power BI
+##Cuestas Natalia Noemi: Scrum Master (SM)
+
+Link de descarga de ejecutable Aplicación Contador:
+Link Página Web: 
+
 
 <br></br>
 # Consignas
@@ -88,6 +126,3 @@
 ### BIBLIOTECA DEL PROYECTO
 #### Como todo proyecto colaborativo, buscamos fortalecernos e incrementar nuestras competencias entre todos y por ese motivo, los invito a que en conjunto vayamos creando la [biblioteca del proyecto](https://docs.google.com/spreadsheets/d/1ofo1QjRsTy0m038SJyxAdGpgdsNBCDDNBkpg5slrEug/edit?usp=sharing), es decir cada que un equipo encuentra un documento, código o video que consideren les ha resultado de interés para llevar adelante el proyecto, lo compartiremos en el siguiente documento colaborativo
 <br></br>
-## MANOS A LA OBRA
-### Estamos en el tramo final, así que manos a la obra y no demorar para alcanzar el objetivo en los plazos definidos.
-## Éxitos !!!
